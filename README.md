@@ -196,6 +196,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – Curated open-source broadcasting resources, including Animation, Graphics & Video Playout.
 - [Awesome NodeCG](https://github.com/nodecg/awesome-nodecg) – **Archived.** Community list of NodeCG bundles, utilities, examples, and resources.
 - [CasparCG Related Projects](https://github.com/CasparCG/help/wiki/Related-Projects) – Community-maintained index of clients, templates, libraries, and tools around CasparCG.
+- [ograf.dev Ecosystem](https://ograf.dev/ecosystem) – Independent directory of OGraf specifications, editors, controllers, renderers, post-production integrations, tools, templates, and services.
 
 ### Videos & Talks
 
