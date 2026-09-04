@@ -263,6 +263,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Authoring, Animation & Conversion
 
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) – **Commercial; subscription.** Motion-design and compositing application used by Bodymovin/Lottie and OGraf conversion workflows.
+
 ### Web Components & Graphics Libraries
 
 ### Data Visualization & Maps
