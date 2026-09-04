@@ -381,6 +381,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [HTML5 Animation Video Renderer](https://github.com/dtinth/html5-animation-video-renderer) – **Source available; no licence asserted. Experimental.** Captures HTML5 animation frame by frame for high-quality video encoding.
 - [Motion Canvas](https://motioncanvas.io/) – **Open source (MIT).** TypeScript and Canvas-based system for programmatic, timeline-controlled motion graphics and video.
 - [Puppeteer Capture](https://github.com/alexey-pelykh/puppeteer-capture) – **Open source (MIT).** Puppeteer plugin for capturing browser pages to video.
+- [Remotion](https://www.remotion.dev/) – **Source available; free for qualifying use.** React-based framework and rendering stack for programmatic video generation.
 
 ### Interactive & Player-side Graphics
 
