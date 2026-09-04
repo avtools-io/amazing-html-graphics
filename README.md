@@ -387,6 +387,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Interactive & Player-side Graphics
 
 - [Ease Live](https://www.easelive.tv/) – **Commercial; hosted/SaaS.** Interactive, player-side sports and broadcast overlays delivered across viewing devices.
+- [HbbTV](https://www.hbbtv.org/) – Hybrid broadcast/broadband specifications and ecosystem for interactive television applications and synchronized web experiences.
 
 ### Templates, Marketplaces & Services
 
