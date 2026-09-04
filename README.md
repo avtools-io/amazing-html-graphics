@@ -311,6 +311,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Open-source Graphics Systems
 
+- [CasparCG](https://casparcg.com/) – **Open source (GPL-3.0).** Graphics and video playout server with a Chromium HTML producer controlled through AMCP.
+
 ### Commercial & Cloud Graphics Platforms
 
 ### Browser-capable Production Hosts
