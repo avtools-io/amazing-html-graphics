@@ -82,6 +82,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Eyevinn OGraf Template Editor](https://github.com/Eyevinn/ograf-editor) – **Open source (MIT).** Browser-based visual editor with animation, data binding, preview, validation, and OGraf import/export.
 - [Keyframe Character Studio](https://github.com/ErtugrulAK/keyframe-character-studio) – **Open source (MIT). Experimental.** Browser motion-design sequencer and live director with an emerging OGraf export path.
 - [Loopic](https://www.loopic.io/ograf) – **Commercial; hosted/SaaS.** No-code HTML graphics editor with OGraf export and integrations for live graphics workflows.
+- [NoaCG Studio](https://github.com/miwco/NoaCG-Studio) – **Open source (AGPL-3.0).** Visual, code, and AI-assisted motion graphics authoring with multi-target export including OGraf.
 
 ### Development & Validation
 
