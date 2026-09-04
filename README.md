@@ -377,14 +377,16 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Newsroom, Rundown & Automation
 
-- [Bitfocus Companion](https://bitfocus.io/companion) – **Open core.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
-- [Bridge](https://github.com/SVT/bridge) – **Source available; no licence asserted.** Extensible SVT control client for real-time graphics systems.
-- [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) – **Open source (MIT).** Python GUI coordinating CasparCG playback and OBS Studio scene transitions.
-- [Cuez Automator](https://www.cuez.app/automator) – **Commercial; hosted/SaaS.** Rundown-driven automation with graphics and MOS connector workflows.
-- [Sofie MOS Connection](https://github.com/Sofie-Automation/sofie-mos-connection) – **Open source (MIT).** TypeScript implementation of MOS communications for newsroom and automation integrations.
-- [Sofie TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) – **Open source (MIT).** Rundown and device automation system with MOS and graphics integrations.
-- [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) – **Source available; licence unclear.** Desktop playout client controlling CasparCG, OBS, vMix, ATEM, OSC, and HTTP devices.
-- [Yle Caspartool](https://github.com/Yleisradio/caspartool) – **Source available; no licence asserted.** Browser controller for CasparCG HTML template graphics playout.
+- [Bitfocus Companion](https://bitfocus.io/companion) – **Open source (MIT).** **Control, integration.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
+- [Bridge](https://github.com/SVT/bridge) – **Open source (MIT).** **Authoring, control, integration.** Extensible SVT client for real-time graphics systems, including templates, timelines, triggers, and OSC.
+- [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) – **Open source (MIT).** **Control, integration.** Python GUI coordinating CasparCG playback and OBS Studio scene transitions.
+- [Cuez Automator](https://www.cuez.app/automator) – **Commercial; hosted/SaaS.** **Control, integration.** Rundown-driven automation with graphics and MOS connector workflows.
+- [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) – **Open source (GPL-2.0).** **Control, rendering, integration.** CasparCG-based master-control-room playout and automation system.
+- [Ross XPression MOS HTML5 Plugin](https://www.rossvideo.com/resources/ross-university/xpression-mos-html5-plugin/) – **Commercial.** **Authoring, control, integration.** Browser-based NRCS interface for selecting, editing, previewing, and adding XPression graphics to rundowns.
+- [Sofie MOS Connection](https://github.com/Sofie-Automation/sofie-mos-connection) – **Open source (MIT).** **Control, integration.** TypeScript implementation of MOS communications for newsroom and automation systems.
+- [Sofie TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) – **Open source (MIT).** **Control, integration.** Rundown and device automation system with MOS and graphics integrations.
+- [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) – **Open source (AGPL-3.0-or-later).** **Control, integration.** Desktop playout client for CasparCG, OBS, vMix, ATEM, OSC, and HTTP devices.
+- [Yle Caspartool](https://github.com/Yleisradio/caspartool) – **Open source (MIT).** **Control, integration.** Browser controller for CasparCG HTML-template graphics playout.
 
 ### Sports, Data & Audience Graphics
 
