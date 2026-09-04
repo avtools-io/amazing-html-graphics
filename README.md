@@ -244,6 +244,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) – HTTP API description format used by the OGraf Server API definition.
 - [Scalable Vector Graphics](https://www.w3.org/TR/SVG2/) – Vector graphics format widely used for resolution-independent broadcast artwork and animation.
 - [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) – DOM injection-sink controls that complement sanitisation and Content Security Policy.
+- [Web Animations](https://www.w3.org/TR/web-animations-1/) – Timing and animation model exposed through CSS animations/transitions and the Web Animations API.
 
 #### Media Transport, Colour & Safety
 
