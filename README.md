@@ -244,6 +244,7 @@ Software and product entries use bold labels to describe availability, delivery,
 - [CSS Font Loading](https://drafts.csswg.org/css-font-loading/) – API specification for controlling and observing font loading.
 - [Custom Elements](https://html.spec.whatwg.org/multipage/custom-elements.html) – WHATWG lifecycle and registration model underlying the Web Components exported by OGraf Graphics.
 - [ECMAScript Modules](https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html) – JavaScript module semantics used by OGraf entry points and modern graphics applications.
+- [HbbTV](https://www.hbbtv.org/) – Open specifications for interactive television applications and synchronized web experiences on broadcast and broadband services.
 - [JSON Schema 2020-12](https://json-schema.org/draft/2020-12) – Schema vocabulary on which OGraf Graphic data definitions are based.
 - [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) – HTTP API description format used by the OGraf Server API definition.
 - [Scalable Vector Graphics](https://www.w3.org/TR/SVG2/) – Vector graphics format widely used for resolution-independent broadcast artwork and animation.
@@ -418,8 +419,10 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Interactive & Player-side Graphics
 
-- [Ease Live](https://www.easelive.tv/) – **Commercial; hosted/SaaS.** Interactive, player-side sports and broadcast overlays delivered across viewing devices.
-- [HbbTV](https://www.hbbtv.org/) – Hybrid broadcast/broadband specifications and ecosystem for interactive television applications and synchronized web experiences.
+- [Ease Live](https://www.easelive.tv/) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Interactive, player-side sports and broadcast overlays delivered across viewing devices.
+- [PANDA Interactive](https://pandainteractive.com/product) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Timed and targeted clickable overlays for live and on-demand video players.
+- [Sport Buff](https://www.sportbuff.com/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Viewer-side polls, predictions, quizzes, commerce, and sponsor graphics across live and on-demand video.
+- [StreamLayer](https://www.streamlayer.io/) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** SDK-delivered interactive overlays and nonlinear live-moment graphics for web, mobile, and connected-TV video.
 
 ### Templates & Marketplaces
 
