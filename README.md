@@ -122,6 +122,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [Advanced Media Workflow Association](https://www.amwa.tv/) – Develops the open NMOS specifications used to discover, connect, and control professional IP-media systems.
 - [European Broadcasting Union](https://www.ebu.ch/) – Public-service media alliance responsible for OGraf and many broadcast technology recommendations.
+- [Society of Motion Picture and Television Engineers](https://www.smpte.org/) – Professional association and standards body for motion-imaging technology.
 
 ## Resources
 
