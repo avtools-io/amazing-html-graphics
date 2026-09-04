@@ -367,6 +367,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Sports, Data & Audience Graphics
 
 - [LIGR](https://www.ligrsystems.com/) – **Commercial; hosted/SaaS.** Automated, data-driven sports graphics platform for live streams and broadcast feeds.
+- [Viz Flowics Data Connectors](https://www.flowics.com/data-connectors) – **Commercial; hosted/SaaS.** Connectors for sports, weather, finance, elections, and social data used in HTML5 graphics.
 
 ### Post-production & NLE Integration
 
