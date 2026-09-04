@@ -345,6 +345,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [keyfillwebview](https://github.com/aDifferentJT/keyfillwebview) – **Source available; no licence asserted. Experimental.** Small browser renderer targeting separate key and fill output.
 - [Lawo HOME Graphic Inserter](https://lawo.com/products/home-graphic-inserter/) – **Commercial.** HTML5 graphics insertion application for HOME-based IP production workflows.
 - [Medialooks HTML5 Graphics](https://support.medialooks.com/hc/en-us/articles/360000210892-HTML5-graphics) – **Commercial.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
+- [RT Software Swift Engine](https://rtsw.co.uk/products/swift-engine/) – **Commercial.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
 
 ### Newsroom, Rundown & Automation
 
