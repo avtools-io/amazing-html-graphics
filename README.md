@@ -350,6 +350,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** NDI-oriented HTML5 graphics authoring and rendering system.
 - [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** Renders webpages to broadcast video with fill-and-key output options.
 - [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
+- [Vindral Composer](https://vindral.com/products/composer) – **Commercial; hosted/SaaS.** Browser-based graphics compositor for low-latency live-stream overlays.
 
 ### Newsroom, Rundown & Automation
 
