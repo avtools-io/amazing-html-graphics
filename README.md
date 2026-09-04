@@ -194,6 +194,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Lists & Landscapes
 
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – Curated open-source broadcasting resources, including Animation, Graphics & Video Playout.
+- [Awesome NodeCG](https://github.com/nodecg/awesome-nodecg) – **Archived.** Community list of NodeCG bundles, utilities, examples, and resources.
 
 ### Videos & Talks
 
