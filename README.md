@@ -322,6 +322,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** Cloud production and playout platform with HTML5 graphics applications.
 - [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** Browser-source overlay creation and control for streaming and live events.
 - [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
+- [Singular.live](https://www.singular.live/) – **Commercial; hosted/SaaS.** Cloud authoring and client-side rendering platform for data-driven HTML graphics.
 
 ### Browser-capable Production Hosts
 
