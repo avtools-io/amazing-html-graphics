@@ -223,6 +223,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 #### Newsroom, Automation & Control
 
+- [Advanced Media Control Protocol](https://github.com/CasparCG/help/wiki/AMCP-Protocol) – CasparCG command protocol used by many graphics controllers and automation systems.
+
 #### Web Platform
 
 #### Media Transport, Colour & Safety
