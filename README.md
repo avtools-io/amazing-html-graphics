@@ -339,6 +339,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Aveco CGManager](https://www.aveco.com/en/) – **Commercial.** Broadcast graphics management and playout integration with HTML template workflows.
 - [AWS Elemental Live](https://aws.amazon.com/elemental-live/) – **Commercial.** On-premises live encoder that can burn continuously published HTML5 motion overlays into outputs.
 - [AWS Elemental MediaLive](https://aws.amazon.com/medialive/) – **Commercial; hosted/SaaS.** Managed live encoding service with HTML5 motion-overlay support.
+- [Crystal Vision M-WEBKEY](https://crystalvision.tv/products/m-webkey.html) – **Commercial.** Hardware web-page keyer providing SDI fill/key and composited output.
 
 ### Newsroom, Rundown & Automation
 
