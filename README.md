@@ -278,6 +278,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
 - [Fabric.js](https://fabricjs.com/) – **Open source (MIT).** Interactive Canvas object model useful when building browser graphics editors.
 - [FAST](https://www.fast.design/) – **Open source (MIT).** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
+- [Konva](https://konvajs.org/) – **Open source (MIT).** Canvas framework for interactive 2D scene graphs and editor interfaces.
 
 ### Data Visualization & Maps
 
