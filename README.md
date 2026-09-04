@@ -393,5 +393,6 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [LottieFiles](https://lottiefiles.com/) – **Commercial; hosted/SaaS with free tier.** Lottie asset marketplace, editor, optimizer, testing tools, and hosted services.
 - [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** Ready-made SPX HTML graphics templates and design services.
+- [VideoHive Broadcast Packages](https://videohive.net/category/after-effects-project-files/broadcast-packages) – **Commercial marketplace.** After Effects broadcast packages that may serve as source artwork for supported conversion workflows.
 
 ### Related Animation, Graphics & Playout
