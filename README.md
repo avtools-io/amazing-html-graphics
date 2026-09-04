@@ -90,6 +90,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Development & Validation
 
+- [OGraf Devtool](https://github.com/SuperFlyTV/ograf-devtool) – **Open source (MIT).** Local and hosted harness for loading Graphics, exercising lifecycle methods, updating data, and checking behavior.
+
 ### Renderers, Servers & Controllers
 
 ### Examples & Templates
