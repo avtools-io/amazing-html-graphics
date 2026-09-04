@@ -281,6 +281,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Konva](https://konvajs.org/) – **Open source (MIT).** Canvas framework for interactive 2D scene graphs and editor interfaces.
 - [Lit](https://lit.dev/) – **Open source (BSD-3-Clause).** Lightweight library for standards-based Web Components, directly applicable to OGraf Graphic entry components.
 - [PixiJS](https://pixijs.com/) – **Open source (MIT).** GPU-accelerated 2D rendering engine for performant, data-driven browser graphics; integrates with GSAP through PixiPlugin.
+- [Stencil](https://stenciljs.com/) – **Open source (MIT).** Compiler and toolchain for reusable standards-based Web Components.
 
 ### Data Visualization & Maps
 
