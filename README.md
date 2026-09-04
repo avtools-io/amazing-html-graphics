@@ -201,6 +201,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Videos & Talks
 
 - [CasparCG HTML Templates: Basic Animated Lower Third](https://www.youtube.com/watch?v=2oJaECoOPoQ) – Geert Verhoeff, 11:00 — builds a basic animated lower third for CasparCG.
+- [HTML Graphics with Rive and CasparCG](https://www.youtube.com/watch?v=BnV55qu6vvg) – Aiden Wilson, 31:27 — tutorial for controlling a Rive animation in a CasparCG HTML template.
 
 ### Standards, Specifications & Protocols
 
