@@ -92,6 +92,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [OGraf Devtool](https://github.com/SuperFlyTV/ograf-devtool) – **Open source (MIT).** Local and hosted harness for loading Graphics, exercising lifecycle methods, updating data, and checking behavior.
 - [OGraf Form](https://github.com/SuperFlyTV/ograf-form) – **Open source (MIT).** Web Component and npm package that generates operator forms from OGraf/GDD schemas.
+- [OGraf Graphics Skill](https://github.com/heretorecord/ograf-graphics-skill) – **Open source (MIT).** Agent skill for scaffolding, packaging, and validating OGraf v1 Graphics.
 
 ### Renderers, Servers & Controllers
 
