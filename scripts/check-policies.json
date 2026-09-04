@@ -2,6 +2,7 @@
   "allowedResponses": [
     "401 https://www.aveco.com/en/",
     "403 https://community.rive.app/home",
+    "403 https://dizplai.com/live-graphics/",
     "403 https://doi.org/10.1177/19312431211039500",
     "403 https://doi.org/10.3390/jimaging12010045",
     "403 https://doi.org/10.3390/s22176542",

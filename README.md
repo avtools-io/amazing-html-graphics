@@ -333,13 +333,14 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Commercial & Cloud Graphics Platforms
 
-- [Dizplai](https://www.dizplai.com/) – **Commercial; hosted/SaaS.** Cloud live graphics, audience engagement, and data integration platform.
-- [Grabyo Producer](https://about.grabyo.com/live-cloud-production/) – **Commercial; hosted/SaaS.** Browser-based live production platform with HTML graphics and third-party graphics integrations.
-- [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** Cloud production and playout platform with HTML5 graphics applications.
-- [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** Browser-source overlay creation and control for streaming and live events.
-- [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
-- [Singular.live](https://www.singular.live/) – **Commercial; hosted/SaaS.** Cloud authoring and client-side rendering platform for data-driven HTML graphics.
-- [Viz Flowics](https://support.flowics.com/en/articles/15393380-what-is-viz-flowics) – **Commercial; hosted/SaaS.** Cloud-native HTML5 graphics with data connectors, APIs, MOS, and broadcast output integrations.
+- [Dizplai](https://dizplai.com/live-graphics/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud HTML5 graphics, audience engagement, and live-data platform.
+- [Grabyo Producer](https://about.grabyo.com/live-cloud-production/) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Browser-based live production platform with HTML graphics and third-party graphics integrations.
+- [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** **Authoring, control, rendering, integration.** Cloud production and playout platform with HTML5 graphics applications.
+- [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Browser-source overlay creation and control for streaming and live events.
+- [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** **Control, integration.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
+- [Singular.live](https://www.singular.live/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud platform for data-driven HTML graphics rendered on client devices or production outputs.
+- [SmartPanel](https://smartpanelapp.com/features) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Browser-based HTML5 graphics platform with templates, rundowns, live data, and browser-source output.
+- [Viz Flowics](https://support.flowics.com/en/articles/15393380-what-is-viz-flowics) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud-native HTML5 graphics with data connectors, APIs, MOS, and broadcast output integrations.
 
 ### Browser-capable Production Hosts
 
