@@ -179,6 +179,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [CasparCG Forum](https://casparcgforum.org/) – Community support forum for CasparCG playout, HTML templates, clients, and integrations.
 - [CasparCG GitHub Discussions](https://github.com/CasparCG/server/discussions) – Development and usage discussions attached to the CasparCG Server repository.
 - [D3 Community](https://d3js.org/community) – Official routes to D3 help, examples, discussions, and the Observable community.
+- [EBU OGraf Issues](https://github.com/ebu/ograf/issues) – Public specification questions, proposals, bug reports, and implementation discussions.
 
 ### Lists & Landscapes
 
