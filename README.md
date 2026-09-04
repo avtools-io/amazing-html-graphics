@@ -280,6 +280,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [FAST](https://www.fast.design/) – **Open source (MIT).** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
 - [Konva](https://konvajs.org/) – **Open source (MIT).** Canvas framework for interactive 2D scene graphs and editor interfaces.
 - [Lit](https://lit.dev/) – **Open source (BSD-3-Clause).** Lightweight library for standards-based Web Components, directly applicable to OGraf Graphic entry components.
+- [PixiJS](https://pixijs.com/) – **Open source (MIT).** GPU-accelerated 2D rendering engine for performant, data-driven browser graphics; integrates with GSAP through PixiPlugin.
 
 ### Data Visualization & Maps
 
