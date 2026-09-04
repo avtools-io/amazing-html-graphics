@@ -98,6 +98,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Renderers, Servers & Controllers
 
+- [DaVinci Resolve and Fusion Studio](https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_21_New_Features_Guide.pdf) – **Commercial; free edition available.** Version 21 introduced OGraf and Lottie support for editorial and compositing; verify version-specific requirements before deployment.
+
 ### Examples & Templates
 
 ## Organizations & Communities
