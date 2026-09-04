@@ -293,14 +293,20 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Data Visualization & Maps
 
-- [Apache ECharts](https://echarts.apache.org/) – **Open source (Apache-2.0).** Canvas/SVG charting library for dashboards, explainers, elections, weather, and sports data.
-- [Chart.js](https://www.chartjs.org/) – **Open source (MIT).** Canvas charting library for animated, responsive data graphics.
-- [D3](https://d3js.org/) – **Open source (ISC).** Low-level toolkit for binding data to DOM, SVG, and Canvas visualisations.
-- [everviz](https://www.everviz.com/) – **Commercial; hosted/SaaS.** No-code charts and maps platform with broadcast integrations including documented OGraf output.
-- [Leaflet](https://leafletjs.com/) – **Open source (BSD-2-Clause).** Lightweight interactive mapping library for location-based graphics.
-- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) – **Open source (BSD-3-Clause).** GPU-accelerated vector maps for animated geographic and data-driven graphics.
-- [Turf](https://turfjs.org/) – **Open source (MIT).** Geospatial analysis functions for preparing and animating map data in JavaScript.
-- [Vega-Lite](https://vega.github.io/vega-lite/) – **Open source (BSD-3-Clause).** Declarative grammar for repeatable, data-driven statistical graphics.
+- [Apache ECharts](https://echarts.apache.org/) – **Open source (Apache-2.0).** **Authoring, rendering, integration.** Canvas/SVG charting library for explainers, elections, weather, and sports data.
+- [Chart.js](https://www.chartjs.org/) – **Open source (MIT).** **Authoring, rendering, integration.** Canvas charting library for animated, responsive data graphics.
+- [D3](https://d3js.org/) – **Open source (ISC).** **Authoring, rendering, integration.** Low-level toolkit for binding data to DOM, SVG, and Canvas visualisations.
+- [Datawrapper](https://www.datawrapper.de/features) – **Commercial; hosted/SaaS with free tier.** **Authoring, export, integration.** No-code charts, maps, and tables with responsive embeds and static image, PDF, and SVG export options.
+- [everviz](https://www.everviz.com/) – **Commercial; hosted/SaaS.** **Authoring, export, integration.** No-code charts and maps platform with broadcast integrations including documented OGraf output.
+- [Flourish](https://flourish.studio/product/data-visualization/) – **Commercial; hosted/SaaS with free public tier.** **Authoring, export, rendering, integration.** Animated data-visualisation and storytelling platform with web embeds and plan-dependent video export.
+- [Highcharts](https://www.highcharts.com/products/maps/) – **Commercial; free non-commercial use.** **Authoring, rendering, integration.** JavaScript charting and mapping libraries for interactive and animated data graphics.
+- [Leaflet](https://leafletjs.com/) – **Open source (BSD-2-Clause).** **Authoring, rendering, integration.** Lightweight interactive mapping library for location-based graphics.
+- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/guides/get-started/) – **Commercial; source available.** **Authoring, rendering, integration.** WebGL vector-map library for animated and data-driven geographic graphics using Mapbox services.
+- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) – **Open source (BSD-3-Clause).** **Authoring, rendering, integration.** GPU-accelerated vector maps for animated geographic and data-driven graphics.
+- [Observable Plot](https://github.com/observablehq/plot) – **Open source (ISC).** **Authoring, rendering, integration.** Concise JavaScript grammar for layered, exploratory SVG and HTML data visualisations.
+- [Plotly.js](https://github.com/plotly/plotly.js) – **Open source (MIT).** **Authoring, rendering, integration.** Declarative JavaScript library for interactive statistical, scientific, and geographic charts.
+- [Turf](https://turfjs.org/) – **Open source (MIT).** **Authoring, integration.** Geospatial analysis functions for preparing and transforming map data in JavaScript.
+- [Vega-Lite](https://vega.github.io/vega-lite/) – **Open source (BSD-3-Clause).** **Authoring, rendering, integration.** Declarative grammar for repeatable, data-driven statistical graphics.
 
 ### Typography & Font Handling
 
