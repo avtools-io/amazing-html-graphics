@@ -163,6 +163,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Chrome DevTools Performance Reference](https://developer.chrome.com/docs/devtools/performance/reference) – Reference for recording and interpreting browser rendering, scripting, layout, paint, and frame performance.
 - [MDN Animation Performance](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Animation_performance_and_frame_rate) – Explains the browser rendering waterfall and why transform/opacity animations often avoid layout and paint.
 - [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) – Reference for scriptable 2D and WebGL drawing used by many HTML graphics runtimes.
+- [MDN CSS Font Loading API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API) – Reference for explicitly loading and checking fonts before playout or offline capture.
 
 ### Education & Tutorials
 
