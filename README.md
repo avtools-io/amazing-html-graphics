@@ -133,6 +133,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [EBU's Open Spec for Cross-Platform Graphics Integration](https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration) – Introduces OGraf goals, architecture, and multi-platform live and post-production use cases.
 - [NEP Finland LiveOS and SPX Case Study](https://www.spx.graphics/spx-graphics-helps-upgrade-finnish-lottery-production) – Vendor case study describing integrated HTML5 graphics for Lotto and Eurojackpot productions.
 - [OGraf Webinar Slide Deck](https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec) – EBU presentation explaining the HTML graphics specification, packaging, APIs, and intended workflows.
+- [SPX: How to Create HTML Graphics](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Overview) – Compares custom HTML, Lottie/After Effects, Loopic, and Rive authoring approaches for broadcast graphics.
 
 ### Scientific Literature & Theses
 
