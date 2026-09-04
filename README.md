@@ -227,6 +227,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Ember+](https://github.com/Lawo/ember-plus) – Open control protocol and implementation resources used in broadcast systems; it does not define graphics templates.
 - [MOS Protocol](https://mosprotocol.com/) – Newsroom object, rundown, status, and control protocol; MOS does not itself define a portable HTML Graphic.
 - [NMOS IS-04](https://specs.amwa.tv/is-04/) – Discovery and registration for networked media nodes, devices, sources, flows, senders, and receivers.
+- [NMOS IS-05](https://specs.amwa.tv/is-05/) – Connection management for establishing media flows between NMOS senders and receivers.
 
 #### Web Platform
 
