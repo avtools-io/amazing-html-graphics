@@ -24,6 +24,7 @@
     "500 https://www.neton.live/"
   ],
   "allowedCurlErrors": [
+    "92 https://helpx.adobe.com/animate/desktop/interactivity/creating-publishing-html5-canvas-document.html",
     "92 https://www.adobe.com/products/aftereffects.html"
   ],
   "retryStatusCodes": [

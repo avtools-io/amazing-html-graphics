@@ -267,15 +267,18 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Authoring, Animation & Conversion
 
-- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) – **Commercial; subscription.** Motion-design and compositing application used by Bodymovin/Lottie and OGraf conversion workflows.
-- [Anime.js](https://animejs.com/) – **Open source (MIT).** Lightweight JavaScript animation engine for DOM, SVG, and JavaScript objects.
-- [Blender](https://www.blender.org/) – **Open source (GPL-3.0-or-later).** 3D creation, animation, compositing, and video-editing suite useful for rendered assets and motion design.
-- [dotLottie](https://dotlottie.io/) – **Open source ecosystem.** Tools and runtimes for packaged Lottie animations, themes, state machines, and web playback.
-- [GSAP](https://gsap.com/) – **Source available; free to use under the Standard No Charge License.** Timeline animation toolkit for DOM, SVG, Canvas, and PixiJS graphics.
-- [Lottie-web](https://github.com/airbnb/lottie-web) – **Open source (MIT).** Web renderer and After Effects Bodymovin exporter for JSON vector animations.
-- [Motion](https://motion.dev/) – **Open source (MIT).** Web animation library for JavaScript, React, Vue, and browser-native animation APIs.
-- [Rive](https://rive.app/) – **Commercial authoring; open-source runtimes.** Interactive vector animation editor, state-machine format, and web runtimes.
-- [Theatre.js](https://www.theatrejs.com/) – **Open source (Apache-2.0).** Visual animation and sequencing environment for JavaScript, Three.js, and React projects.
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) – **Commercial; subscription.** **Authoring, export, integration.** Motion-design and compositing application used with Bodymovin/Lottie export and third-party OGraf conversion workflows.
+- [Adobe Animate](https://helpx.adobe.com/animate/desktop/interactivity/creating-publishing-html5-canvas-document.html) – **Commercial; subscription.** **Authoring, export.** Motion-graphics application that creates and publishes HTML5 Canvas documents driven by CreateJS.
+- [Anime.js](https://animejs.com/) – **Open source (MIT).** **Authoring, rendering.** JavaScript animation engine for DOM, SVG, and JavaScript objects.
+- [Cavalry](https://cavalry.studio/docs/user-interface/menus/window-menu/render-manager/lottie-export/) – **Commercial; free edition available.** **Authoring, export.** Procedural 2D motion-design application with documented Lottie JSON export and compatibility limits.
+- [dotLottie](https://dotlottie.io/) – **Open source ecosystem.** **Import, export, rendering, integration.** Format, tools, and runtimes for packaged Lottie animations, themes, state machines, and web playback.
+- [GSAP](https://gsap.com/) – **Source available; free to use under the Standard No Charge License.** **Authoring, rendering, integration.** Timeline animation toolkit for DOM, SVG, Canvas, and PixiJS graphics.
+- [Lottie-web](https://github.com/airbnb/lottie-web) – **Open source (MIT).** **Import, export, rendering.** Web renderer and After Effects Bodymovin exporter for JSON vector animations.
+- [Lottielab](https://docs.lottielab.com/export-and-hand-off/file-download/lottie-json-download) – **Commercial; hosted/SaaS with free tier.** **Authoring, export, rendering.** Browser-based motion-design tool with Lottie JSON export, hosted playback, and interactive animation features.
+- [Motion](https://motion.dev/) – **Open source (MIT).** **Authoring, rendering, integration.** Web animation library for JavaScript, React, Vue, and browser-native animation APIs.
+- [Rive](https://rive.app/) – **Commercial authoring; open-source runtimes.** **Authoring, export, rendering, integration.** Interactive vector-animation editor, state-machine format, and web runtimes.
+- [SVGator](https://www.svgator.com/help/export-and-file-formats/lottie-support-in-svgator) – **Commercial; hosted/SaaS.** **Authoring, export.** Browser-based SVG animation editor with SVG export and a documented beta Lottie export path.
+- [Theatre.js](https://www.theatrejs.com/) – **Open source (Apache-2.0).** **Authoring, control, rendering, integration.** Visual animation and sequencing environment for JavaScript, Three.js, and React projects.
 
 ### Web Components & Graphics Libraries
 
