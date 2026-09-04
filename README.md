@@ -234,6 +234,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 #### Web Platform
 
+- [Canvas 2D](https://html.spec.whatwg.org/multipage/canvas.html) – WHATWG definition of the immediate-mode 2D drawing surface used by browser graphics.
+
 #### Media Transport, Colour & Safety
 
 ## Tools & Products
