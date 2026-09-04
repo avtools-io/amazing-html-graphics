@@ -209,6 +209,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OGraf with SPX and Loopic](https://www.youtube.com/watch?v=P6VEWyv7-P0) – SPX Graphics, 1:43 — demonstrates moving a Loopic-authored OGraf Graphic into SPX.
 - [OGraf: An Open Specification for HTML-Based Graphics](https://www.youtube.com/watch?v=6IMGzvxe1AY) – smpteconnect, 42:47 — detailed technical presentation of OGraf.
 - [SPX-GC HTML Templates](https://www.youtube.com/watch?v=AdZATSBByng) – Tuomo Kulomaa, 5:03 — introduces the structure and use of SPX HTML templates.
+- [SPX-GC Overview](https://www.youtube.com/watch?v=e5LTFC9MlOI) – Tuomo Kulomaa, 6:53 — overview of the open-source SPX Graphics Controller.
 
 ### Standards, Specifications & Protocols
 
