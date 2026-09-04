@@ -182,6 +182,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [EBU OGraf Issues](https://github.com/ebu/ograf/issues) – Public specification questions, proposals, bug reports, and implementation discussions.
 - [GSAP Community](https://gsap.com/community/) – Official support forums and community resources for GSAP animation.
 - [LottieFiles Forum](https://forum.lottiefiles.com/) – Community support for Lottie authoring, rendering, formats, and integrations.
+- [MapLibre Community](https://maplibre.org/community/) – Official community page linking project meetings, Slack, and contributor channels.
 
 ### Lists & Landscapes
 
