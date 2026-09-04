@@ -312,6 +312,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Open-source Graphics Systems
 
 - [CasparCG](https://casparcg.com/) – **Open source (GPL-3.0).** Graphics and video playout server with a Chromium HTML producer controlled through AMCP.
+- [NodeCG](https://www.nodecg.dev/) – **Open source (MIT).** Node.js framework for browser-rendered broadcast graphics, dashboards, shared data, and operator control.
 
 ### Commercial & Cloud Graphics Platforms
 
