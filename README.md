@@ -68,6 +68,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Graphics, Schemas & APIs
 
+- [Graphics Data Definition](https://github.com/superflytv/GraphicsDataDefinition) – **Deprecated.** The predecessor data-description project incorporated into OGraf; useful for historical GDD templates and tools.
+
 ### Editors & Exporters
 
 ### Development & Validation
