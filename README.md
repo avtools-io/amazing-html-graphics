@@ -382,6 +382,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Motion Canvas](https://motioncanvas.io/) – **Open source (MIT).** TypeScript and Canvas-based system for programmatic, timeline-controlled motion graphics and video.
 - [Puppeteer Capture](https://github.com/alexey-pelykh/puppeteer-capture) – **Open source (MIT).** Puppeteer plugin for capturing browser pages to video.
 - [Remotion](https://www.remotion.dev/) – **Source available; free for qualifying use.** React-based framework and rendering stack for programmatic video generation.
+- [render-d3-video](https://github.com/russellsamora/render-d3-video) – **Open source (MIT). Experimental.** Utility for rendering D3 browser animations to video.
 
 ### Interactive & Player-side Graphics
 
