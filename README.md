@@ -405,12 +405,16 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### HTML-to-Video & Offline Rendering
 
-- [BeamToIX](https://github.com/a-bentofreire/beamtoix) – **Open source (MIT).** Frame-by-frame web animation framework with deterministic rendering and video-generation tooling.
-- [HTML5 Animation Video Renderer](https://github.com/dtinth/html5-animation-video-renderer) – **Source available; no licence asserted. Experimental.** Captures HTML5 animation frame by frame for high-quality video encoding.
-- [Motion Canvas](https://motioncanvas.io/) – **Open source (MIT).** TypeScript and Canvas-based system for programmatic, timeline-controlled motion graphics and video.
-- [Puppeteer Capture](https://github.com/alexey-pelykh/puppeteer-capture) – **Open source (MIT).** Puppeteer plugin for capturing browser pages to video.
-- [Remotion](https://www.remotion.dev/) – **Source available; free for qualifying use.** React-based framework and rendering stack for programmatic video generation.
-- [render-d3-video](https://github.com/russellsamora/render-d3-video) – **Open source (MIT). Experimental.** Utility for rendering D3 browser animations to video.
+- [BeamToIX](https://github.com/a-bentofreire/beamtoix) – **Open source (MIT).** **Authoring, export, rendering.** Frame-by-frame web animation framework with deterministic rendering and video-generation tooling.
+- [HTML5 Animation Video Renderer](https://github.com/dtinth/html5-animation-video-renderer) – **Source available; no licence asserted. Experimental.** **Import, export, rendering.** Captures HTML5 animation frame by frame for video encoding.
+- [HyperFrames](https://github.com/heygen-com/hyperframes) – **Open source (Apache-2.0).** **Authoring, export, rendering.** Deterministic HTML/CSS video renderer using explicit frame seeking, Chromium compositor capture, and FFmpeg.
+- [Kamishibai](https://github.com/reearth/kamishibai) – **Open source (MIT).** **Import, export, rendering, integration.** Renders seekable DOM, Canvas, WebGL, and React pages frame by frame to video or GIF.
+- [Motion Canvas](https://motioncanvas.io/) – **Open source (MIT).** **Authoring, export, rendering.** TypeScript and Canvas system for programmatic, timeline-controlled motion graphics and video.
+- [Puppeteer Capture](https://github.com/alexey-pelykh/puppeteer-capture) – **Open source (MIT).** **Import, export, rendering, integration.** Puppeteer plugin for capturing browser pages to video.
+- [Remotion](https://www.remotion.dev/) – **Source available; free for qualifying use.** **Authoring, export, rendering, integration.** React-based framework and rendering stack for programmatic video generation.
+- [render-d3-video](https://github.com/russellsamora/render-d3-video) – **Open source (MIT). Experimental.** **Import, export, rendering.** Utility for rendering D3 browser animations to video.
+- [Revideo](https://github.com/midrender/revideo) – **Open source (MIT).** **Authoring, export, rendering, integration.** TypeScript framework and headless-browser renderer for programmatic, data-driven video.
+- [Shotstack HTML5](https://help.shotstack.io/en/articles/16312767-migrating-from-the-html-asset-to-html5) – **Commercial; hosted/SaaS.** **Import, export, rendering, integration.** Cloud rendering API for deterministic HTML, CSS, JavaScript, GSAP, D3, and Lottie compositions.
 
 ### Interactive & Player-side Graphics
 
