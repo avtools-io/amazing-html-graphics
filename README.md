@@ -109,7 +109,7 @@ Software and product entries use bold labels to describe availability, delivery,
 - [ofxOGraf](https://github.com/Jonathhhan/ofxOGraf) – **Open source (MIT). Experimental.** openFrameworks authoring and runtime addon with native/Emscripten rendering, deterministic seeking, and an OGraf v1 Web Component.
 - [OGraf image-sequence renderer](https://github.com/pjaspinski/ograf-to-image-sequence-renderer) – **Open source (MIT). Experimental.** Small non-real-time renderer that saves an OGraf Graphic as a sequence of images.
 - [OGraf Simple Rendering System](https://github.com/SuperFlyTV/ograf-server) – **Open source (MIT).** Reference-oriented browser renderer, graphics manager, Server API implementation, and controller interface.
-- [SPX Graphics](https://www.spx.graphics/ograf) – **Open source (MIT); commercial editions available.** SPX-GC and associated products provide documented OGraf rendering and control for live and production workflows.
+- [SPX Graphics](https://spxgraphics.com/software/integrations#ograf) – **Open source (MIT); commercial editions available.** SPX-GC and associated products provide documented OGraf rendering and control for live and production workflows.
 
 ### Examples & Templates
 
@@ -136,7 +136,7 @@ Software and product entries use bold labels to describe availability, delivery,
 - [EBU's Open Spec for Cross-Platform Graphics Integration](https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration) – Introduces OGraf goals, architecture, and multi-platform live and post-production use cases.
 - [NEP Finland LiveOS and SPX Case Study](https://www.spx.graphics/spx-graphics-helps-upgrade-finnish-lottery-production) – Vendor case study describing integrated HTML5 graphics for Lotto and Eurojackpot productions.
 - [OGraf Webinar Slide Deck](https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec) – EBU presentation explaining the HTML graphics specification, packaging, APIs, and intended workflows.
-- [SPX: How to Create HTML Graphics](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Overview) – Compares custom HTML, Lottie/After Effects, Loopic, and Rive authoring approaches for broadcast graphics.
+- [SPX: How to Create HTML Graphics](https://docs.spxgraphics.com/Documentation/Graphic+Templates/Graphics+Creation/Overview) – Compares custom HTML, Lottie/After Effects, Loopic, and Rive authoring approaches for broadcast graphics.
 - [Using Singular in Post Production](https://support.singular.live/hc/en-us/articles/360055456751-Using-Singular-in-Post-Production-for-Windows) – Vendor workflow for recording browser-rendered graphics with transparency for Premiere Pro or After Effects.
 - [Vizrt's Guide to HTML5 Graphics](https://www.vizrt.com/ebooks/your-guide-to-html5-graphics-for-live-productions/) – Vendor guide to browser-rendered graphics in live production; treat performance and business claims as vendor-authored.
 
@@ -145,8 +145,8 @@ Software and product entries use bold labels to describe availability, delivery,
 - [A Cross-Device and Cross-OS Benchmark of Modern Web Animation Systems](https://doi.org/10.3390/jimaging12010045) – Peer-reviewed benchmark of modern web animation approaches across devices and operating systems.
 - [A Survey of Digital Television Interactivity Technologies](https://doi.org/10.3390/s22176542) – Peer-reviewed survey providing technical context for interactive television delivery and standards.
 - [Broadcast Media Creation as a Service](https://doi.org/10.5594/JMI.2020.3024028) – SMPTE paper on cloud-hosted, GPU-enabled media creation architecture.
-- [Henri Johansson's HTML5 Broadcast Graphics Thesis](https://www.theseus.fi/bitstream/10024/891614/2/Johansson_Henri.pdf) – 2025 thesis examining Yle workflows built around SPX, CasparCG, HTML, CSS, and JavaScript.
-- [Ismo Vaittinen's CasparCG Thesis](https://www.theseus.fi/bitstream/10024/113413/1/Vaittinen_Ismo.pdf) – 2016 thesis on an open-source graphics and video playout system for live production.
+- [Henri Johansson's HTML5 Broadcast Graphics Thesis](https://urn.fi/URN:NBN:fi:amk-2025052918037) – 2025 thesis examining Yle workflows built around SPX, CasparCG, HTML, CSS, and JavaScript.
+- [Ismo Vaittinen's CasparCG Thesis](https://urn.fi/URN:NBN:fi:amk-2016060612041) – 2016 thesis on an open-source graphics and video playout system for live production.
 - [Presentation Accuracy of the Web Revisited](https://doi.org/10.1371/journal.pone.0109812) – Peer-reviewed study of timing accuracy among HTML5-era browser animation methods.
 - [Television Infographics as Orienting Response](https://doi.org/10.1177/19312431211039500) – Peer-reviewed eye-tracking study of attention and recall around television infographics.
 - [Titling for Live Streaming and File-Based Broadcast Workflows](https://doi.org/10.5594/M001731) – SMPTE conference paper on reusable, data-driven titling across live and file-based outputs.
@@ -161,14 +161,14 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Documentation & Knowledge Sources
 
-- [CasparCG HTML Producer](https://github.com/CasparCG/server/wiki/HTML-Producer) – Technical notes for the Chromium-based CasparCG HTML producer.
+- [CasparCG HTML Producer](https://www.casparcg.com/docs/wiki/server/producers/html-producer) – Technical notes for the Chromium-based CasparCG HTML producer.
 - [CasparCG HTML Template Guide](https://chrisryanouellette.gitbook.io/casparcg-html-template-guide) – Community guide to the CasparCG HTML template lifecycle, data updates, and authoring patterns.
 - [Chrome DevTools Performance Reference](https://developer.chrome.com/docs/devtools/performance/reference) – Reference for recording and interpreting browser rendering, scripting, layout, paint, and frame performance.
 - [MDN Animation Performance](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Animation_performance_and_frame_rate) – Explains the browser rendering waterfall and why transform/opacity animations often avoid layout and paint.
 - [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) – Reference for scriptable 2D and WebGL drawing used by many HTML graphics runtimes.
 - [MDN CSS Font Loading API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API) – Reference for explicitly loading and checking fonts before playout or offline capture.
 - [MDN Custom Elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements) – Guide to defining the custom elements used as the packaging boundary for OGraf Graphics.
-- [SPX HTML Template Format](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Formats/HTML) – Documents SPX HTML/CSS/JavaScript templates, template definitions, and operator fields.
+- [SPX HTML Template Format](https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML) – Documents SPX HTML/CSS/JavaScript templates, template definitions, and operator fields.
 - [StreamShapers Documentation](https://streamshapers.com/docs) – Documentation and tutorials covering Ferryman, After Effects, OGraf, CasparCG, SPX, and HTML templates.
 
 ### Education & Tutorials
@@ -186,8 +186,8 @@ Software and product entries use bold labels to describe availability, delivery,
 - [GSAP Community](https://gsap.com/community/) – Official support forums and community resources for GSAP animation.
 - [LottieFiles Forum](https://forum.lottiefiles.com/) – Community support for Lottie authoring, rendering, formats, and integrations.
 - [MapLibre Community](https://maplibre.org/community/) – Official community page linking project meetings, Slack, and contributor channels.
-- [Motion Canvas Discord](https://github.com/motion-canvas/motion-canvas/discussions) – Official chat community for Motion Canvas code-driven animation.
-- [NodeCG Community](https://github.com/nodecg/nodecg#community) – Official repository section linking the NodeCG Discord and support channels.
+- [Motion Canvas Discussions](https://github.com/motion-canvas/motion-canvas/discussions) – Official discussion board for Motion Canvas code-driven animation.
+- [NodeCG Community](https://github.com/nodecg/nodecg) – Official repository linking the NodeCG Discord and support channels.
 - [PixiJS Discussions](https://github.com/pixijs/pixijs/discussions/) – Official discussion board for PixiJS rendering and development questions.
 - [Remotion Discord](https://www.remotion.dev/discord) – Official community chat for React-based video generation.
 - [Rive Community](https://community.rive.app/home) – Official discussion and support community for Rive authoring, runtimes, and integrations.
@@ -219,10 +219,10 @@ Software and product entries use bold labels to describe availability, delivery,
 
 #### Graphics & Template Interchange
 
-- [CasparCG HTML Template Interface](https://github.com/CasparCG/help/wiki/Template-Host-Commands) – The JavaScript host commands and callbacks used to control CasparCG HTML templates; it is not an OGraf package format.
+- [CasparCG HTML Template Interface](https://www.casparcg.com/docs/wiki/media/html-templates) – The JavaScript host commands and callbacks used to control CasparCG HTML templates; it is not an OGraf package format.
 - [dotLottie Specification](https://dotlottie.io/spec/) – Defines an archive format for bundling one or more Lottie animations with metadata and assets.
 - [Lottie Animation Format](https://lottie.github.io/lottie-spec/) – Community specification for portable vector animation data rendered by Lottie runtimes.
-- [SPX Template Definition](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Template%2BDefinition) – Product-specific metadata and data-field contract for SPX templates; it is distinct from OGraf.
+- [SPX Template Definition](https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML#Template+Definition) – Product-specific metadata and data-field contract for SPX templates; it is distinct from OGraf.
 
 #### Newsroom, Automation & Control
 
@@ -284,7 +284,7 @@ Software and product entries use bold labels to describe availability, delivery,
 
 - [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** **Rendering, integration.** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
 - [Fabric.js](https://fabricjs.com/) – **Open source (MIT).** **Authoring, rendering, integration.** Interactive Canvas object model for building browser graphics editors and compositors.
-- [FAST](https://www.fast.design/) – **Open source (MIT).** **Authoring, integration.** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
+- [FAST](https://fast.design/) – **Open source (MIT).** **Authoring, integration.** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
 - [Konva](https://konvajs.org/) – **Open source (MIT).** **Authoring, rendering, integration.** Canvas framework for interactive 2D scene graphs and graphics-editor interfaces.
 - [Lit](https://lit.dev/) – **Open source (BSD-3-Clause).** **Authoring, integration.** Lightweight library for standards-based Web Components, directly applicable to OGraf Graphic entry components.
 - [PixiJS](https://pixijs.com/) – **Open source (MIT).** **Rendering, integration.** GPU-accelerated 2D engine for performant, data-driven browser graphics, with GSAP integration through PixiPlugin.
@@ -335,7 +335,7 @@ Software and product entries use bold labels to describe availability, delivery,
 
 - [Dizplai](https://dizplai.com/live-graphics/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud HTML5 graphics, audience engagement, and live-data platform.
 - [Grabyo Producer](https://about.grabyo.com/live-cloud-production/) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Browser-based live production platform with HTML graphics and third-party graphics integrations.
-- [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** **Authoring, control, rendering, integration.** Cloud production and playout platform with HTML5 graphics applications.
+- [Grass Valley AMPP Playout X](https://www.grassvalley.com/products/ampp/playout-x/) – **Commercial; hosted and deployable services.** **Control, rendering, integration.** Cloud-native channel playout application with HTML5 graphics rendering and overlays.
 - [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Browser-source overlay creation and control for streaming and live events.
 - [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** **Control, integration.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
 - [Singular.live](https://www.singular.live/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud platform for data-driven HTML graphics rendered on client devices or production outputs.
@@ -348,7 +348,7 @@ Software and product entries use bold labels to describe availability, delivery,
 - [LiveU Studio](https://studiosupport.liveu.tv/hc/en-us/articles/17094646501659-Web-Page) – **Commercial; hosted/SaaS.** **Integration, rendering.** Cloud production switcher that accepts webpages as transparent HTML overlay sources.
 - [mimoLive Browser Capture](https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/) – **Commercial.** **Integration, rendering.** macOS live-production source that renders webpages and browser overlays.
 - [OBS Studio Browser Source](https://obsproject.com/kb/browser-source) – **Open source (GPL-2.0).** **Integration, rendering.** CEF source for local or remote HTML graphics; it can load an OGraf server renderer URL but does not import OGraf packages.
-- [TriCaster](https://www.vizrt.com/products/tricaster/) – **Commercial.** **Integration, rendering.** Live-production systems with webpage graphics workflows through HTML Buffer and Live Link integrations.
+- [TriCaster](https://www.vizrt.com/products/tricaster-family/) – **Commercial.** **Integration, rendering.** Live-production systems with webpage graphics workflows through HTML Buffer and Live Link integrations.
 - [vMix Web Browser Input](https://www.vmix.com/help29/WebBrowser.html) – **Commercial.** **Integration, rendering.** Chromium webpage input for HTML overlays; loading a renderer URL is not direct OGraf package support.
 - [Wirecast](https://support.telestream.net/s/article/Wirecast-Web-Display) – **Commercial.** **Integration, rendering.** Live-production application with web page and web display sources for browser graphics.
 - [XSplit Broadcaster](https://support.xsplit.com/en/article/webpage-1y1l6v/) – **Commercial; free edition available.** **Integration, rendering.** Windows live-production application with an interactive webpage source and custom CSS and JavaScript settings.
@@ -359,20 +359,20 @@ Software and product entries use bold labels to describe availability, delivery,
 - [AWS Elemental Live](https://aws.amazon.com/elemental-live/) – **Commercial.** **Control, rendering, integration.** On-premises live encoder that can burn a continuously published HTML5 motion overlay into encoded outputs.
 - [AWS Elemental MediaLive](https://docs.aws.amazon.com/medialive/latest/ug/feature-mgi.html) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Managed live encoding service with scheduled HTML5 motion-graphics overlays.
 - [ClassX LiveBoard](https://web.classx.it/products-liveboard) – **Commercial.** **Authoring, control, rendering, integration.** HTML5-oriented broadcast graphics platform with data-driven templates, MOS, and SDI/NDI fill-and-key output.
-- [Crystal Vision M-WEBKEY](https://crystalvision.tv/products/m-webkey.html) – **Commercial.** **Control, rendering, integration.** Hardware web-page keyer providing SDI fill/key and composited output.
+- [Crystal Vision M-WEBKEY](https://www.crystalvision.tv/wp/wp-content/uploads/2022/09/m-webkeymanual.pdf) – **Commercial.** **Control, rendering, integration.** Hardware web-page keyer providing SDI fill/key and composited output.
 - [Etere ETX](https://www.etere.com/DocView/8818/Etere-ETX-Graphics-Capabilities-with-HTML5.aspx) – **Commercial.** **Authoring, control, rendering, integration.** Channel-in-a-box and graphics engine with documented HTML5, WebGL, webpage-capture, and JavaScript control capabilities.
 - [gstcefsrc](https://github.com/centricular/gstcefsrc) – **Open source (LGPL-2.1).** **Rendering, integration.** GStreamer source element wrapping CEF to turn HTML and JavaScript pages into video and audio streams; it is not an OGraf server.
 - [keyfillwebview](https://github.com/aDifferentJT/keyfillwebview) – **Source available; no licence asserted. Experimental.** **Rendering, integration.** Small browser renderer targeting separate key and fill output.
 - [Lawo HOME Graphic Inserter](https://lawo.com/products/home-graphic-inserter/) – **Commercial.** **Control, rendering, integration.** HTML5 graphics insertion application for HOME-based IP production workflows.
 - [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** **Rendering, integration.** Node.js bindings for Blackmagic devices, with Electron and SVG paths for HTML/CSS/SVG graphics output.
 - [Medialooks HTML5 Graphics](https://medialooks.com/plugins/hmtl5) – **Commercial.** **Control, rendering, integration.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
-- [RT Software Swift Engine](https://rtsw.co.uk/products/swift-engine/) – **Commercial.** **Control, rendering, integration.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
+- [RT Software Swift Engine](https://rtsw.co.uk/all-products/swift-engine/) – **Commercial.** **Control, rendering, integration.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
 - [SDI-Ware](https://sdiware.video/) – **Commercial.** **Control, rendering, integration.** Software for rendering HTML graphics to professional video outputs.
 - [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** **Authoring, control, rendering, integration.** macOS HTML5 graphics system with NDI-oriented fill-and-key output.
-- [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** **Control, rendering, integration.** Renders transparent webpages to broadcast video with external fill-and-key options.
+- [Softron OnTheAir WebLink](https://softron.tv/products/play/ontheair-weblink) – **Commercial.** **Control, rendering, integration.** Renders transparent webpages to broadcast video with external fill-and-key options.
 - [ToolsOnAir HTML-based Graphic Templates](https://toolsonair.com/usermanuals/justplaylivepro2026/2-13-html-based-graphic-templates-2026.html) – **Commercial.** **Import, control, rendering, integration.** just:live and just:play workflow for external HTML graphics URLs with SDI fill/key and IP output paths.
-- [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** **Control, rendering, integration.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
-- [Vindral Composer](https://vindral.com/products/composer) – **Commercial; hosted/SaaS.** **Authoring, rendering, integration.** Browser-based graphics compositor for low-latency live-stream overlays.
+- [Videon LiveEdge Graphix](https://www.videonlabs.com/liveedge-graphix) – **Commercial.** **Control, rendering, integration.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
+- [Vindral Composer](https://vindral.com/composer/) – **Commercial; hosted/SaaS.** **Authoring, rendering, integration.** Browser-based graphics compositor for low-latency live-stream overlays.
 - [Viz Connect Tetra](https://www.vizrt.com/products/viz-connect-tetra/tech-specs/) – **Commercial.** **Import, rendering, integration.** Appliance that converts supported Viz Flowics HTML5 sources to NDI or SDI, including fill-and-key.
 
 ### Newsroom, Rundown & Automation
@@ -380,7 +380,7 @@ Software and product entries use bold labels to describe availability, delivery,
 - [Bitfocus Companion](https://bitfocus.io/companion) – **Open source (MIT).** **Control, integration.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
 - [Bridge](https://github.com/SVT/bridge) – **Open source (MIT).** **Authoring, control, integration.** Extensible SVT client for real-time graphics systems, including templates, timelines, triggers, and OSC.
 - [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) – **Open source (MIT).** **Control, integration.** Python GUI coordinating CasparCG playback and OBS Studio scene transitions.
-- [Cuez Automator](https://www.cuez.app/automator) – **Commercial; hosted/SaaS.** **Control, integration.** Rundown-driven automation with graphics and MOS connector workflows.
+- [Cuez Automator](https://cuez.app/products/automator/) – **Commercial; hosted/SaaS.** **Control, integration.** Rundown-driven automation with graphics and MOS connector workflows.
 - [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) – **Open source (GPL-2.0).** **Control, rendering, integration.** CasparCG-based master-control-room playout and automation system.
 - [Ross XPression MOS HTML5 Plugin](https://www.rossvideo.com/resources/ross-university/xpression-mos-html5-plugin/) – **Commercial.** **Authoring, control, integration.** Browser-based NRCS interface for selecting, editing, previewing, and adding XPression graphics to rundowns.
 - [Sofie MOS Connection](https://github.com/Sofie-Automation/sofie-mos-connection) – **Open source (MIT).** **Control, integration.** TypeScript implementation of MOS communications for newsroom and automation systems.
@@ -395,13 +395,13 @@ Software and product entries use bold labels to describe availability, delivery,
 - [OBScoreboard](https://obscoreboard.com/use-cases/sports-overlays-for-broadcasters/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Browser-based scoreboards and sports overlays with branding, remote operation, and API workflows.
 - [Opta Graphics](https://www.statsperform.com/products/opta-graphics/) – **Commercial.** **Authoring, rendering, integration.** Template-driven sports graphics powered by live Opta data for broadcast and digital outputs.
 - [Tagboard](https://tagboard.com/modern-interactive-graphics-system/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud graphics and audience-engagement platform with social, interactive, and sports-data integrations.
-- [Viz Flowics Data Connectors](https://www.flowics.com/data-connectors) – **Commercial; hosted/SaaS.** **Control, integration.** Connectors for sports, weather, finance, elections, and social data used in HTML5 graphics.
+- [Viz Flowics Data Connectors](https://www.flowics.com/data-driven-graphics/) – **Commercial; hosted/SaaS.** **Control, integration.** Connectors for sports, weather, finance, elections, and social data used in HTML5 graphics.
 
 ### Post-production & NLE Integration
 
 - [MXMZ](https://www.mxmz.com/products/nle-mam) – **Commercial.** **Authoring, import, control, rendering, integration.** HTML graphics workflow with a Premiere Pro panel and media-asset-management integration.
 - [Singular Recast](https://www.singular.live/recast) – **Commercial; free utility.** **Import, export, rendering, integration.** Windows application for rendering Singular graphics to NDI and recording transparent files for NLE and compositing use.
-- [SPX Adobe Premiere Pro Workflow](https://docs.spxgraphics.com/Documentation/Renderer/Workflows/Adobe%2BPremiere%2BPro) – **Commercial; Broadcast edition.** **Import, control, rendering, integration.** Places SPX-rendered HTML or OGraf graphics into Premiere Pro and file-based finishing workflows.
+- [SPX NLE Integration](https://spxgraphics.com/software/more#nle) – **Commercial; Production or Broadcast edition.** **Import, control, rendering, integration.** Connects SPX-rendered HTML or OGraf graphics with Adobe Premiere Pro and file-based finishing workflows.
 
 ### HTML-to-Video & Offline Rendering
 

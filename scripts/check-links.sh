@@ -226,9 +226,9 @@ LINK_CHECK_LOCK_DIR=$tmp_dir/host-locks
 export LINK_CHECK_LOCK_DIR
 mkdir "$LINK_CHECK_LOCK_DIR"
 
-# README links use ordinary Markdown syntax. Extract unique web URLs while
-# excluding surrounding Markdown delimiters and whitespace.
-LC_ALL=C grep -Eo 'https?://[^][()<>[:space:]]+' "$markdown_file" \
+# Markdown links and audit entries may use ordinary link syntax or inline code.
+# Extract unique web URLs while excluding delimiters, backticks and whitespace.
+LC_ALL=C grep -Eo 'https?://[^][()<>`[:space:]]+' "$markdown_file" \
     | LC_ALL=C sort -u > "$urls_file"
 
 url_count=$(wc -l < "$urls_file" | tr -d ' ')

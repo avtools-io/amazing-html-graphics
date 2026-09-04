@@ -1,6 +1,5 @@
 {
   "allowedResponses": [
-    "401 https://www.aveco.com/en/",
     "403 https://community.rive.app/home",
     "403 https://dizplai.com/live-graphics/",
     "403 https://doi.org/10.1177/19312431211039500",
@@ -8,7 +7,6 @@
     "403 https://doi.org/10.3390/s22176542",
     "403 https://lottiefiles.com/",
     "403 https://motionarray.com/",
-    "403 https://support.medialooks.com/hc/en-us/articles/360000210892-HTML5-graphics",
     "403 https://support.singular.live/hc/en-us/articles/360055456751-Using-Singular-in-Post-Production-for-Windows",
     "403 https://tech.ebu.ch/groups/html_graphics",
     "403 https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration",
@@ -17,11 +15,9 @@
     "403 https://tech.ebu.ch/publications/r143",
     "403 https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec",
     "403 https://videohive.net/category/after-effects-project-files/broadcast-packages",
-    "403 https://www.dizplai.com/",
     "403 https://www.ebu.ch/",
     "403 https://www.npmjs.com/package/ograf",
     "403 https://www.researchgate.net/publication/319442826_TV_Graphics_Personalization_Using_In-Band_Events",
-    "404 https://github.com/avtools-io/amazing-html-graphics/issues",
     "429 https://search.worldcat.org/title/61711466",
     "500 https://www.neton.live/"
   ],
