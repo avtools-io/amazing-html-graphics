@@ -344,6 +344,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [gstcefsrc](https://github.com/centricular/gstcefsrc) – **Open source (LGPL-2.1).** GStreamer source element wrapping CEF to turn HTML and JavaScript pages into video and audio streams; it is a building block rather than an OGraf server.
 - [keyfillwebview](https://github.com/aDifferentJT/keyfillwebview) – **Source available; no licence asserted. Experimental.** Small browser renderer targeting separate key and fill output.
 - [Lawo HOME Graphic Inserter](https://lawo.com/products/home-graphic-inserter/) – **Commercial.** HTML5 graphics insertion application for HOME-based IP production workflows.
+- [Medialooks HTML5 Graphics](https://support.medialooks.com/hc/en-us/articles/360000210892-HTML5-graphics) – **Commercial.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
 
 ### Newsroom, Rundown & Automation
 
