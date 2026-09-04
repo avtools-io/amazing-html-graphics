@@ -116,6 +116,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Lotties for Broadcast](https://github.com/Streamshapers/LottiesForBroadcast) – **Source available; no licence asserted.** Example Lottie animations and templates for Ferryman, SPX, and CasparCG workflows.
 - [OGraf over dash.js](https://github.com/ryanmccartney/ograf-dash.js) – **Source available; no licence asserted. Proof of concept.** Demonstrates an OGraf overlay rendered over a dash.js video player.
 - [Resolve OGraf Developer Documentation](https://github.com/jdanna/Resolve_Tools_Public/tree/main/docs/OGraf%20HTML%20Templates) – **Source available; no licence asserted. Community documentation.** Unofficial Resolve OGraf integration notes, starter templates, and examples.
+- [Resolve OGraf Examples](https://github.com/mug-lab-3/resolve-ograf) – **Source available; licence unclear. Experimental.** Learning examples for Resolve OGraf Titles whose author explicitly advises against production use.
 
 ## Organizations & Communities
 
