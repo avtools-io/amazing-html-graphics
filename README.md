@@ -1,16 +1,20 @@
 # Amazing HTML Graphics
 
-A curated list for broadcast and motion-picture technicians and engineers, creative media professionals, and media-focused software developers working with HTML graphics and [EBU OGraf](https://ograf.ebu.io/) across live production, streaming, post-production, film, and documentary workflows.
+A curated resource list primarily for broadcast engineers, software developers, and systems integrators who build and maintain graphics systems. It also serves motion designers, graphics operators, and post-production professionals who create and deliver graphics.
 
-It covers authoring, animation, data visualisation, templates, validation, control, rendering, compositing, playout, transport, offline rendering, standards, software, services, research, and learning resources.
+Centered on [EBU OGraf](https://ograf.ebu.io/), the list covers HTML-based graphics across live broadcast, streaming, post-production, film, and documentary workflows.
 
-**Contributions are welcome.** You do not need to know Git to suggest a resource: read the [contribution guide](CONTRIBUTING.md), open an [issue](https://github.com/avtools-io/amazing-html-graphics/issues), or submit one focused pull request per entry.
+Coverage follows the graphics workflow—from authoring, animation, and data visualisation through template packaging, validation, control, rendering, compositing, playout, and delivery—and extends to post-production and offline rendering. The list also brings together relevant standards, tools and products, research, case studies, documentation, and training.
 
-This list is inspired by [Amazing Digital Cinema](https://github.com/avtools-io/amazing-digital-cinema), the direct blueprint for its editorial style and maintenance workflow; [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting), especially its Animation, Graphics & Video Playout section; and the wider [Awesome](https://github.com/sindresorhus/awesome) project. It is called “Amazing” because useful commercial and non-open-source resources are welcome alongside open-source projects.
+**Contributions are welcome.** Suggest a resource by [opening an issue](https://github.com/avtools-io/amazing-html-graphics/issues)—no Git experience is required. To contribute directly, read the [contribution guide](CONTRIBUTING.md) and submit one focused pull request per resource entry.
 
-HTML or browser support does not by itself mean OGraf compatibility. Entries describe whether a resource authors, imports, renders, controls, or demonstrates OGraf; merely hosting an OGraf renderer URL is identified separately.
+Amazing HTML Graphics follows the model of [Amazing Digital Cinema](https://github.com/avtools-io/amazing-digital-cinema) and draws inspiration from [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) and the wider [Awesome](https://github.com/sindresorhus/awesome) project. Some Awesome lists focus exclusively on open-source projects.
 
-Software and product descriptions begin with availability/deployment labels: **Open source** includes a verified licence where practical; **Source available** is not necessarily open source; **Commercial** covers proprietary products and services; **Hosted/SaaS**, **Open core**, and **Freeware** provide additional context. Qualifiers such as **Experimental**, **Beta**, **Archived**, and **Deprecated** indicate maturity rather than licensing.
+Professional HTML graphics spans a broader ecosystem: open standards, open-source software, commercial and hosted products, marketplaces, research, education, communities, and production knowledge. To reflect this scope while respecting open-source-only Awesome lists, this project is called “Amazing” rather than “Awesome.”
+
+**How to read the entries.** Inclusion means that a resource is relevant to professional HTML graphics; it does not imply OGraf support. When an OGraf relationship is documented, the description identifies its role, such as **authoring**, **export**, **import**, **validation**, **control**, **rendering**, or **demonstration**. Loading an OGraf renderer URL through a browser source is treated as **integration**, not direct OGraf support.
+
+Software and product entries use bold labels to describe availability, delivery, and maturity. **Open source** includes a verified licence where practical; **Source available** does not imply an open-source licence. **Commercial**, **Hosted/SaaS**, **Open core**, and **Freeware** describe availability or delivery, while **Experimental**, **Beta**, **Archived**, and **Deprecated** describe maturity.
 
 ## Contents
 
