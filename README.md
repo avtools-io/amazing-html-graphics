@@ -397,3 +397,6 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Xperity](https://xperity.io/) – **Commercial consulting.** Software engineering consultancy listed by the independent ograf.dev directory as offering OGraf migration and integration services; confirm project scope directly.
 
 ### Related Animation, Graphics & Playout
+
+- [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system carried over from Awesome Broadcasting.
+
