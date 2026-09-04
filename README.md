@@ -129,6 +129,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Articles & Case Studies
 
+- [AWS HTML5 Motion Overlay Walkthrough](https://docs.aws.amazon.com/elemental-live/latest/ug/how-to-insert-a-motion-overlay-with-html5.html) – Shows how AWS Elemental Live burns a continuously published HTML5 motion overlay into encoded outputs.
+
 ### Scientific Literature & Theses
 
 ### Books
