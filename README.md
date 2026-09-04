@@ -310,8 +310,9 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Typography & Font Handling
 
-- [Fitty](https://rikschennink.github.io/fitty/) – **Open source (MIT).** Fits dynamic text into its container, useful for unpredictable names, headlines, and scores.
-- [opentype.js](https://opentype.js.org/) – **Open source (MIT).** Parses and manipulates OpenType fonts and glyph paths in the browser.
+- [Fitty](https://rikschennink.github.io/fitty/) – **Open source (MIT).** **Rendering, integration.** Fits dynamic text into its container for unpredictable names, headlines, and scores.
+- [Font Face Observer](https://github.com/bramstein/fontfaceobserver) – **Open source (BSD-3-Clause).** **Validation, integration.** Promise-based library for detecting when web fonts have loaded before graphics are played or captured.
+- [opentype.js](https://opentype.js.org/) – **Open source (MIT).** **Authoring, rendering, integration.** Parses and manipulates OpenType fonts and glyph paths in the browser.
 
 ### Testing, Performance & Security
 
