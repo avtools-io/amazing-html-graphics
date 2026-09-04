@@ -392,5 +392,6 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Templates, Marketplaces & Services
 
 - [LottieFiles](https://lottiefiles.com/) – **Commercial; hosted/SaaS with free tier.** Lottie asset marketplace, editor, optimizer, testing tools, and hosted services.
+- [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** Ready-made SPX HTML graphics templates and design services.
 
 ### Related Animation, Graphics & Playout
