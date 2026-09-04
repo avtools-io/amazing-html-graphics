@@ -200,6 +200,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Videos & Talks
 
+- [CasparCG HTML Templates: Basic Animated Lower Third](https://www.youtube.com/watch?v=2oJaECoOPoQ) – Geert Verhoeff, 11:00 — builds a basic animated lower third for CasparCG.
+
 ### Standards, Specifications & Protocols
 
 #### Graphics & Template Interchange
