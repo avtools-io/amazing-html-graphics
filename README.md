@@ -326,9 +326,10 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Open-source Graphics Systems
 
-- [CasparCG](https://casparcg.com/) – **Open source (GPL-3.0).** Graphics and video playout server with a Chromium HTML producer controlled through AMCP.
-- [NodeCG](https://www.nodecg.dev/) – **Open source (MIT).** Node.js framework for browser-rendered broadcast graphics, dashboards, shared data, and operator control.
-- [WebLinked](https://github.com/stoatworks-labs/weblinked) – **Open source (MIT).** CEF URL renderer with DeckLink/AJA SDI, NDI, OMT, fullscreen, HTTP, and OSC outputs.
+- [CasparCG](https://casparcg.com/) – **Open source (GPL-3.0).** **Import, control, rendering, integration.** Graphics and video playout server with a Chromium HTML producer controlled through AMCP.
+- [DenoCG](https://github.com/suitougreentea/denocg) – **Open source (MIT). Experimental proof of concept.** **Authoring, control, rendering, integration.** Deno and browser framework for broadcast graphics, positioned as a typed NodeCG alternative.
+- [NodeCG](https://www.nodecg.dev/) – **Open source (MIT).** **Authoring, control, rendering, integration.** Node.js framework for browser-rendered broadcast graphics, dashboards, and shared data.
+- [WebLinked](https://github.com/stoatworks-labs/weblinked) – **Open source (MIT).** **Control, rendering, integration.** CEF URL renderer with DeckLink/AJA SDI, NDI, OMT, fullscreen, HTTP, and OSC outputs.
 
 ### Commercial & Cloud Graphics Platforms
 
