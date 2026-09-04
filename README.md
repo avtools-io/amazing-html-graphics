@@ -264,6 +264,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Authoring, Animation & Conversion
 
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) – **Commercial; subscription.** Motion-design and compositing application used by Bodymovin/Lottie and OGraf conversion workflows.
+- [Anime.js](https://animejs.com/) – **Open source (MIT).** Lightweight JavaScript animation engine for DOM, SVG, and JavaScript objects.
 
 ### Web Components & Graphics Libraries
 
