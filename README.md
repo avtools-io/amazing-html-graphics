@@ -193,6 +193,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Lists & Landscapes
 
+- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – Curated open-source broadcasting resources, including Animation, Graphics & Video Playout.
+
 ### Videos & Talks
 
 ### Standards, Specifications & Protocols
