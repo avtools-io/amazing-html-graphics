@@ -304,6 +304,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [Ajv](https://ajv.js.org/) – **Open source (MIT).** JSON Schema validator suitable for OGraf manifests, data, and generated operator forms.
 - [BackstopJS](https://github.com/garris/BackstopJS) – **Open source (MIT).** Browser screenshot regression testing for graphics at controlled viewports and states.
+- [DOMPurify](https://github.com/cure53/DOMPurify) – **Open source (Apache-2.0 OR MPL-2.0).** DOM-only sanitizer for untrusted operator, newsroom, and remote HTML data.
 
 ### Open-source Graphics Systems
 
