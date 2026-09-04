@@ -426,9 +426,11 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Templates & Marketplaces
 
-- [LottieFiles](https://lottiefiles.com/) – **Commercial; hosted/SaaS with free tier.** Lottie asset marketplace, editor, optimizer, testing tools, and hosted services.
-- [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** Ready-made SPX HTML graphics templates and design services.
-- [VideoHive Broadcast Packages](https://videohive.net/category/after-effects-project-files/broadcast-packages) – **Commercial marketplace.** After Effects broadcast packages that may serve as source artwork for supported conversion workflows.
+- [LottieFiles](https://lottiefiles.com/) – **Commercial; hosted/SaaS with free tier.** **Import, export, integration.** Marketplace and toolset for Lottie assets, editing, optimization, testing, and hosted delivery.
+- [Motion Array](https://motionarray.com/) – **Commercial marketplace; subscription.** **Import, integration.** Stock motion-graphics library with After Effects broadcast packages, lower thirds, titles, and channel-branding assets.
+- [Rive Marketplace](https://rive.app/docs/community/marketplace-overview) – **Commercial marketplace.** **Import, integration.** Community marketplace for reusable interactive Rive animations and components.
+- [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** **Import, integration.** Ready-made SPX HTML and OGraf templates for broadcast and streaming workflows.
+- [VideoHive Broadcast Packages](https://videohive.net/category/after-effects-project-files/broadcast-packages) – **Commercial marketplace.** **Import, integration.** After Effects broadcast packages that can supply source artwork for supported HTML and OGraf conversion workflows.
 
 ### Related Animation, Graphics & Playout
 
