@@ -74,7 +74,7 @@ The initial README should investigate and, where canonical documentation remains
 - [OGraf project site](https://ograf.ebu.io/).
 - [ebu/ograf](https://github.com/ebu/ograf) specification repository, changelog, issues, JSON Schemas, Server API OpenAPI document, TypeScript definitions, and examples.
 - [`ograf` npm package](https://www.npmjs.com/package/ograf) containing informative TypeScript definitions for the Graphics and Server APIs.
-- [EBU HTML Graphics Working Group](https://tech.ebu.ch/groups/html_graphics).
+- [EBU HTML Graphics Working Group](https://tech.ebu.ch/groups/html-graphics).
 - EBU's 2025 article and webinar slide deck introducing cross-platform HTML graphics.
 
 #### Editors, authoring tools, and converters
@@ -704,328 +704,340 @@ The initial implementation is ready for review when:
 5. **Automation:** keep the blueprint's local link checker only for v1 (recommended), or add a scheduled/manual GitHub Actions link check?
 6. **Film/documentary depth:** include the focused offline-render/data-visualisation set in the first release (recommended), or stage it as a second expansion after the OGraf/live ecosystem review?
 
-## 9. Repository-wide link audit (2026-09-05)
+## 9. Repository-wide link re-audit (2026-09-05)
 
-This checklist records every distinct link target present in the repository at the time of the audit. Repeated targets are grouped, with all source files and line locations recorded. Each target was checked for reachability and destination correctness, not just HTTP status. Deep documentation links, GitHub pages, article and video titles, DOI/URN records, redirects, and relevant page content were reviewed. Repository-relative files and generated heading anchors were validated locally.
+This checklist supersedes the earlier audit. It inventories links across all tracked repository files, excluding only this checklist’s own repeated URLs to avoid a circular audit. For `PLAN.md`, the audited scope is the planning material above this section.
 
-Automated checks returned no dead links. The narrowly scoped warnings in `scripts/check-policies.json` were manually verified against canonical search results, metadata, or fetched content; they represent bot protection, transient server behavior, or local `curl` transport incompatibilities rather than missing destinations.
+Checks performed:
+
+- [x] Enumerated **273 distinct HTTP(S) targets** and **40 repository-relative or fragment targets**.
+- [x] Ran the complete HTTP checker with redirects enabled and manually rechecked the one transient URN response.
+- [x] Reviewed final redirect destinations and page title/heading content for destination correctness.
+- [x] Verified GitHub repository and deep-path destinations.
+- [x] Verified all YouTube destinations against oEmbed title/channel metadata.
+- [x] Verified DOI and URN destinations against publication metadata.
+- [x] Verified external fragments for the SPX OGraf, SPX NLE, and SPX template-definition sections.
+- [x] Reviewed every narrowly scoped `scripts/check-policies.json` exception against canonical search results or page metadata.
+- [x] Validated README table-of-contents fragments and repository-relative file targets locally.
+- [x] Final automated result: **251 OK, 22 documented warnings, 0 dead**; destination review found no misdirected links.
+
+Legend: **automatic** means the target completed successfully in the link checker; **manual exception** means the site rejected or failed the automated request but the destination was independently verified; **transient, rechecked** means a temporary failure immediately resolved on repeated requests.
 
 ### Repository-relative files and fragments
 
-- [x] `#articles--case-studies` — `README.md:31`.
-- [x] `#authoring-animation--conversion` — `README.md:45`.
-- [x] `#books` — `README.md:33`.
-- [x] `#browser-capable-production-hosts` — `README.md:52`.
-- [x] `#commercial--cloud-graphics-platforms` — `README.md:51`.
-- [x] `#contributors-to-this-list` — `README.md:21`.
-- [x] `#data-visualization--maps` — `README.md:47`.
-- [x] `#development--validation` — `README.md:26`.
-- [x] `#documentation--knowledge-sources` — `README.md:34`.
-- [x] `#editors--exporters` — `README.md:25`.
-- [x] `#education--tutorials` — `README.md:35`.
-- [x] `#examples--templates` — `README.md:28`.
-- [x] `#forums--community` — `README.md:36`.
-- [x] `#graphics--template-interchange` — `README.md:40`.
-- [x] `#graphics-schemas--apis` — `README.md:24`.
-- [x] `#html-to-video--offline-rendering` — `README.md:57`.
-- [x] `#interactive--player-side-graphics` — `README.md:58`.
-- [x] `#lists--landscapes` — `README.md:37`.
-- [x] `#media-transport-colour--safety` — `README.md:43`.
-- [x] `#newsroom-automation--control` — `README.md:41`.
-- [x] `#newsroom-rundown--automation` — `README.md:54`.
-- [x] `#official-specification--governance` — `README.md:23`.
-- [x] `#ograf` — `README.md:22`.
-- [x] `#open-source-graphics-systems` — `README.md:50`.
-- [x] `#organizations--communities` — `README.md:29`.
-- [x] `#post-production--nle-integration` — `README.md:56`.
-- [x] `#renderers-servers--controllers` — `README.md:27`.
-- [x] `#rendering-key-fill--video-output` — `README.md:53`.
-- [x] `#resources` — `README.md:30`.
-- [x] `#scientific-literature--theses` — `README.md:32`.
-- [x] `#sports-data--audience-graphics` — `README.md:55`.
-- [x] `#standards-specifications--protocols` — `README.md:39`.
-- [x] `#templates--marketplaces` — `README.md:59`.
-- [x] `#testing-performance--security` — `README.md:49`.
-- [x] `#tools--products` — `README.md:44`.
-- [x] `#typography--font-handling` — `README.md:48`.
-- [x] `#videos--talks` — `README.md:38`.
-- [x] `#web-components--graphics-libraries` — `README.md:46`.
-- [x] `#web-platform` — `README.md:42`.
-- [x] `CONTRIBUTING.md` — `README.md:9`.
-- [x] `README.md#tools--products` — `PLAN.md:615`.
+- [x] `README.md#tools--products` — PLAN.md:615 (Tools & Products).
+- [x] `CONTRIBUTING.md` — README.md:9 (contribution guide).
+- [x] `#ograf` — README.md:21 (OGraf).
+- [x] `#official-specification--governance` — README.md:22 (Official Specification & Governance).
+- [x] `#graphics-schemas--apis` — README.md:23 (Graphics, Schemas & APIs).
+- [x] `#editors--exporters` — README.md:24 (Editors & Exporters).
+- [x] `#development--validation` — README.md:25 (Development & Validation).
+- [x] `#renderers-servers--controllers` — README.md:26 (Renderers, Servers & Controllers).
+- [x] `#examples--templates` — README.md:27 (Examples & Templates).
+- [x] `#organizations--communities` — README.md:28 (Organizations & Communities).
+- [x] `#resources` — README.md:29 (Resources).
+- [x] `#articles--case-studies` — README.md:30 (Articles & Case Studies).
+- [x] `#scientific-literature--theses` — README.md:31 (Scientific Literature & Theses).
+- [x] `#books` — README.md:32 (Books).
+- [x] `#documentation--knowledge-sources` — README.md:33 (Documentation & Knowledge Sources).
+- [x] `#education--tutorials` — README.md:34 (Education & Tutorials).
+- [x] `#forums--community` — README.md:35 (Forums & Community).
+- [x] `#lists--landscapes` — README.md:36 (Lists & Landscapes).
+- [x] `#videos--talks` — README.md:37 (Videos & Talks).
+- [x] `#standards-specifications--protocols` — README.md:38 (Standards, Specifications & Protocols).
+- [x] `#graphics--template-interchange` — README.md:39 (Graphics & Template Interchange).
+- [x] `#newsroom-automation--control` — README.md:40 (Newsroom, Automation & Control).
+- [x] `#web-platform` — README.md:41 (Web Platform).
+- [x] `#media-transport-colour--safety` — README.md:42 (Media Transport, Colour & Safety).
+- [x] `#tools--products` — README.md:43 (Tools & Products).
+- [x] `#authoring-animation--conversion` — README.md:44 (Authoring, Animation & Conversion).
+- [x] `#web-components--graphics-libraries` — README.md:45 (Web Components & Graphics Libraries).
+- [x] `#data-visualization--maps` — README.md:46 (Data Visualization & Maps).
+- [x] `#typography--font-handling` — README.md:47 (Typography & Font Handling).
+- [x] `#testing-performance--security` — README.md:48 (Testing, Performance & Security).
+- [x] `#open-source-graphics-systems` — README.md:49 (Open-source Graphics Systems).
+- [x] `#commercial--cloud-graphics-platforms` — README.md:50 (Commercial & Cloud Graphics Platforms).
+- [x] `#browser-capable-production-hosts` — README.md:51 (Browser-capable Production Hosts).
+- [x] `#rendering-key-fill--video-output` — README.md:52 (Rendering, Key-Fill & Video Output).
+- [x] `#newsroom-rundown--automation` — README.md:53 (Newsroom, Rundown & Automation).
+- [x] `#sports-data--audience-graphics` — README.md:54 (Sports, Data & Audience Graphics).
+- [x] `#post-production--nle-integration` — README.md:55 (Post-production & NLE Integration).
+- [x] `#html-to-video--offline-rendering` — README.md:56 (HTML-to-Video & Offline Rendering).
+- [x] `#interactive--player-side-graphics` — README.md:57 (Interactive & Player-side Graphics).
+- [x] `#templates--marketplaces` — README.md:58 (Templates & Marketplaces).
 
 ### HTTP and HTTPS targets
 
-- [x] `https://about.grabyo.com/live-cloud-production/` — `README.md:337`.
-- [x] `https://ajv.js.org/` — `README.md:319`.
-- [x] `https://animejs.com/` — `PLAN.md:296`, `README.md:272`.
-- [x] `https://aws.amazon.com/elemental-live/` — `README.md:359`.
-- [x] `https://bitfocus.io/companion` — `README.md:380`.
-- [x] `https://casparcg.com/` — `README.md:329`.
-- [x] `https://casparcgforum.org/` — `PLAN.md:382`, `README.md:182`.
-- [x] `https://cavalry.studio/docs/user-interface/menus/window-menu/render-manager/lottie-export/` — `README.md:273`.
-- [x] `https://chrisryanouellette.gitbook.io/casparcg-html-template-guide` — `README.md:165`.
-- [x] `https://community.rive.app/home` — `README.md:193`, `scripts/check-policies.json:3`.
-- [x] `https://creativecommons.org/licenses/by-sa/4.0/` — `LICENSE.md:3`.
-- [x] `https://creativecommons.org/licenses/by-sa/4.0/legalcode` — `LICENSE.md:5`.
-- [x] `https://cuez.app/products/automator/` — `README.md:383`.
-- [x] `https://d3js.org/` — `PLAN.md:298`, `README.md:298`.
-- [x] `https://d3js.org/community` — `PLAN.md:392`, `README.md:184`.
-- [x] `https://developer.chrome.com/docs/devtools/performance/reference` — `README.md:166`.
-- [x] `https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API` — `README.md:168`.
-- [x] `https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API` — `README.md:169`.
-- [x] `https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements` — `README.md:170`.
-- [x] `https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Animation_performance_and_frame_rate` — `README.md:167`.
-- [x] `https://discourse.threejs.org/` — `PLAN.md:387`, `README.md:195`.
-- [x] `https://dizplai.com/live-graphics/` — `README.md:336`, `scripts/check-policies.json:4`.
-- [x] `https://djhtmlcreator.com/` — `PLAN.md:82`, `README.md:84`.
-- [x] `https://docs.aws.amazon.com/elemental-live/latest/ug/how-to-insert-a-motion-overlay-with-html5.html` — `README.md:135`.
-- [x] `https://docs.aws.amazon.com/medialive/latest/ug/feature-mgi.html` — `README.md:360`.
-- [x] `https://docs.erizos.tv/` — `PLAN.md:105`.
-- [x] `https://docs.erizos.tv/userguide/BasicConfig/` — `README.md:105`.
-- [x] `https://docs.lottielab.com/export-and-hand-off/file-download/lottie-json-download` — `README.md:277`.
-- [x] `https://docs.mapbox.com/mapbox-gl-js/guides/get-started/` — `README.md:304`.
-- [x] `https://docs.spxgraphics.com/` — `README.md:178`.
-- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML` — `README.md:171`.
-- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML#Template+Definition` — `README.md:225`.
-- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Graphics+Creation/Overview` — `README.md:139`.
-- [x] `https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_21_New_Features_Guide.pdf` — `PLAN.md:107`, `README.md:104`.
-- [x] `https://doi.org/10.1177/19312431211039500` — `PLAN.md:369`, `README.md:151`, `scripts/check-policies.json:5`.
-- [x] `https://doi.org/10.1371/journal.pone.0109812` — `PLAN.md:364`, `README.md:150`.
-- [x] `https://doi.org/10.3390/jimaging12010045` — `PLAN.md:366`, `README.md:145`, `scripts/check-policies.json:6`.
-- [x] `https://doi.org/10.3390/s22176542` — `PLAN.md:365`, `README.md:146`, `scripts/check-policies.json:7`.
-- [x] `https://doi.org/10.5594/JMI.2020.3024028` — `PLAN.md:368`, `README.md:147`.
-- [x] `https://doi.org/10.5594/M001731` — `PLAN.md:367`, `README.md:152`.
-- [x] `https://dotlottie.io/` — `PLAN.md:296`, `README.md:274`.
-- [x] `https://dotlottie.io/spec/` — `README.md:223`.
-- [x] `https://drafts.csswg.org/css-font-loading/` — `README.md:243`.
-- [x] `https://echarts.apache.org/` — `PLAN.md:298`, `README.md:296`.
-- [x] `https://example.com/` — `PLAN.md:513`.
-- [x] `https://fabricjs.com/` — `README.md:286`.
-- [x] `https://fast.design/` — `PLAN.md:295`, `README.md:287`.
-- [x] `https://flourish.studio/product/data-visualization/` — `README.md:301`.
-- [x] `https://forum.lottiefiles.com/` — `PLAN.md:388`, `README.md:187`.
-- [x] `https://github.com/a-bentofreire/beamtoix` — `README.md:408`.
-- [x] `https://github.com/aDifferentJT/keyfillwebview` — `README.md:365`.
-- [x] `https://github.com/aiatelie/ai-atelie` — `PLAN.md:127`, `README.md:83`.
-- [x] `https://github.com/airbnb/lottie-web` — `PLAN.md:296`, `README.md:276`.
-- [x] `https://github.com/alexey-pelykh/puppeteer-capture` — `README.md:413`.
-- [x] `https://github.com/avtools-io/amazing-digital-cinema` — `PLAN.md:7`, `PLAN.md:451`, `README.md:11`.
-- [x] `https://github.com/avtools-io/amazing-html-graphics` — `PLAN.md:5`.
-- [x] `https://github.com/avtools-io/amazing-html-graphics/issues` — `README.md:9`.
-- [x] `https://github.com/bramstein/fontfaceobserver` — `README.md:314`.
-- [x] `https://github.com/CasparCG/help/wiki/AMCP-Protocol` — `README.md:229`.
-- [x] `https://github.com/CasparCG/help/wiki/Related-Projects` — `README.md:201`.
-- [x] `https://github.com/CasparCG/server/discussions` — `PLAN.md:382`, `README.md:183`.
-- [x] `https://github.com/cbcrc/mxl-hands-on` — `PLAN.md:121`, `README.md:116`.
-- [x] `https://github.com/centricular/gstcefsrc` — `README.md:364`.
-- [x] `https://github.com/cndgfxteam/rive-ograf-wrapper` — `PLAN.md:88`, `README.md:90`.
-- [x] `https://github.com/cure53/DOMPurify` — `PLAN.md:406`, `README.md:321`.
-- [x] `https://github.com/dtinth/html5-animation-video-renderer` — `README.md:409`.
-- [x] `https://github.com/ebu/awesome-broadcasting` — `PLAN.md:452`, `README.md:11`, `README.md:199`.
-- [x] `https://github.com/ebu/ograf` — `PLAN.md:75`, `README.md:70`.
-- [x] `https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification.md` — `README.md:75`.
-- [x] `https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification_Server_API.md` — `README.md:78`.
-- [x] `https://github.com/ebu/ograf/issues` — `PLAN.md:380`, `README.md:185`.
-- [x] `https://github.com/ebu/ograf/pulls` — `PLAN.md:380`.
-- [x] `https://github.com/ebu/ograf/tree/main/v1/examples` — `README.md:117`.
-- [x] `https://github.com/ebu/ograf/tree/main/v1/specification/json-schemas` — `README.md:76`.
-- [x] `https://github.com/ebu/ograf/tree/main/v1/typescript-definitions` — `README.md:79`.
-- [x] `https://github.com/ErtugrulAK/keyframe-character-studio` — `PLAN.md:123`, `README.md:86`.
-- [x] `https://github.com/Eyevinn/ograf-editor` — `PLAN.md:83`, `README.md:85`.
-- [x] `https://github.com/garris/BackstopJS` — `README.md:320`.
-- [x] `https://github.com/heretorecord/ograf-graphics-skill` — `PLAN.md:96`, `README.md:98`.
-- [x] `https://github.com/heygen-com/hyperframes` — `README.md:410`.
-- [x] `https://github.com/jaskie/PlayoutAutomation` — `README.md:384`.
-- [x] `https://github.com/jdanna/Resolve_Tools_Public/tree/main/docs/OGraf%20HTML%20Templates` — `PLAN.md:126`, `README.md:121`.
-- [x] `https://github.com/Jonathhhan/ofxOGraf` — `PLAN.md:122`, `README.md:109`.
-- [x] `https://github.com/Lawo/ember-plus` — `README.md:230`.
-- [x] `https://github.com/mapbox/pixelmatch` — `README.md:323`.
-- [x] `https://github.com/michalramus/caspar-obs-client` — `README.md:382`.
-- [x] `https://github.com/midrender/revideo` — `README.md:416`.
-- [x] `https://github.com/miwco/NoaCG-Studio` — `PLAN.md:85`, `README.md:88`.
-- [x] `https://github.com/motion-canvas/motion-canvas/discussions` — `PLAN.md:391`, `README.md:189`.
-- [x] `https://github.com/mug-lab-3/resolve-ograf` — `PLAN.md:125`, `README.md:122`.
-- [x] `https://github.com/nodecg/awesome-nodecg` — `PLAN.md:289`, `README.md:200`.
-- [x] `https://github.com/nodecg/nodecg` — `PLAN.md:383`, `README.md:190`.
-- [x] `https://github.com/nxtedition/nxt-graphics` — `PLAN.md:106`, `README.md:108`.
-- [x] `https://github.com/nytamin/ograf-graphics` — `PLAN.md:113`, `README.md:118`.
-- [x] `https://github.com/observablehq/plot` — `README.md:306`.
-- [x] `https://github.com/pixijs/pixijs/discussions/` — `PLAN.md:386`, `README.md:191`.
-- [x] `https://github.com/pjaspinski/ograf-to-image-sequence-renderer` — `PLAN.md:108`, `README.md:110`.
-- [x] `https://github.com/plotly/plotly.js` — `README.md:307`.
-- [x] `https://github.com/reearth/kamishibai` — `README.md:411`.
-- [x] `https://github.com/russellsamora/render-d3-video` — `README.md:415`.
-- [x] `https://github.com/ryanmccartney/ograf-dash.js` — `PLAN.md:116`, `README.md:120`.
-- [x] `https://github.com/sindresorhus/awesome` — `PLAN.md:453`, `README.md:11`.
-- [x] `https://github.com/Sofie-Automation/sofie-mos-connection` — `PLAN.md:168`, `README.md:386`.
-- [x] `https://github.com/Sofie-Automation/Sofie-TV-automation` — `README.md:387`.
-- [x] `https://github.com/stoatworks-labs/weblinked` — `README.md:332`.
-- [x] `https://github.com/Streampunk/macadam` — `README.md:367`.
-- [x] `https://github.com/Streamshapers/LottiesForBroadcast` — `PLAN.md:117`, `README.md:119`.
-- [x] `https://github.com/Streamshapers/OGraf-Validator` — `PLAN.md:93`, `README.md:99`.
-- [x] `https://github.com/Streamshapers/StreamShapers-Ferryman` — `PLAN.md:87`, `README.md:91`.
-- [x] `https://github.com/suitougreentea/denocg` — `README.md:330`.
-- [x] `https://github.com/superflytv/GraphicsDataDefinition` — `README.md:74`.
-- [x] `https://github.com/SuperFlyTV/ograf-devtool` — `PLAN.md:92`, `README.md:96`.
-- [x] `https://github.com/SuperFlyTV/ograf-form` — `PLAN.md:95`, `README.md:97`.
-- [x] `https://github.com/SuperFlyTV/ograf-server` — `PLAN.md:101`, `README.md:111`.
-- [x] `https://github.com/SuperFlyTV/SuperConductor` — `README.md:388`.
-- [x] `https://github.com/SVT/bridge` — `README.md:381`.
-- [x] `https://github.com/timokorkalainen/dom-compositor-proto` — `PLAN.md:124`.
-- [x] `https://github.com/TuomoKu/SPX-GC` — `PLAN.md:102`.
-- [x] `https://github.com/Yleisradio/caspartool` — `README.md:389`.
-- [x] `https://github.com/zerodensity/ograf-studio` — `PLAN.md:86`, `README.md:89`.
-- [x] `https://gsap.com/` — `PLAN.md:296`, `README.md:275`.
-- [x] `https://gsap.com/community/` — `PLAN.md:385`, `README.md:186`.
-- [x] `https://h2r.graphics/` — `README.md:106`.
-- [x] `https://h2r.graphics/docs/graphics/ograf/` — `PLAN.md:103`, `README.md:176`.
-- [x] `https://help.shotstack.io/en/articles/16312767-migrating-from-the-html-asset-to-html5` — `README.md:417`.
-- [x] `https://helpx.adobe.com/animate/desktop/interactivity/creating-publishing-html5-canvas-document.html` — `README.md:271`, `scripts/check-policies.json:26`.
-- [x] `https://html.spec.whatwg.org/multipage/canvas.html` — `README.md:240`.
-- [x] `https://html.spec.whatwg.org/multipage/custom-elements.html` — `README.md:244`.
-- [x] `https://json-schema.org/draft/2020-12` — `README.md:247`.
-- [x] `https://jsonforms.io/` — `README.md:322`.
-- [x] `https://keepthescore.com/scoreboard-overlay/` — `README.md:393`.
-- [x] `https://konvajs.org/` — `README.md:288`.
-- [x] `https://lawo.com/products/home-graphic-inserter/` — `README.md:366`.
-- [x] `https://leafletjs.com/` — `PLAN.md:298`, `README.md:303`.
-- [x] `https://link.springer.com/book/10.1007/978-1-4302-3666-5` — `README.md:159`.
-- [x] `https://lit.dev/` — `PLAN.md:295`, `README.md:289`.
-- [x] `https://lottie.github.io/lottie-spec/` — `README.md:224`.
-- [x] `https://lottiefiles.com/` — `README.md:428`, `scripts/check-policies.json:8`.
-- [x] `https://maplibre.org/community/` — `PLAN.md:393`, `README.md:188`.
-- [x] `https://maplibre.org/maplibre-gl-js/docs/` — `PLAN.md:298`, `README.md:305`.
-- [x] `https://medialooks.com/plugins/hmtl5` — `README.md:368`.
-- [x] `https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/` — `README.md:349`.
-- [x] `https://mosprotocol.com/` — `PLAN.md:167`, `README.md:231`.
-- [x] `https://motion.dev/` — `PLAN.md:296`, `README.md:278`.
-- [x] `https://motionarray.com/` — `README.md:429`, `scripts/check-policies.json:9`.
-- [x] `https://motioncanvas.io/` — `README.md:412`.
-- [x] `https://ndi.video/for-developers/ndi-sdk/` — `README.md:262`.
-- [x] `https://obscoreboard.com/use-cases/sports-overlays-for-broadcasters/` — `README.md:395`.
-- [x] `https://obsproject.com/kb/browser-source` — `README.md:350`.
-- [x] `https://ograf.dev/` — `PLAN.md:114`, `PLAN.md:381`.
-- [x] `https://ograf.dev/ecosystem` — `PLAN.md:114`, `PLAN.md:586`, `README.md:202`.
-- [x] `https://ograf.dev/tools` — `PLAN.md:94`, `README.md:100`.
-- [x] `https://ograf.dev/tutorials` — `README.md:177`.
-- [x] `https://ograf.ebu.io/` — `PLAN.md:74`, `README.md:5`.
-- [x] `https://openlibrary.org/books/OL8662465M/Motion_Graphics` — `README.md:160`.
-- [x] `https://opensoundcontrol.stanford.edu/spec-1_0.html` — `README.md:236`.
-- [x] `https://opentype.js.org/` — `PLAN.md:299`, `README.md:315`.
-- [x] `https://overlays.uno/` — `README.md:339`.
-- [x] `https://pandainteractive.com/product` — `README.md:422`.
-- [x] `https://pixijs.com/` — `PLAN.md:297`, `README.md:290`.
-- [x] `https://playwright.dev/` — `README.md:324`.
-- [x] `https://poltergeist.cc/` — `README.md:340`.
-- [x] `https://pptr.dev/` — `README.md:325`.
-- [x] `https://pub.smpte.org/doc/` — `PLAN.md:189`, `README.md:263`.
-- [x] `https://rikschennink.github.io/fitty/` — `PLAN.md:299`, `README.md:313`.
-- [x] `https://rive.app/` — `PLAN.md:296`, `README.md:279`.
-- [x] `https://rive.app/docs/community/marketplace-overview` — `README.md:430`.
-- [x] `https://rive.app/docs/getting-started/introduction` — `PLAN.md:389`.
-- [x] `https://rtsw.co.uk/all-products/swift-engine/` — `README.md:369`.
-- [x] `https://sdiware.video/` — `README.md:370`.
-- [x] `https://search.worldcat.org/title/61711466` — `README.md:157`, `scripts/check-policies.json:21`.
-- [x] `https://smartpanelapp.com/features` — `README.md:342`.
-- [x] `https://softron.tv/products/play/ontheair-weblink` — `README.md:372`.
-- [x] `https://spec.openapis.org/oas/latest.html` — `README.md:248`.
-- [x] `https://specs.amwa.tv/is-04/` — `README.md:232`.
-- [x] `https://specs.amwa.tv/is-05/` — `README.md:233`.
-- [x] `https://specs.amwa.tv/is-07/` — `README.md:234`.
-- [x] `https://specs.amwa.tv/is-12/` — `README.md:235`.
-- [x] `https://spxgraphics.com/software/integrations#ograf` — `PLAN.md:102`, `README.md:112`.
-- [x] `https://spxgraphics.com/software/more#nle` — `README.md:404`.
-- [x] `https://spxgraphics.com/store/` — `README.md:431`.
-- [x] `https://spxgraphics.com/support/` — `PLAN.md:384`, `README.md:194`.
-- [x] `https://stenciljs.com/` — `PLAN.md:295`, `README.md:291`.
-- [x] `https://streamshapers.com/docs` — `README.md:172`.
-- [x] `https://studiosupport.liveu.tv/hc/en-us/articles/17094646501659-Web-Page` — `README.md:348`.
-- [x] `https://support.ecamm.com/en/articles/3323618-using-overlays` — `README.md:347`.
-- [x] `https://support.flowics.com/en/articles/15393380-what-is-viz-flowics` — `README.md:343`.
-- [x] `https://support.singular.live/hc/en-us/articles/360055456751-Using-Singular-in-Post-Production-for-Windows` — `README.md:140`, `scripts/check-policies.json:10`.
-- [x] `https://support.telestream.net/s/article/Wirecast-Web-Display` — `README.md:353`.
-- [x] `https://support.xsplit.com/en/article/webpage-1y1l6v/` — `README.md:354`.
-- [x] `https://tagboard.com/modern-interactive-graphics-system/` — `README.md:397`.
-- [x] `https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html` — `README.md:245`.
-- [x] `https://tech.ebu.ch/groups/html_graphics` — `PLAN.md:77`, `README.md:69`, `scripts/check-policies.json:11`.
-- [x] `https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration` — `README.md:136`, `scripts/check-policies.json:12`.
-- [x] `https://tech.ebu.ch/publications/r095` — `README.md:258`, `scripts/check-policies.json:13`.
-- [x] `https://tech.ebu.ch/publications/r103` — `README.md:256`, `scripts/check-policies.json:14`.
-- [x] `https://tech.ebu.ch/publications/r143` — `README.md:257`, `scripts/check-policies.json:15`.
-- [x] `https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec` — `README.md:138`, `scripts/check-policies.json:16`.
-- [x] `https://threejs.org/` — `README.md:292`.
-- [x] `https://toolsonair.com/usermanuals/justplaylivepro2026/2-13-html-based-graphic-templates-2026.html` — `README.md:373`.
-- [x] `https://turfjs.org/` — `PLAN.md:298`, `README.md:308`.
-- [x] `https://urn.fi/URN:NBN:fi:amk-2016060612041` — `PLAN.md:371`, `README.md:149`.
-- [x] `https://urn.fi/URN:NBN:fi:amk-2025052918037` — `PLAN.md:370`, `README.md:148`.
-- [x] `https://vega.github.io/vega-lite/` — `PLAN.md:298`, `README.md:309`.
-- [x] `https://videohive.net/category/after-effects-project-files/broadcast-packages` — `README.md:432`, `scripts/check-policies.json:17`.
-- [x] `https://vindral.com/composer/` — `README.md:375`.
-- [x] `https://w3c.github.io/trusted-types/dist/spec/` — `README.md:250`.
-- [x] `https://web.classx.it/products-liveboard` — `README.md:361`.
-- [x] `https://www.adobe.com/products/aftereffects.html` — `README.md:270`, `scripts/check-policies.json:27`.
-- [x] `https://www.amwa.tv/` — `README.md:126`.
-- [x] `https://www.aveco.com/en/download/22/cg-manager` — `README.md:358`, `scripts/check-policies.json:25`.
-- [x] `https://www.babylonjs.com/` — `README.md:285`.
-- [x] `https://www.casparcg.com/docs/wiki/media/html-templates` — `README.md:222`.
-- [x] `https://www.casparcg.com/docs/wiki/server/producers/html-producer` — `README.md:164`.
-- [x] `https://www.chartjs.org/` — `PLAN.md:298`, `README.md:297`.
-- [x] `https://www.crystalvision.tv/wp/wp-content/uploads/2022/09/m-webkeymanual.pdf` — `README.md:362`.
-- [x] `https://www.datawrapper.de/features` — `README.md:299`.
-- [x] `https://www.easelive.tv/` — `README.md:421`.
-- [x] `https://www.ebu.ch/` — `README.md:127`, `scripts/check-policies.json:18`.
-- [x] `https://www.etere.com/DocView/8818/Etere-ETX-Graphics-Capabilities-with-HTML5.aspx` — `README.md:363`.
-- [x] `https://www.everviz.com/` — `README.md:300`.
-- [x] `https://www.flowics.com/data-driven-graphics/` — `README.md:398`.
-- [x] `https://www.grassvalley.com/products/ampp/playout-x/` — `README.md:338`.
-- [x] `https://www.hbbtv.org/` — `README.md:246`.
-- [x] `https://www.highcharts.com/products/maps/` — `README.md:302`.
-- [x] `https://www.informit.com/store/core-html5-canvas-graphics-animation-and-game-development-9780132761611` — `README.md:158`.
-- [x] `https://www.itu.int/rec/R-REC-BT.2020` — `README.md:259`.
-- [x] `https://www.itu.int/rec/R-REC-BT.2100` — `README.md:260`.
-- [x] `https://www.itu.int/rec/R-REC-BT.709` — `README.md:261`.
-- [x] `https://www.khronos.org/webgl/` — `README.md:252`.
-- [x] `https://www.ligrsystems.com/what-is-ligr` — `README.md:394`.
-- [x] `https://www.loopic.io/ograf` — `PLAN.md:84`, `README.md:87`.
-- [x] `https://www.mxmz.com/products/nle-mam` — `README.md:402`.
-- [x] `https://www.neton.live/` — `PLAN.md:104`, `README.md:107`, `scripts/check-policies.json:22`.
-- [x] `https://www.nodecg.dev/` — `README.md:331`.
-- [x] `https://www.npmjs.com/package/ograf` — `PLAN.md:76`, `README.md:77`, `scripts/check-policies.json:19`.
-- [x] `https://www.remotion.dev/` — `README.md:414`.
-- [x] `https://www.remotion.dev/discord` — `PLAN.md:390`, `README.md:192`.
-- [x] `https://www.researchgate.net/publication/319442826_TV_Graphics_Personalization_Using_In-Band_Events` — `README.md:153`, `scripts/check-policies.json:20`.
-- [x] `https://www.rossvideo.com/resources/ross-university/xpression-mos-html5-plugin/` — `README.md:385`.
-- [x] `https://www.sienna-tv.com/ndi/graphicartist.html` — `README.md:371`.
-- [x] `https://www.singular.live/` — `README.md:341`.
-- [x] `https://www.singular.live/recast` — `README.md:403`.
-- [x] `https://www.smpte.org/` — `README.md:128`.
-- [x] `https://www.smpte.org/standards/st2110` — `README.md:264`.
-- [x] `https://www.sportbuff.com/` — `README.md:423`.
-- [x] `https://www.spx.graphics/spx-graphics-helps-upgrade-finnish-lottery-production` — `README.md:137`.
-- [x] `https://www.statsperform.com/products/opta-graphics/` — `README.md:396`.
-- [x] `https://www.streamlayer.io/` — `README.md:424`.
-- [x] `https://www.streamshapers.com/ae-extension/` — `README.md:92`.
-- [x] `https://www.svgator.com/help/export-and-file-formats/lottie-support-in-svgator` — `README.md:280`.
-- [x] `https://www.theatrejs.com/` — `PLAN.md:296`, `README.md:281`.
-- [x] `https://www.videonlabs.com/liveedge-graphix` — `README.md:374`.
-- [x] `https://www.vizrt.com/ebooks/your-guide-to-html5-graphics-for-live-productions/` — `README.md:141`.
-- [x] `https://www.vizrt.com/products/tricaster-family/` — `README.md:351`.
-- [x] `https://www.vizrt.com/products/viz-connect-tetra/tech-specs/` — `README.md:376`.
-- [x] `https://www.vmix.com/help29/WebBrowser.html` — `README.md:352`.
-- [x] `https://www.w3.org/` — `README.md:129`.
-- [x] `https://www.w3.org/Style/CSS/` — `README.md:242`.
-- [x] `https://www.w3.org/TR/CSP3/` — `README.md:241`.
-- [x] `https://www.w3.org/TR/SVG2/` — `README.md:249`.
-- [x] `https://www.w3.org/TR/web-animations-1/` — `README.md:251`.
-- [x] `https://www.youtube.com/watch?v=-S_gBYPyCiw` — `PLAN.md:141`, `README.md:211`.
-- [x] `https://www.youtube.com/watch?v=2oJaECoOPoQ` — `PLAN.md:147`, `README.md:206`.
-- [x] `https://www.youtube.com/watch?v=3YZyWCjHK9U` — `PLAN.md:143`, `README.md:208`.
-- [x] `https://www.youtube.com/watch?v=6IMGzvxe1AY` — `PLAN.md:136`, `README.md:213`.
-- [x] `https://www.youtube.com/watch?v=AdZATSBByng` — `PLAN.md:146`, `README.md:214`.
-- [x] `https://www.youtube.com/watch?v=BnV55qu6vvg` — `PLAN.md:144`, `README.md:207`.
-- [x] `https://www.youtube.com/watch?v=e5LTFC9MlOI` — `PLAN.md:145`, `README.md:215`.
-- [x] `https://www.youtube.com/watch?v=gw2SnjeGW9Q` — `PLAN.md:135`, `README.md:210`.
-- [x] `https://www.youtube.com/watch?v=gZRYTmngqLw` — `PLAN.md:148`, `README.md:209`.
-- [x] `https://www.youtube.com/watch?v=P6VEWyv7-P0` — `PLAN.md:140`, `README.md:212`.
-- [x] `https://www.youtube.com/watch?v=u4wruk2QTs0` — `PLAN.md:142`, `README.md:216`.
+- [x] `https://about.grabyo.com/live-cloud-production/` — README.md:332; **automatic**.
+- [x] `https://ajv.js.org/` — README.md:314; **automatic**.
+- [x] `https://animejs.com/` — PLAN.md:296, README.md:267; **automatic**.
+- [x] `https://aws.amazon.com/elemental-live/` — README.md:354; **automatic**.
+- [x] `https://bitfocus.io/companion` — README.md:375; **automatic**.
+- [x] `https://casparcg.com/` — README.md:324; **automatic**.
+- [x] `https://casparcgforum.org/` — PLAN.md:382, README.md:177; **automatic**.
+- [x] `https://cavalry.studio/docs/user-interface/menus/window-menu/render-manager/lottie-export/` — README.md:268; **automatic**.
+- [x] `https://chrisryanouellette.gitbook.io/casparcg-html-template-guide` — README.md:160; **automatic**.
+- [x] `https://community.rive.app/home` — README.md:188, scripts/check-policies.json:3; **manual exception**.
+- [x] `https://creativecommons.org/licenses/by-sa/4.0/` — LICENSE.md:3; **automatic**.
+- [x] `https://creativecommons.org/licenses/by-sa/4.0/legalcode` — LICENSE.md:5; **automatic**.
+- [x] `https://cuez.app/products/automator/` — README.md:378; **automatic**.
+- [x] `https://d3js.org/` — PLAN.md:298, README.md:293; **automatic**.
+- [x] `https://d3js.org/community` — PLAN.md:392, README.md:179; **automatic**.
+- [x] `https://developer.chrome.com/docs/devtools/performance/reference` — README.md:161; **automatic**.
+- [x] `https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API` — README.md:164; **automatic**.
+- [x] `https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API` — README.md:163; **automatic**.
+- [x] `https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements` — README.md:165; **automatic**.
+- [x] `https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Animation_performance_and_frame_rate` — README.md:162; **automatic**.
+- [x] `https://discourse.threejs.org/` — PLAN.md:387, README.md:190; **automatic**.
+- [x] `https://dizplai.com/live-graphics/` — README.md:331, scripts/check-policies.json:4; **manual exception**.
+- [x] `https://djhtmlcreator.com/` — PLAN.md:82, README.md:79; **automatic**.
+- [x] `https://docs.aws.amazon.com/elemental-live/latest/ug/how-to-insert-a-motion-overlay-with-html5.html` — README.md:130; **automatic**.
+- [x] `https://docs.aws.amazon.com/medialive/latest/ug/feature-mgi.html` — README.md:355; **automatic**.
+- [x] `https://docs.erizos.tv/` — PLAN.md:105; **automatic**.
+- [x] `https://docs.erizos.tv/userguide/BasicConfig/` — README.md:100; **automatic**.
+- [x] `https://docs.lottielab.com/export-and-hand-off/file-download/lottie-json-download` — README.md:272; **automatic**.
+- [x] `https://docs.mapbox.com/mapbox-gl-js/guides/get-started/` — README.md:299; **automatic**.
+- [x] `https://docs.spxgraphics.com/` — README.md:173; **automatic**.
+- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML` — README.md:166; **automatic**.
+- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Formats/HTML#Template+Definition` — README.md:220; **automatic**.
+- [x] `https://docs.spxgraphics.com/Documentation/Graphic+Templates/Graphics+Creation/Overview` — README.md:134; **automatic**.
+- [x] `https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_21_New_Features_Guide.pdf` — PLAN.md:107, README.md:99; **automatic**.
+- [x] `https://doi.org/10.1177/19312431211039500` — PLAN.md:369, README.md:146, scripts/check-policies.json:5; **manual exception**.
+- [x] `https://doi.org/10.1371/journal.pone.0109812` — PLAN.md:364, README.md:145; **automatic**.
+- [x] `https://doi.org/10.3390/jimaging12010045` — PLAN.md:366, README.md:140, scripts/check-policies.json:6; **manual exception**.
+- [x] `https://doi.org/10.3390/s22176542` — PLAN.md:365, README.md:141, scripts/check-policies.json:7; **manual exception**.
+- [x] `https://doi.org/10.5594/JMI.2020.3024028` — PLAN.md:368, README.md:142; **automatic**.
+- [x] `https://doi.org/10.5594/M001731` — PLAN.md:367, README.md:147; **automatic**.
+- [x] `https://dotlottie.io/` — PLAN.md:296, README.md:269; **automatic**.
+- [x] `https://dotlottie.io/spec/` — README.md:218; **automatic**.
+- [x] `https://drafts.csswg.org/css-font-loading/` — README.md:238; **automatic**.
+- [x] `https://echarts.apache.org/` — PLAN.md:298, README.md:291; **automatic**.
+- [x] `https://example.com/` — PLAN.md:513; **automatic**.
+- [x] `https://fabricjs.com/` — README.md:281; **automatic**.
+- [x] `https://fast.design/` — PLAN.md:295, README.md:282; **automatic**.
+- [x] `https://flourish.studio/product/data-visualization/` — README.md:296; **automatic**.
+- [x] `https://forum.lottiefiles.com/` — PLAN.md:388, README.md:182; **automatic**.
+- [x] `https://github.com/CasparCG/help/wiki/AMCP-Protocol` — README.md:224; **automatic**.
+- [x] `https://github.com/CasparCG/help/wiki/Related-Projects` — README.md:196; **automatic**.
+- [x] `https://github.com/CasparCG/server/discussions` — PLAN.md:382, README.md:178; **automatic**.
+- [x] `https://github.com/ErtugrulAK/keyframe-character-studio` — PLAN.md:123, README.md:81; **automatic**.
+- [x] `https://github.com/Eyevinn/ograf-editor` — PLAN.md:83, README.md:80; **automatic**.
+- [x] `https://github.com/Jonathhhan/ofxOGraf` — PLAN.md:122, README.md:104; **automatic**.
+- [x] `https://github.com/Lawo/ember-plus` — README.md:225; **automatic**.
+- [x] `https://github.com/SVT/bridge` — README.md:376; **automatic**.
+- [x] `https://github.com/Sofie-Automation/Sofie-TV-automation` — README.md:382; **automatic**.
+- [x] `https://github.com/Sofie-Automation/sofie-mos-connection` — PLAN.md:168, README.md:381; **automatic**.
+- [x] `https://github.com/Streampunk/macadam` — README.md:362; **automatic**.
+- [x] `https://github.com/Streamshapers/LottiesForBroadcast` — PLAN.md:117, README.md:114; **automatic**.
+- [x] `https://github.com/Streamshapers/OGraf-Validator` — PLAN.md:93, README.md:94; **automatic**.
+- [x] `https://github.com/Streamshapers/StreamShapers-Ferryman` — PLAN.md:87, README.md:86; **automatic**.
+- [x] `https://github.com/SuperFlyTV/SuperConductor` — README.md:383; **automatic**.
+- [x] `https://github.com/SuperFlyTV/ograf-devtool` — PLAN.md:92, README.md:91; **automatic**.
+- [x] `https://github.com/SuperFlyTV/ograf-form` — PLAN.md:95, README.md:92; **automatic**.
+- [x] `https://github.com/SuperFlyTV/ograf-server` — PLAN.md:101, README.md:106; **automatic**.
+- [x] `https://github.com/TuomoKu/SPX-GC` — PLAN.md:102; **automatic**.
+- [x] `https://github.com/Yleisradio/caspartool` — README.md:384; **automatic**.
+- [x] `https://github.com/a-bentofreire/beamtoix` — README.md:403; **automatic**.
+- [x] `https://github.com/aDifferentJT/keyfillwebview` — README.md:360; **automatic**.
+- [x] `https://github.com/aiatelie/ai-atelie` — PLAN.md:127, README.md:78; **automatic**.
+- [x] `https://github.com/airbnb/lottie-web` — PLAN.md:296, README.md:271; **automatic**.
+- [x] `https://github.com/alexey-pelykh/puppeteer-capture` — README.md:408; **automatic**.
+- [x] `https://github.com/avtools-io/amazing-digital-cinema` — PLAN.md:7, PLAN.md:451, README.md:11; **automatic**.
+- [x] `https://github.com/avtools-io/amazing-html-graphics` — PLAN.md:5; **automatic**.
+- [x] `https://github.com/avtools-io/amazing-html-graphics/issues` — README.md:9; **automatic**.
+- [x] `https://github.com/bramstein/fontfaceobserver` — README.md:309; **automatic**.
+- [x] `https://github.com/cbcrc/mxl-hands-on` — PLAN.md:121, README.md:111; **automatic**.
+- [x] `https://github.com/centricular/gstcefsrc` — README.md:359; **automatic**.
+- [x] `https://github.com/cndgfxteam/rive-ograf-wrapper` — PLAN.md:88, README.md:85; **automatic**.
+- [x] `https://github.com/cure53/DOMPurify` — PLAN.md:406, README.md:316; **automatic**.
+- [x] `https://github.com/dtinth/html5-animation-video-renderer` — README.md:404; **automatic**.
+- [x] `https://github.com/ebu/awesome-broadcasting` — PLAN.md:452, README.md:11, README.md:194; **automatic**.
+- [x] `https://github.com/ebu/ograf` — PLAN.md:75, README.md:65; **automatic**.
+- [x] `https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification.md` — README.md:70; **automatic**.
+- [x] `https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification_Server_API.md` — README.md:73; **automatic**.
+- [x] `https://github.com/ebu/ograf/issues` — PLAN.md:380, README.md:180; **automatic**.
+- [x] `https://github.com/ebu/ograf/pulls` — PLAN.md:380; **automatic**.
+- [x] `https://github.com/ebu/ograf/tree/main/v1/examples` — README.md:112; **automatic**.
+- [x] `https://github.com/ebu/ograf/tree/main/v1/specification/json-schemas` — README.md:71; **automatic**.
+- [x] `https://github.com/ebu/ograf/tree/main/v1/typescript-definitions` — README.md:74; **automatic**.
+- [x] `https://github.com/garris/BackstopJS` — README.md:315; **automatic**.
+- [x] `https://github.com/heretorecord/ograf-graphics-skill` — PLAN.md:96, README.md:93; **automatic**.
+- [x] `https://github.com/heygen-com/hyperframes` — README.md:405; **automatic**.
+- [x] `https://github.com/jaskie/PlayoutAutomation` — README.md:379; **automatic**.
+- [x] `https://github.com/jdanna/Resolve_Tools_Public/tree/main/docs/OGraf%20HTML%20Templates` — PLAN.md:126, README.md:116; **automatic**.
+- [x] `https://github.com/mapbox/pixelmatch` — README.md:318; **automatic**.
+- [x] `https://github.com/michalramus/caspar-obs-client` — README.md:377; **automatic**.
+- [x] `https://github.com/midrender/revideo` — README.md:411; **automatic**.
+- [x] `https://github.com/miwco/NoaCG-Studio` — PLAN.md:85, README.md:83; **automatic**.
+- [x] `https://github.com/motion-canvas/motion-canvas/discussions` — PLAN.md:391, README.md:184; **automatic**.
+- [x] `https://github.com/mug-lab-3/resolve-ograf` — PLAN.md:125, README.md:117; **automatic**.
+- [x] `https://github.com/nodecg/awesome-nodecg` — PLAN.md:289, README.md:195; **automatic**.
+- [x] `https://github.com/nodecg/nodecg` — PLAN.md:383, README.md:185; **automatic**.
+- [x] `https://github.com/nxtedition/nxt-graphics` — PLAN.md:106, README.md:103; **automatic**.
+- [x] `https://github.com/nytamin/ograf-graphics` — PLAN.md:113, README.md:113; **automatic**.
+- [x] `https://github.com/observablehq/plot` — README.md:301; **automatic**.
+- [x] `https://github.com/pixijs/pixijs/discussions/` — PLAN.md:386, README.md:186; **automatic**.
+- [x] `https://github.com/pjaspinski/ograf-to-image-sequence-renderer` — PLAN.md:108, README.md:105; **automatic**.
+- [x] `https://github.com/plotly/plotly.js` — README.md:302; **automatic**.
+- [x] `https://github.com/reearth/kamishibai` — README.md:406; **automatic**.
+- [x] `https://github.com/russellsamora/render-d3-video` — README.md:410; **automatic**.
+- [x] `https://github.com/ryanmccartney/ograf-dash.js` — PLAN.md:116, README.md:115; **automatic**.
+- [x] `https://github.com/sindresorhus/awesome` — PLAN.md:453, README.md:11; **automatic**.
+- [x] `https://github.com/stoatworks-labs/weblinked` — README.md:327; **automatic**.
+- [x] `https://github.com/suitougreentea/denocg` — README.md:325; **automatic**.
+- [x] `https://github.com/superflytv/GraphicsDataDefinition` — README.md:69; **automatic**.
+- [x] `https://github.com/timokorkalainen/dom-compositor-proto` — PLAN.md:124; **automatic**.
+- [x] `https://github.com/zerodensity/ograf-studio` — PLAN.md:86, README.md:84; **automatic**.
+- [x] `https://gsap.com/` — PLAN.md:296, README.md:270; **automatic**.
+- [x] `https://gsap.com/community/` — PLAN.md:385, README.md:181; **automatic**.
+- [x] `https://h2r.graphics/` — README.md:101; **automatic**.
+- [x] `https://h2r.graphics/docs/graphics/ograf/` — PLAN.md:103, README.md:171; **automatic**.
+- [x] `https://help.shotstack.io/en/articles/16312767-migrating-from-the-html-asset-to-html5` — README.md:412; **automatic**.
+- [x] `https://helpx.adobe.com/animate/desktop/interactivity/creating-publishing-html5-canvas-document.html` — README.md:266, scripts/check-policies.json:26; **manual exception**.
+- [x] `https://html.spec.whatwg.org/multipage/canvas.html` — README.md:235; **automatic**.
+- [x] `https://html.spec.whatwg.org/multipage/custom-elements.html` — README.md:239; **automatic**.
+- [x] `https://json-schema.org/draft/2020-12` — README.md:242; **automatic**.
+- [x] `https://jsonforms.io/` — README.md:317; **automatic**.
+- [x] `https://keepthescore.com/scoreboard-overlay/` — README.md:388; **automatic**.
+- [x] `https://konvajs.org/` — README.md:283; **automatic**.
+- [x] `https://lawo.com/products/home-graphic-inserter/` — README.md:361; **automatic**.
+- [x] `https://leafletjs.com/` — PLAN.md:298, README.md:298; **automatic**.
+- [x] `https://link.springer.com/book/10.1007/978-1-4302-3666-5` — README.md:154; **automatic**.
+- [x] `https://lit.dev/` — PLAN.md:295, README.md:284; **automatic**.
+- [x] `https://lottie.github.io/lottie-spec/` — README.md:219; **automatic**.
+- [x] `https://lottiefiles.com/` — README.md:423, scripts/check-policies.json:8; **manual exception**.
+- [x] `https://maplibre.org/community/` — PLAN.md:393, README.md:183; **automatic**.
+- [x] `https://maplibre.org/maplibre-gl-js/docs/` — PLAN.md:298, README.md:300; **automatic**.
+- [x] `https://medialooks.com/plugins/hmtl5` — README.md:363; **automatic**.
+- [x] `https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/` — README.md:344; **automatic**.
+- [x] `https://mosprotocol.com/` — PLAN.md:167, README.md:226; **automatic**.
+- [x] `https://motion.dev/` — PLAN.md:296, README.md:273; **automatic**.
+- [x] `https://motionarray.com/` — README.md:424, scripts/check-policies.json:9; **manual exception**.
+- [x] `https://motioncanvas.io/` — README.md:407; **automatic**.
+- [x] `https://ndi.video/for-developers/ndi-sdk/` — README.md:257; **automatic**.
+- [x] `https://obscoreboard.com/use-cases/sports-overlays-for-broadcasters/` — README.md:390; **automatic**.
+- [x] `https://obsproject.com/kb/browser-source` — README.md:345; **automatic**.
+- [x] `https://ograf.dev/` — PLAN.md:114, PLAN.md:381; **automatic**.
+- [x] `https://ograf.dev/ecosystem` — PLAN.md:114, PLAN.md:586, README.md:197; **automatic**.
+- [x] `https://ograf.dev/tools` — PLAN.md:94, README.md:95; **automatic**.
+- [x] `https://ograf.dev/tutorials` — README.md:172; **automatic**.
+- [x] `https://ograf.ebu.io/` — PLAN.md:74, README.md:5; **automatic**.
+- [x] `https://openlibrary.org/books/OL8662465M/Motion_Graphics` — README.md:155; **automatic**.
+- [x] `https://opensoundcontrol.stanford.edu/spec-1_0.html` — README.md:231; **automatic**.
+- [x] `https://opentype.js.org/` — PLAN.md:299, README.md:310; **automatic**.
+- [x] `https://overlays.uno/` — README.md:334; **automatic**.
+- [x] `https://pandainteractive.com/product` — README.md:417; **automatic**.
+- [x] `https://pixijs.com/` — PLAN.md:297, README.md:285; **automatic**.
+- [x] `https://playwright.dev/` — README.md:319; **automatic**.
+- [x] `https://poltergeist.cc/` — README.md:335; **automatic**.
+- [x] `https://pptr.dev/` — README.md:320; **automatic**.
+- [x] `https://pub.smpte.org/doc/` — PLAN.md:189, README.md:258; **automatic**.
+- [x] `https://rikschennink.github.io/fitty/` — PLAN.md:299, README.md:308; **automatic**.
+- [x] `https://rive.app/` — PLAN.md:296, README.md:274; **automatic**.
+- [x] `https://rive.app/docs/community/marketplace-overview` — README.md:425; **automatic**.
+- [x] `https://rive.app/docs/getting-started/introduction` — PLAN.md:389; **automatic**.
+- [x] `https://rtsw.co.uk/all-products/swift-engine/` — README.md:364; **automatic**.
+- [x] `https://sdiware.video/` — README.md:365; **automatic**.
+- [x] `https://search.worldcat.org/title/61711466` — README.md:152, scripts/check-policies.json:21; **manual exception**.
+- [x] `https://smartpanelapp.com/features` — README.md:337; **automatic**.
+- [x] `https://softron.tv/products/play/ontheair-weblink` — README.md:367; **automatic**.
+- [x] `https://spec.openapis.org/oas/latest.html` — README.md:243; **automatic**.
+- [x] `https://specs.amwa.tv/is-04/` — README.md:227; **automatic**.
+- [x] `https://specs.amwa.tv/is-05/` — README.md:228; **automatic**.
+- [x] `https://specs.amwa.tv/is-07/` — README.md:229; **automatic**.
+- [x] `https://specs.amwa.tv/is-12/` — README.md:230; **automatic**.
+- [x] `https://spxgraphics.com/software/integrations#ograf` — PLAN.md:102, README.md:107; **automatic**.
+- [x] `https://spxgraphics.com/software/more#nle` — README.md:399; **automatic**.
+- [x] `https://spxgraphics.com/store/` — README.md:426; **automatic**.
+- [x] `https://spxgraphics.com/support/` — PLAN.md:384, README.md:189; **automatic**.
+- [x] `https://stenciljs.com/` — PLAN.md:295, README.md:286; **automatic**.
+- [x] `https://streamshapers.com/docs` — README.md:167; **automatic**.
+- [x] `https://studiosupport.liveu.tv/hc/en-us/articles/17094646501659-Web-Page` — README.md:343; **automatic**.
+- [x] `https://support.ecamm.com/en/articles/3323618-using-overlays` — README.md:342; **automatic**.
+- [x] `https://support.flowics.com/en/articles/15393380-what-is-viz-flowics` — README.md:338; **automatic**.
+- [x] `https://support.singular.live/hc/en-us/articles/360055456751-Using-Singular-in-Post-Production-for-Windows` — README.md:135, scripts/check-policies.json:10; **manual exception**.
+- [x] `https://support.telestream.net/s/article/Wirecast-Web-Display` — README.md:348; **automatic**.
+- [x] `https://support.xsplit.com/en/article/webpage-1y1l6v/` — README.md:349; **automatic**.
+- [x] `https://tagboard.com/modern-interactive-graphics-system/` — README.md:392; **automatic**.
+- [x] `https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html` — README.md:240; **automatic**.
+- [x] `https://tech.ebu.ch/groups/html-graphics` — PLAN.md:77, README.md:64, scripts/check-policies.json:11; **manual exception**.
+- [x] `https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration` — README.md:131, scripts/check-policies.json:12; **manual exception**.
+- [x] `https://tech.ebu.ch/publications/r095` — README.md:253, scripts/check-policies.json:13; **manual exception**.
+- [x] `https://tech.ebu.ch/publications/r103` — README.md:251, scripts/check-policies.json:14; **manual exception**.
+- [x] `https://tech.ebu.ch/publications/r143` — README.md:252, scripts/check-policies.json:15; **manual exception**.
+- [x] `https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec` — README.md:133, scripts/check-policies.json:16; **manual exception**.
+- [x] `https://threejs.org/` — README.md:287; **automatic**.
+- [x] `https://toolsonair.com/usermanuals/justplaylivepro2026/2-13-html-based-graphic-templates-2026.html` — README.md:368; **automatic**.
+- [x] `https://turfjs.org/` — PLAN.md:298, README.md:303; **automatic**.
+- [x] `https://urn.fi/URN:NBN:fi:amk-2016060612041` — PLAN.md:371, README.md:144; **transient, rechecked**.
+- [x] `https://urn.fi/URN:NBN:fi:amk-2025052918037` — PLAN.md:370, README.md:143; **automatic**.
+- [x] `https://vega.github.io/vega-lite/` — PLAN.md:298, README.md:304; **automatic**.
+- [x] `https://videohive.net/category/after-effects-project-files/broadcast-packages` — README.md:427, scripts/check-policies.json:17; **manual exception**.
+- [x] `https://vindral.com/composer/` — README.md:370; **automatic**.
+- [x] `https://w3c.github.io/trusted-types/dist/spec/` — README.md:245; **automatic**.
+- [x] `https://web.classx.it/products-liveboard` — README.md:356; **automatic**.
+- [x] `https://www.adobe.com/products/aftereffects.html` — README.md:265, scripts/check-policies.json:27; **manual exception**.
+- [x] `https://www.amwa.tv/` — README.md:121; **automatic**.
+- [x] `https://www.aveco.com/en/download/22/cg-manager` — README.md:353, scripts/check-policies.json:25; **manual exception**.
+- [x] `https://www.babylonjs.com/` — README.md:280; **automatic**.
+- [x] `https://www.casparcg.com/docs/wiki/media/html-templates` — README.md:217; **automatic**.
+- [x] `https://www.casparcg.com/docs/wiki/server/producers/html-producer` — README.md:159; **automatic**.
+- [x] `https://www.chartjs.org/` — PLAN.md:298, README.md:292; **automatic**.
+- [x] `https://www.crystalvision.tv/wp/wp-content/uploads/2022/09/m-webkeymanual.pdf` — README.md:357; **automatic**.
+- [x] `https://www.datawrapper.de/features` — README.md:294; **automatic**.
+- [x] `https://www.easelive.tv/` — README.md:416; **automatic**.
+- [x] `https://www.ebu.ch/` — README.md:122, scripts/check-policies.json:18; **manual exception**.
+- [x] `https://www.etere.com/DocView/8818/Etere-ETX-Graphics-Capabilities-with-HTML5.aspx` — README.md:358; **automatic**.
+- [x] `https://www.everviz.com/` — README.md:295; **automatic**.
+- [x] `https://www.flowics.com/data-driven-graphics/` — README.md:393; **automatic**.
+- [x] `https://www.grassvalley.com/products/ampp/playout-x/` — README.md:333; **automatic**.
+- [x] `https://www.hbbtv.org/` — README.md:241; **automatic**.
+- [x] `https://www.highcharts.com/products/maps/` — README.md:297; **automatic**.
+- [x] `https://www.informit.com/store/core-html5-canvas-graphics-animation-and-game-development-9780132761611` — README.md:153; **automatic**.
+- [x] `https://www.itu.int/rec/R-REC-BT.2020` — README.md:254; **automatic**.
+- [x] `https://www.itu.int/rec/R-REC-BT.2100` — README.md:255; **automatic**.
+- [x] `https://www.itu.int/rec/R-REC-BT.709` — README.md:256; **automatic**.
+- [x] `https://www.khronos.org/webgl/` — README.md:247; **automatic**.
+- [x] `https://www.ligrsystems.com/what-is-ligr` — README.md:389; **automatic**.
+- [x] `https://www.loopic.io/ograf` — PLAN.md:84, README.md:82; **automatic**.
+- [x] `https://www.mxmz.com/products/nle-mam` — README.md:397; **automatic**.
+- [x] `https://www.neton.live/` — PLAN.md:104, README.md:102, scripts/check-policies.json:22; **manual exception**.
+- [x] `https://www.nodecg.dev/` — README.md:326; **automatic**.
+- [x] `https://www.npmjs.com/package/ograf` — PLAN.md:76, README.md:72, scripts/check-policies.json:19; **manual exception**.
+- [x] `https://www.remotion.dev/` — README.md:409; **automatic**.
+- [x] `https://www.remotion.dev/discord` — PLAN.md:390, README.md:187; **automatic**.
+- [x] `https://www.researchgate.net/publication/319442826_TV_Graphics_Personalization_Using_In-Band_Events` — README.md:148, scripts/check-policies.json:20; **manual exception**.
+- [x] `https://www.rossvideo.com/resources/ross-university/xpression-mos-html5-plugin/` — README.md:380; **automatic**.
+- [x] `https://www.sienna-tv.com/ndi/graphicartist.html` — README.md:366; **automatic**.
+- [x] `https://www.singular.live/` — README.md:336; **automatic**.
+- [x] `https://www.singular.live/recast` — README.md:398; **automatic**.
+- [x] `https://www.smpte.org/` — README.md:123; **automatic**.
+- [x] `https://www.smpte.org/standards/st2110` — README.md:259; **automatic**.
+- [x] `https://www.sportbuff.com/` — README.md:418; **automatic**.
+- [x] `https://www.spx.graphics/spx-graphics-helps-upgrade-finnish-lottery-production` — README.md:132; **automatic**.
+- [x] `https://www.statsperform.com/products/opta-graphics/` — README.md:391; **automatic**.
+- [x] `https://www.streamlayer.io/` — README.md:419; **automatic**.
+- [x] `https://www.streamshapers.com/ae-extension/` — README.md:87; **automatic**.
+- [x] `https://www.svgator.com/help/export-and-file-formats/lottie-support-in-svgator` — README.md:275; **automatic**.
+- [x] `https://www.theatrejs.com/` — PLAN.md:296, README.md:276; **automatic**.
+- [x] `https://www.videonlabs.com/liveedge-graphix` — README.md:369; **automatic**.
+- [x] `https://www.vizrt.com/ebooks/your-guide-to-html5-graphics-for-live-productions/` — README.md:136; **automatic**.
+- [x] `https://www.vizrt.com/products/tricaster-family/` — README.md:346; **automatic**.
+- [x] `https://www.vizrt.com/products/viz-connect-tetra/tech-specs/` — README.md:371; **automatic**.
+- [x] `https://www.vmix.com/help29/WebBrowser.html` — README.md:347; **automatic**.
+- [x] `https://www.w3.org/` — README.md:124; **automatic**.
+- [x] `https://www.w3.org/Style/CSS/` — README.md:237; **automatic**.
+- [x] `https://www.w3.org/TR/CSP3/` — README.md:236; **automatic**.
+- [x] `https://www.w3.org/TR/SVG2/` — README.md:244; **automatic**.
+- [x] `https://www.w3.org/TR/web-animations-1/` — README.md:246; **automatic**.
+- [x] `https://www.youtube.com/watch?v=-S_gBYPyCiw` — PLAN.md:141, README.md:206; **automatic**.
+- [x] `https://www.youtube.com/watch?v=2oJaECoOPoQ` — PLAN.md:147, README.md:201; **automatic**.
+- [x] `https://www.youtube.com/watch?v=3YZyWCjHK9U` — PLAN.md:143, README.md:203; **automatic**.
+- [x] `https://www.youtube.com/watch?v=6IMGzvxe1AY` — PLAN.md:136, README.md:208; **automatic**.
+- [x] `https://www.youtube.com/watch?v=AdZATSBByng` — PLAN.md:146, README.md:209; **automatic**.
+- [x] `https://www.youtube.com/watch?v=BnV55qu6vvg` — PLAN.md:144, README.md:202; **automatic**.
+- [x] `https://www.youtube.com/watch?v=P6VEWyv7-P0` — PLAN.md:140, README.md:207; **automatic**.
+- [x] `https://www.youtube.com/watch?v=e5LTFC9MlOI` — PLAN.md:145, README.md:210; **automatic**.
+- [x] `https://www.youtube.com/watch?v=gZRYTmngqLw` — PLAN.md:148, README.md:204; **automatic**.
+- [x] `https://www.youtube.com/watch?v=gw2SnjeGW9Q` — PLAN.md:135, README.md:205; **automatic**.
+- [x] `https://www.youtube.com/watch?v=u4wruk2QTs0` — PLAN.md:142, README.md:211; **automatic**.
