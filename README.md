@@ -270,6 +270,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [GSAP](https://gsap.com/) – **Source available; free to use under the Standard No Charge License.** Timeline animation toolkit for DOM, SVG, Canvas, and PixiJS graphics.
 - [Lottie-web](https://github.com/airbnb/lottie-web) – **Open source (MIT).** Web renderer and After Effects Bodymovin exporter for JSON vector animations.
 - [Motion](https://motion.dev/) – **Open source (MIT).** Web animation library for JavaScript, React, Vue, and browser-native animation APIs.
+- [Rive](https://rive.app/) – **Commercial authoring; open-source runtimes.** Interactive vector animation editor, state-machine format, and web runtimes.
 
 ### Web Components & Graphics Libraries
 
