@@ -242,6 +242,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [ECMAScript Modules](https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html) – JavaScript module semantics used by OGraf entry points and modern graphics applications.
 - [JSON Schema 2020-12](https://json-schema.org/draft/2020-12) – Schema vocabulary on which OGraf Graphic data definitions are based.
 - [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) – HTTP API description format used by the OGraf Server API definition.
+- [Scalable Vector Graphics](https://www.w3.org/TR/SVG2/) – Vector graphics format widely used for resolution-independent broadcast artwork and animation.
 
 #### Media Transport, Colour & Safety
 
