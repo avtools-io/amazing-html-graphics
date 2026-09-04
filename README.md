@@ -336,6 +336,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Rendering, Key-Fill & Video Output
 
+- [Aveco CGManager](https://www.aveco.com/en/) – **Commercial.** Broadcast graphics management and playout integration with HTML template workflows.
+
 ### Newsroom, Rundown & Automation
 
 ### Sports, Data & Audience Graphics
