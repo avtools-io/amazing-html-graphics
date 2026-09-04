@@ -357,6 +357,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [Bitfocus Companion](https://bitfocus.io/companion) – **Open core.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
 - [Bridge](https://github.com/SVT/bridge) – **Source available; no licence asserted.** Extensible SVT control client for real-time graphics systems.
+- [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) – **Open source (MIT).** Python GUI coordinating CasparCG playback and OBS Studio scene transitions.
 
 ### Sports, Data & Audience Graphics
 
