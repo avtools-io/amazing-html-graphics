@@ -401,11 +401,10 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Related Animation, Graphics & Playout
 
-- [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system carried over from Awesome Broadcasting.
+- [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system.
 - [ffplayout](https://github.com/ffplayout/ffplayout) – **Open source (GPL-3.0).** FFmpeg- and Rust-based broadcast playout from folders and playlists.
 - [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** Node.js bindings for Blackmagic devices, with Electron and Sevruga paths for HTML/CSS/SVG graphics output.
 - [Nebula](https://github.com/nebulabroadcast) – **Open source (GPL-3.0).** Media asset management and broadcast automation ecosystem.
 - [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) – **Open source (GPL-2.0).** CasparCG-based master-control-room playout and automation system.
 - [ossia score](https://ossia.io/) – **Open source (GPL-3.0).** Interactive intermedia sequencer for time-based audiovisual and show-control work.
 - [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) – **Open source (GPL-3.0).** Studio clip player with SDI, NDI, and MPEG-TS outputs.
-
