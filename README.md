@@ -327,6 +327,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Browser-capable Production Hosts
 
+- [LiveU Studio](https://www.liveu.tv/products/create/liveu-studio) – **Commercial; hosted/SaaS.** Cloud production switcher capable of using webpages as overlay sources.
+
 ### Rendering, Key-Fill & Video Output
 
 ### Newsroom, Rundown & Automation
