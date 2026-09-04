@@ -152,6 +152,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Books
 
 - [Broadcast Graphics on the Spot](https://search.worldcat.org/title/61711466) – Practical broadcast and post-production graphics techniques using Photoshop and After Effects.
+- [Core HTML5 Canvas](https://www.informit.com/store/core-html5-canvas-graphics-animation-and-game-development-9780132761611) – General Canvas graphics and animation reference applicable to custom browser graphics.
 
 ### Documentation & Knowledge Sources
 
