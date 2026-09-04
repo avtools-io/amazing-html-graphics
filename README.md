@@ -243,6 +243,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [JSON Schema 2020-12](https://json-schema.org/draft/2020-12) – Schema vocabulary on which OGraf Graphic data definitions are based.
 - [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) – HTTP API description format used by the OGraf Server API definition.
 - [Scalable Vector Graphics](https://www.w3.org/TR/SVG2/) – Vector graphics format widely used for resolution-independent broadcast artwork and animation.
+- [Trusted Types](https://w3c.github.io/trusted-types/dist/spec/) – DOM injection-sink controls that complement sanitisation and Content Security Policy.
 
 #### Media Transport, Colour & Safety
 
