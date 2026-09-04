@@ -73,6 +73,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OGraf JSON Schemas](https://github.com/ebu/ograf/tree/main/v1/specification/json-schemas) – Normative JSON Schemas for validating OGraf manifests and Graphics data definitions.
 - [OGraf npm package](https://www.npmjs.com/package/ograf) – **Open source (MIT).** Informative TypeScript definitions for the OGraf Graphics and Server APIs.
 - [OGraf Server API](https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification_Server_API.md) – The REST/OpenAPI contract between Controllers and rendering systems.
+- [OGraf TypeScript definitions](https://github.com/ebu/ograf/tree/main/v1/typescript-definitions) – **Open source (MIT).** Informative lifecycle, action, manifest, and Server API types maintained with the specification.
 
 ### Editors & Exporters
 
