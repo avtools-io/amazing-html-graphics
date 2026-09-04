@@ -271,6 +271,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Lottie-web](https://github.com/airbnb/lottie-web) – **Open source (MIT).** Web renderer and After Effects Bodymovin exporter for JSON vector animations.
 - [Motion](https://motion.dev/) – **Open source (MIT).** Web animation library for JavaScript, React, Vue, and browser-native animation APIs.
 - [Rive](https://rive.app/) – **Commercial authoring; open-source runtimes.** Interactive vector animation editor, state-machine format, and web runtimes.
+- [Theatre.js](https://www.theatrejs.com/) – **Open source (Apache-2.0).** Visual animation and sequencing environment for JavaScript, Three.js, and React projects.
 
 ### Web Components & Graphics Libraries
 
