@@ -399,4 +399,5 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Related Animation, Graphics & Playout
 
 - [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system carried over from Awesome Broadcasting.
+- [ffplayout](https://github.com/ffplayout/ffplayout) – **Open source (GPL-3.0).** FFmpeg- and Rust-based broadcast playout from folders and playlists.
 
