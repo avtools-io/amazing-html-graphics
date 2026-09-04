@@ -355,6 +355,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Newsroom, Rundown & Automation
 
+- [Bitfocus Companion](https://bitfocus.io/companion) – **Open core.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
+
 ### Sports, Data & Audience Graphics
 
 ### Post-production & NLE Integration
