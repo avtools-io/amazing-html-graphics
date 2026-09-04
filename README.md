@@ -239,6 +239,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [CSS](https://www.w3.org/Style/CSS/) – W3C specifications and working-group material for layout, styling, transforms, masking, and animation.
 - [CSS Font Loading](https://drafts.csswg.org/css-font-loading/) – API specification for controlling and observing font loading.
 - [Custom Elements](https://html.spec.whatwg.org/multipage/custom-elements.html) – WHATWG lifecycle and registration model underlying the Web Components exported by OGraf Graphics.
+- [ECMAScript Modules](https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html) – JavaScript module semantics used by OGraf entry points and modern graphics applications.
 
 #### Media Transport, Colour & Safety
 
