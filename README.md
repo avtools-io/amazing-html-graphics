@@ -230,6 +230,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [NMOS IS-05](https://specs.amwa.tv/is-05/) – Connection management for establishing media flows between NMOS senders and receivers.
 - [NMOS IS-07](https://specs.amwa.tv/is-07/) – Event and tally transport for production applications.
 - [NMOS IS-12](https://specs.amwa.tv/is-12/) – Control protocol for discovering and manipulating device capabilities.
+- [Open Sound Control](https://opensoundcontrol.stanford.edu/spec-1_0.html) – Network control message format used by some graphics and show-control tools.
 
 #### Web Platform
 
