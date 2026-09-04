@@ -130,6 +130,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Articles & Case Studies
 
 - [AWS HTML5 Motion Overlay Walkthrough](https://docs.aws.amazon.com/elemental-live/latest/ug/how-to-insert-a-motion-overlay-with-html5.html) – Shows how AWS Elemental Live burns a continuously published HTML5 motion overlay into encoded outputs.
+- [EBU's Open Spec for Cross-Platform Graphics Integration](https://tech.ebu.ch/news/2025/04/ograf-the-ebu%27s-open-spec-for-cross-platform-graphics-integration) – Introduces OGraf goals, architecture, and multi-platform live and post-production use cases.
 
 ### Scientific Literature & Theses
 
