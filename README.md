@@ -307,6 +307,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [DOMPurify](https://github.com/cure53/DOMPurify) – **Open source (Apache-2.0 OR MPL-2.0).** DOM-only sanitizer for untrusted operator, newsroom, and remote HTML data.
 - [JSON Forms](https://jsonforms.io/) – **Open source (MIT).** Schema-driven form framework applicable to graphics data-entry and control interfaces.
 - [Playwright](https://playwright.dev/) – **Open source (Apache-2.0).** Browser automation for lifecycle tests, screenshots, data extremes, and repeatable render checks.
+- [Puppeteer](https://pptr.dev/) – **Open source (Apache-2.0).** Chrome automation API used for testing, screenshots, and HTML-to-video capture workflows.
 
 ### Open-source Graphics Systems
 
