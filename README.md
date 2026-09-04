@@ -102,6 +102,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Erizos](https://docs.erizos.tv/userguide/BasicConfig/) – **Commercial; hosted/SaaS.** Cloud production system with changelog-documented OGraf support alongside its HTML Composer workflow.
 - [H2R Graphics](https://h2r.graphics/) – **Commercial; free edition available.** Live graphics application that directly imports OGraf Graphics and generates operator fields from their data schema.
 - [NetOn.Live LiveOS](https://www.neton.live/) – **Commercial.** Software-defined production platform with a vendor-documented OGraf-compliant HTML graphics engine.
+- [nxt-graphics](https://github.com/nxtedition/nxt-graphics) – **Source available; no licence asserted.** An OGraf host Graphic used in nxtedition editing and timeline workflows.
 
 ### Examples & Templates
 
