@@ -166,6 +166,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [MDN CSS Font Loading API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API) – Reference for explicitly loading and checking fonts before playout or offline capture.
 - [MDN Custom Elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements) – Guide to defining the custom elements used as the packaging boundary for OGraf Graphics.
 - [SPX HTML Template Format](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Formats/HTML) – Documents SPX HTML/CSS/JavaScript templates, template definitions, and operator fields.
+- [StreamShapers Documentation](https://streamshapers.com/docs) – Documentation and tutorials covering Ferryman, After Effects, OGraf, CasparCG, SPX, and HTML templates.
 
 ### Education & Tutorials
 
