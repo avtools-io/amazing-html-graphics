@@ -266,6 +266,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) – **Commercial; subscription.** Motion-design and compositing application used by Bodymovin/Lottie and OGraf conversion workflows.
 - [Anime.js](https://animejs.com/) – **Open source (MIT).** Lightweight JavaScript animation engine for DOM, SVG, and JavaScript objects.
 - [Blender](https://www.blender.org/) – **Open source (GPL-3.0-or-later).** 3D creation, animation, compositing, and video-editing suite useful for rendered assets and motion design.
+- [dotLottie](https://dotlottie.io/) – **Open source ecosystem.** Tools and runtimes for packaged Lottie animations, themes, state machines, and web playback.
 
 ### Web Components & Graphics Libraries
 
