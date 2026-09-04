@@ -235,6 +235,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 #### Web Platform
 
 - [Canvas 2D](https://html.spec.whatwg.org/multipage/canvas.html) – WHATWG definition of the immediate-mode 2D drawing surface used by browser graphics.
+- [Content Security Policy](https://www.w3.org/TR/CSP3/) – Browser policy for restricting executable and fetched content in graphics that consume remote or untrusted data.
 
 #### Media Transport, Colour & Safety
 
