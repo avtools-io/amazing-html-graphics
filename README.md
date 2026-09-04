@@ -71,6 +71,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Graphics Data Definition](https://github.com/superflytv/GraphicsDataDefinition) – **Deprecated.** The predecessor data-description project incorporated into OGraf; useful for historical GDD templates and tools.
 - [OGraf Graphics specification](https://github.com/ebu/ograf/blob/main/v1/specification/docs/Specification.md) – The normative v1 package, manifest, Web Component, lifecycle, action, and non-real-time rendering requirements.
 - [OGraf JSON Schemas](https://github.com/ebu/ograf/tree/main/v1/specification/json-schemas) – Normative JSON Schemas for validating OGraf manifests and Graphics data definitions.
+- [OGraf npm package](https://www.npmjs.com/package/ograf) – **Open source (MIT).** Informative TypeScript definitions for the OGraf Graphics and Server APIs.
 
 ### Editors & Exporters
 
