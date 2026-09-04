@@ -390,8 +390,12 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Sports, Data & Audience Graphics
 
-- [LIGR](https://www.ligrsystems.com/) – **Commercial; hosted/SaaS.** Automated, data-driven sports graphics platform for live streams and broadcast feeds.
-- [Viz Flowics Data Connectors](https://www.flowics.com/data-connectors) – **Commercial; hosted/SaaS.** Connectors for sports, weather, finance, elections, and social data used in HTML5 graphics.
+- [KeepTheScore](https://keepthescore.com/scoreboard-overlay/) – **Commercial; hosted/SaaS with free tier.** **Control, rendering, integration.** Browser scoreboard overlays with remote control, Stream Deck support, and a documented REST API.
+- [LIGR](https://www.ligrsystems.com/what-is-ligr) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Automated, data-driven sports graphics platform for live streams and broadcast feeds.
+- [OBScoreboard](https://obscoreboard.com/use-cases/sports-overlays-for-broadcasters/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Browser-based scoreboards and sports overlays with branding, remote operation, and API workflows.
+- [Opta Graphics](https://www.statsperform.com/products/opta-graphics/) – **Commercial.** **Authoring, rendering, integration.** Template-driven sports graphics powered by live Opta data for broadcast and digital outputs.
+- [Tagboard](https://tagboard.com/modern-interactive-graphics-system/) – **Commercial; hosted/SaaS.** **Authoring, control, rendering, integration.** Cloud graphics and audience-engagement platform with social, interactive, and sports-data integrations.
+- [Viz Flowics Data Connectors](https://www.flowics.com/data-connectors) – **Commercial; hosted/SaaS.** **Control, integration.** Connectors for sports, weather, finance, elections, and social data used in HTML5 graphics.
 
 ### Post-production & NLE Integration
 
