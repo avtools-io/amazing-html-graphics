@@ -268,6 +268,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Blender](https://www.blender.org/) – **Open source (GPL-3.0-or-later).** 3D creation, animation, compositing, and video-editing suite useful for rendered assets and motion design.
 - [dotLottie](https://dotlottie.io/) – **Open source ecosystem.** Tools and runtimes for packaged Lottie animations, themes, state machines, and web playback.
 - [GSAP](https://gsap.com/) – **Source available; free to use under the Standard No Charge License.** Timeline animation toolkit for DOM, SVG, Canvas, and PixiJS graphics.
+- [Lottie-web](https://github.com/airbnb/lottie-web) – **Open source (MIT).** Web renderer and After Effects Bodymovin exporter for JSON vector animations.
 
 ### Web Components & Graphics Libraries
 
