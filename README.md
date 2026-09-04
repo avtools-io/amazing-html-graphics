@@ -289,6 +289,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Apache ECharts](https://echarts.apache.org/) – **Open source (Apache-2.0).** Canvas/SVG charting library for dashboards, explainers, elections, weather, and sports data.
 - [Chart.js](https://www.chartjs.org/) – **Open source (MIT).** Canvas charting library for animated, responsive data graphics.
 - [D3](https://d3js.org/) – **Open source (ISC).** Low-level toolkit for binding data to DOM, SVG, and Canvas visualisations.
+- [everviz](https://www.everviz.com/) – **Commercial; hosted/SaaS.** No-code charts and maps platform with broadcast integrations including documented OGraf output.
 
 ### Typography & Font Handling
 
