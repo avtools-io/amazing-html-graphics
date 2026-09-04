@@ -110,6 +110,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Examples & Templates
 
+- [CBC/Radio-Canada MXL Hands-on](https://github.com/cbcrc/mxl-hands-on) – **Open source (Apache-2.0).** Workshop material containing an HTML5 keyer and OGraf teleprompter transported over MXL.
+
 ## Organizations & Communities
 
 ## Resources
