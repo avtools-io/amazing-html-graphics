@@ -249,6 +249,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 #### Media Transport, Colour & Safety
 
+- [EBU R 103](https://tech.ebu.ch/publications/r103) – Video signal tolerance recommendations relevant to legal broadcast graphics output.
+
 ## Tools & Products
 
 ### Authoring, Animation & Conversion
