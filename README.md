@@ -377,6 +377,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### HTML-to-Video & Offline Rendering
 
+- [BeamToIX](https://github.com/a-bentofreire/beamtoix) – **Open source (MIT).** Frame-by-frame web animation framework with deterministic rendering and video-generation tooling.
+
 ### Interactive & Player-side Graphics
 
 ### Templates, Marketplaces & Services
