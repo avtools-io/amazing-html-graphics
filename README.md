@@ -380,6 +380,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [BeamToIX](https://github.com/a-bentofreire/beamtoix) – **Open source (MIT).** Frame-by-frame web animation framework with deterministic rendering and video-generation tooling.
 - [HTML5 Animation Video Renderer](https://github.com/dtinth/html5-animation-video-renderer) – **Source available; no licence asserted. Experimental.** Captures HTML5 animation frame by frame for high-quality video encoding.
 - [Motion Canvas](https://motioncanvas.io/) – **Open source (MIT).** TypeScript and Canvas-based system for programmatic, timeline-controlled motion graphics and video.
+- [Puppeteer Capture](https://github.com/alexey-pelykh/puppeteer-capture) – **Open source (MIT).** Puppeteer plugin for capturing browser pages to video.
 
 ### Interactive & Player-side Graphics
 
