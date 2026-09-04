@@ -321,6 +321,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Grabyo Producer](https://about.grabyo.com/live-cloud-production/) – **Commercial; hosted/SaaS.** Browser-based live production platform with HTML graphics and third-party graphics integrations.
 - [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** Cloud production and playout platform with HTML5 graphics applications.
 - [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** Browser-source overlay creation and control for streaming and live events.
+- [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
 
 ### Browser-capable Production Hosts
 
