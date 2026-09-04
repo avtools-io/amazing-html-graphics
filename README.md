@@ -158,6 +158,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Documentation & Knowledge Sources
 
+- [CasparCG HTML Producer](https://github.com/CasparCG/server/wiki/HTML-Producer) – Technical notes for the Chromium-based CasparCG HTML producer.
+
 ### Education & Tutorials
 
 ### Forums & Community
