@@ -120,6 +120,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ## Organizations & Communities
 
+- [Advanced Media Workflow Association](https://www.amwa.tv/) – Develops the open NMOS specifications used to discover, connect, and control professional IP-media systems.
+
 ## Resources
 
 ### Articles & Case Studies
