@@ -349,6 +349,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [SDI-Ware](https://sdiware.video/) – **Commercial.** Software for rendering HTML graphics to professional video outputs.
 - [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** NDI-oriented HTML5 graphics authoring and rendering system.
 - [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** Renders webpages to broadcast video with fill-and-key output options.
+- [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
 
 ### Newsroom, Rundown & Automation
 
