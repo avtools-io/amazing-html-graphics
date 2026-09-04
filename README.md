@@ -114,6 +114,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [EBU OGraf examples](https://github.com/ebu/ograf/tree/main/v1/examples) – Reference Graphics and test material maintained with the official specification.
 - [Johan Nyman's OGraf Graphics](https://github.com/nytamin/ograf-graphics) – **Open source (MIT).** A community collection of OGraf example Graphics and experiments.
 - [Lotties for Broadcast](https://github.com/Streamshapers/LottiesForBroadcast) – **Source available; no licence asserted.** Example Lottie animations and templates for Ferryman, SPX, and CasparCG workflows.
+- [OGraf over dash.js](https://github.com/ryanmccartney/ograf-dash.js) – **Source available; no licence asserted. Proof of concept.** Demonstrates an OGraf overlay rendered over a dash.js video player.
 
 ## Organizations & Communities
 
