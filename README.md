@@ -347,6 +347,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Medialooks HTML5 Graphics](https://support.medialooks.com/hc/en-us/articles/360000210892-HTML5-graphics) – **Commercial.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
 - [RT Software Swift Engine](https://rtsw.co.uk/products/swift-engine/) – **Commercial.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
 - [SDI-Ware](https://sdiware.video/) – **Commercial.** Software for rendering HTML graphics to professional video outputs.
+- [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** NDI-oriented HTML5 graphics authoring and rendering system.
 
 ### Newsroom, Rundown & Automation
 
