@@ -366,6 +366,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Sports, Data & Audience Graphics
 
+- [LIGR](https://www.ligrsystems.com/) – **Commercial; hosted/SaaS.** Automated, data-driven sports graphics platform for live streams and broadcast feeds.
+
 ### Post-production & NLE Integration
 
 ### HTML-to-Video & Offline Rendering
