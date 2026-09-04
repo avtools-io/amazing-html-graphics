@@ -297,6 +297,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Typography & Font Handling
 
+- [Fitty](https://rikschennink.github.io/fitty/) – **Open source (MIT).** Fits dynamic text into its container, useful for unpredictable names, headlines, and scores.
+
 ### Testing, Performance & Security
 
 ### Open-source Graphics Systems
