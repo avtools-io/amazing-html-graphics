@@ -257,6 +257,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709) – HDTV picture characteristics and colourimetry commonly targeted by broadcast graphics.
 - [NDI](https://ndi.video/for-developers/ndi-sdk/) – Commercial IP video ecosystem commonly used to carry rendered graphics and alpha-capable workflows.
 - [SMPTE Public Standards](https://pub.smpte.org/doc/) – Free canonical access portal for published SMPTE standards and engineering documents.
+- [SMPTE ST 2110](https://www.smpte.org/standards/st2110) – Professional Media over Managed IP suite used for uncompressed video and fill/key transport; it does not define graphics templates.
 
 ## Tools & Products
 
