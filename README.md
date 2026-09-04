@@ -140,6 +140,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Scientific Literature & Theses
 
 - [A Cross-Device and Cross-OS Benchmark of Modern Web Animation Systems](https://doi.org/10.3390/jimaging12010045) – Peer-reviewed benchmark of modern web animation approaches across devices and operating systems.
+- [A Survey of Digital Television Interactivity Technologies](https://doi.org/10.3390/s22176542) – Peer-reviewed survey providing technical context for interactive television delivery and standards.
 
 ### Books
 
