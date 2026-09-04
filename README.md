@@ -355,22 +355,25 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Rendering, Key-Fill & Video Output
 
-- [Aveco CGManager](https://www.aveco.com/en/) – **Commercial.** Broadcast graphics management and playout integration with HTML template workflows.
-- [AWS Elemental Live](https://aws.amazon.com/elemental-live/) – **Commercial.** On-premises live encoder that can burn continuously published HTML5 motion overlays into outputs.
-- [AWS Elemental MediaLive](https://aws.amazon.com/medialive/) – **Commercial; hosted/SaaS.** Managed live encoding service with HTML5 motion-overlay support.
-- [Crystal Vision M-WEBKEY](https://crystalvision.tv/products/m-webkey.html) – **Commercial.** Hardware web-page keyer providing SDI fill/key and composited output.
-- [Etere ETX](https://www.etere.com/) – **Commercial.** Channel-in-a-box and graphics engine supporting HTML5/WebGL graphics.
-- [gstcefsrc](https://github.com/centricular/gstcefsrc) – **Open source (LGPL-2.1).** GStreamer source element wrapping CEF to turn HTML and JavaScript pages into video and audio streams; it is a building block rather than an OGraf server.
-- [keyfillwebview](https://github.com/aDifferentJT/keyfillwebview) – **Source available; no licence asserted. Experimental.** Small browser renderer targeting separate key and fill output.
-- [Lawo HOME Graphic Inserter](https://lawo.com/products/home-graphic-inserter/) – **Commercial.** HTML5 graphics insertion application for HOME-based IP production workflows.
-- [Medialooks HTML5 Graphics](https://support.medialooks.com/hc/en-us/articles/360000210892-HTML5-graphics) – **Commercial.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
-- [RT Software Swift Engine](https://rtsw.co.uk/products/swift-engine/) – **Commercial.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
-- [SDI-Ware](https://sdiware.video/) – **Commercial.** Software for rendering HTML graphics to professional video outputs.
-- [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** NDI-oriented HTML5 graphics authoring and rendering system.
-- [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** Renders webpages to broadcast video with fill-and-key output options.
-- [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
-- [Vindral Composer](https://vindral.com/products/composer) – **Commercial; hosted/SaaS.** Browser-based graphics compositor for low-latency live-stream overlays.
-- [Viz Connect Tetra](https://www.vizrt.com/products/viz-connect-tetra/) – **Commercial.** Broadcast connectivity appliance that can turn supported graphics sources into SDI or IP outputs.
+- [Aveco CGManager](https://www.aveco.com/en/download/22/cg-manager) – **Commercial.** **Authoring, control, integration.** Graphics management software with documented HTML template packaging and playout-server integration.
+- [AWS Elemental Live](https://aws.amazon.com/elemental-live/) – **Commercial.** **Control, rendering, integration.** On-premises live encoder that can burn a continuously published HTML5 motion overlay into encoded outputs.
+- [AWS Elemental MediaLive](https://docs.aws.amazon.com/medialive/latest/ug/feature-mgi.html) – **Commercial; hosted/SaaS.** **Control, rendering, integration.** Managed live encoding service with scheduled HTML5 motion-graphics overlays.
+- [ClassX LiveBoard](https://web.classx.it/products-liveboard) – **Commercial.** **Authoring, control, rendering, integration.** HTML5-oriented broadcast graphics platform with data-driven templates, MOS, and SDI/NDI fill-and-key output.
+- [Crystal Vision M-WEBKEY](https://crystalvision.tv/products/m-webkey.html) – **Commercial.** **Control, rendering, integration.** Hardware web-page keyer providing SDI fill/key and composited output.
+- [Etere ETX](https://www.etere.com/DocView/8818/Etere-ETX-Graphics-Capabilities-with-HTML5.aspx) – **Commercial.** **Authoring, control, rendering, integration.** Channel-in-a-box and graphics engine with documented HTML5, WebGL, webpage-capture, and JavaScript control capabilities.
+- [gstcefsrc](https://github.com/centricular/gstcefsrc) – **Open source (LGPL-2.1).** **Rendering, integration.** GStreamer source element wrapping CEF to turn HTML and JavaScript pages into video and audio streams; it is not an OGraf server.
+- [keyfillwebview](https://github.com/aDifferentJT/keyfillwebview) – **Source available; no licence asserted. Experimental.** **Rendering, integration.** Small browser renderer targeting separate key and fill output.
+- [Lawo HOME Graphic Inserter](https://lawo.com/products/home-graphic-inserter/) – **Commercial.** **Control, rendering, integration.** HTML5 graphics insertion application for HOME-based IP production workflows.
+- [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** **Rendering, integration.** Node.js bindings for Blackmagic devices, with Electron and SVG paths for HTML/CSS/SVG graphics output.
+- [Medialooks HTML5 Graphics](https://medialooks.com/plugins/hmtl5) – **Commercial.** **Control, rendering, integration.** Chromium-based HTML graphics plugin for the MPlatform and MFormats SDKs.
+- [RT Software Swift Engine](https://rtsw.co.uk/products/swift-engine/) – **Commercial.** **Control, rendering, integration.** HTML5 broadcast graphics renderer for live, newsroom, and channel-branding workflows.
+- [SDI-Ware](https://sdiware.video/) – **Commercial.** **Control, rendering, integration.** Software for rendering HTML graphics to professional video outputs.
+- [Sienna GraphicArtist](https://www.sienna-tv.com/ndi/graphicartist.html) – **Commercial.** **Authoring, control, rendering, integration.** macOS HTML5 graphics system with NDI-oriented fill-and-key output.
+- [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** **Control, rendering, integration.** Renders transparent webpages to broadcast video with external fill-and-key options.
+- [ToolsOnAir HTML-based Graphic Templates](https://toolsonair.com/usermanuals/justplaylivepro2026/2-13-html-based-graphic-templates-2026.html) – **Commercial.** **Import, control, rendering, integration.** just:live and just:play workflow for external HTML graphics URLs with SDI fill/key and IP output paths.
+- [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** **Control, rendering, integration.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
+- [Vindral Composer](https://vindral.com/products/composer) – **Commercial; hosted/SaaS.** **Authoring, rendering, integration.** Browser-based graphics compositor for low-latency live-stream overlays.
+- [Viz Connect Tetra](https://www.vizrt.com/products/viz-connect-tetra/tech-specs/) – **Commercial.** **Import, rendering, integration.** Appliance that converts supported Viz Flowics HTML5 sources to NDI or SDI, including fill-and-key.
 
 ### Newsroom, Rundown & Automation
 

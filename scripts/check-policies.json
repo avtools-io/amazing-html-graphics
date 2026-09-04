@@ -25,6 +25,7 @@
     "500 https://www.neton.live/"
   ],
   "allowedCurlErrors": [
+    "35 https://www.aveco.com/en/download/22/cg-manager",
     "92 https://helpx.adobe.com/animate/desktop/interactivity/creating-publishing-html5-canvas-document.html",
     "92 https://www.adobe.com/products/aftereffects.html"
   ],
