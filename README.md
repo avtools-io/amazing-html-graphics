@@ -205,6 +205,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [HTML-Based Graphics for Multi-Platform Production](https://www.youtube.com/watch?v=3YZyWCjHK9U) – IBCShow, 5:33 — Kickstart pitch that provides historical context for interoperable HTML graphics work.
 - [Loopic CasparCG Lower Third](https://www.youtube.com/watch?v=gZRYTmngqLw) – Geert Verhoeff, 17:29 — creates a simple CasparCG lower third with Loopic.
 - [OGraf](https://www.youtube.com/watch?v=gw2SnjeGW9Q) – OGraf EBU, 4:54 — concise overview of the specification and workflow.
+- [OGraf Maps in Erizos Studio](https://www.youtube.com/watch?v=-S_gBYPyCiw) – everviz, 0:13 — short demonstration of an OGraf map in Erizos Studio.
 
 ### Standards, Specifications & Protocols
 
