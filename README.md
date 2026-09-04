@@ -147,6 +147,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Presentation Accuracy of the Web Revisited](https://doi.org/10.1371/journal.pone.0109812) – Peer-reviewed study of timing accuracy among HTML5-era browser animation methods.
 - [Television Infographics as Orienting Response](https://doi.org/10.1177/19312431211039500) – Peer-reviewed eye-tracking study of attention and recall around television infographics.
 - [Titling for Live Streaming and File-Based Broadcast Workflows](https://doi.org/10.5594/M001731) – SMPTE conference paper on reusable, data-driven titling across live and file-based outputs.
+- [TV Graphics Personalization Using In-Band Events](https://www.researchgate.net/publication/319442826_TV_Graphics_Personalization_Using_In-Band_Events) – Research on event-driven HTML overlays synchronized with MPEG-DASH playback; no paper-specific DOI is asserted here.
 
 ### Books
 
