@@ -134,6 +134,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [NEP Finland LiveOS and SPX Case Study](https://www.spx.graphics/spx-graphics-helps-upgrade-finnish-lottery-production) – Vendor case study describing integrated HTML5 graphics for Lotto and Eurojackpot productions.
 - [OGraf Webinar Slide Deck](https://tech.ebu.ch/publications/webinar-ograf-html-graphics-spec) – EBU presentation explaining the HTML graphics specification, packaging, APIs, and intended workflows.
 - [SPX: How to Create HTML Graphics](https://docs.spxgraphics.com/Documentation/Graphic%2BTemplates/Overview) – Compares custom HTML, Lottie/After Effects, Loopic, and Rive authoring approaches for broadcast graphics.
+- [Using Singular in Post Production](https://support.singular.live/hc/en-us/articles/360055456751-Using-Singular-in-Post-Production-for-Windows) – Vendor workflow for recording browser-rendered graphics with transparency for Premiere Pro or After Effects.
 
 ### Scientific Literature & Theses
 
