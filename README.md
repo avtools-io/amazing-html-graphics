@@ -317,6 +317,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Commercial & Cloud Graphics Platforms
 
+- [Dizplai](https://www.dizplai.com/) – **Commercial; hosted/SaaS.** Cloud live graphics, audience engagement, and data integration platform.
+
 ### Browser-capable Production Hosts
 
 ### Rendering, Key-Fill & Video Output
