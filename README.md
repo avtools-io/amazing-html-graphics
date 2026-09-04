@@ -275,6 +275,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Web Components & Graphics Libraries
 
+- [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
+
 ### Data Visualization & Maps
 
 ### Typography & Font Handling
