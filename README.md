@@ -403,4 +403,5 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** Node.js bindings for Blackmagic devices, with Electron and Sevruga paths for HTML/CSS/SVG graphics output.
 - [Nebula](https://github.com/nebulabroadcast) – **Open source (GPL-3.0).** Media asset management and broadcast automation ecosystem.
 - [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) – **Open source (GPL-2.0).** CasparCG-based master-control-room playout and automation system.
+- [ossia score](https://ossia.io/) – **Open source (GPL-3.0).** Interactive intermedia sequencer for time-based audiovisual and show-control work.
 
