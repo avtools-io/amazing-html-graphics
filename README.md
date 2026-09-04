@@ -57,7 +57,6 @@ Software and product entries use bold labels to describe availability, delivery,
   - [HTML-to-Video & Offline Rendering](#html-to-video--offline-rendering)
   - [Interactive & Player-side Graphics](#interactive--player-side-graphics)
   - [Templates & Marketplaces](#templates--marketplaces)
-  - [Related Animation, Graphics & Playout](#related-animation-graphics--playout)
 
 ## Contributors to This List
 
@@ -431,13 +430,3 @@ Software and product entries use bold labels to describe availability, delivery,
 - [Rive Marketplace](https://rive.app/docs/community/marketplace-overview) – **Commercial marketplace.** **Import, integration.** Community marketplace for reusable interactive Rive animations and components.
 - [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** **Import, integration.** Ready-made SPX HTML and OGraf templates for broadcast and streaming workflows.
 - [VideoHive Broadcast Packages](https://videohive.net/category/after-effects-project-files/broadcast-packages) – **Commercial marketplace.** **Import, integration.** After Effects broadcast packages that can supply source artwork for supported HTML and OGraf conversion workflows.
-
-### Related Animation, Graphics & Playout
-
-- [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system.
-- [ffplayout](https://github.com/ffplayout/ffplayout) – **Open source (GPL-3.0).** FFmpeg- and Rust-based broadcast playout from folders and playlists.
-- [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** Node.js bindings for Blackmagic devices, with Electron and Sevruga paths for HTML/CSS/SVG graphics output.
-- [Nebula](https://github.com/nebulabroadcast) – **Open source (GPL-3.0).** Media asset management and broadcast automation ecosystem.
-- [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) – **Open source (GPL-2.0).** CasparCG-based master-control-room playout and automation system.
-- [ossia score](https://ossia.io/) – **Open source (GPL-3.0).** Interactive intermedia sequencer for time-based audiovisual and show-control work.
-- [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) – **Open source (GPL-3.0).** Studio clip player with SDI, NDI, and MPEG-TS outputs.
