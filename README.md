@@ -252,6 +252,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [EBU R 103](https://tech.ebu.ch/publications/r103) – Video signal tolerance recommendations relevant to legal broadcast graphics output.
 - [EBU R 143](https://tech.ebu.ch/publications/r143) – Cybersecurity recommendations for media vendors and systems, relevant to networked graphics deployments.
 - [EBU R 95](https://tech.ebu.ch/publications/r095) – Safe-area recommendations for 16:9 television production across SD, HD, and UHD.
+- [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020) – UHDTV picture parameters and wide-colour-gamut primaries.
 
 ## Tools & Products
 
