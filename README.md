@@ -160,6 +160,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [CasparCG HTML Producer](https://github.com/CasparCG/server/wiki/HTML-Producer) – Technical notes for the Chromium-based CasparCG HTML producer.
 - [CasparCG HTML Template Guide](https://chrisryanouellette.gitbook.io/casparcg-html-template-guide) – Community guide to the CasparCG HTML template lifecycle, data updates, and authoring patterns.
+- [Chrome DevTools Performance Reference](https://developer.chrome.com/docs/devtools/performance/reference) – Reference for recording and interpreting browser rendering, scripting, layout, paint, and frame performance.
 
 ### Education & Tutorials
 
