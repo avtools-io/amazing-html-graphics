@@ -112,6 +112,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [CBC/Radio-Canada MXL Hands-on](https://github.com/cbcrc/mxl-hands-on) – **Open source (Apache-2.0).** Workshop material containing an HTML5 keyer and OGraf teleprompter transported over MXL.
 - [EBU OGraf examples](https://github.com/ebu/ograf/tree/main/v1/examples) – Reference Graphics and test material maintained with the official specification.
+- [Johan Nyman's OGraf Graphics](https://github.com/nytamin/ograf-graphics) – **Open source (MIT).** A community collection of OGraf example Graphics and experiments.
 
 ## Organizations & Communities
 
