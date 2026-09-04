@@ -63,6 +63,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Official Specification & Governance
 
+- [EBU HTML Graphics Working Group](https://tech.ebu.ch/groups/html_graphics) – The EBU group coordinating the open, interoperable HTML graphics work that includes OGraf.
+
 ### Graphics, Schemas & APIs
 
 ### Editors & Exporters
