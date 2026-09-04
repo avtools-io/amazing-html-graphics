@@ -105,6 +105,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [nxt-graphics](https://github.com/nxtedition/nxt-graphics) – **Source available; no licence asserted.** An OGraf host Graphic used in nxtedition editing and timeline workflows.
 - [ofxOGraf](https://github.com/Jonathhhan/ofxOGraf) – **Open source (MIT). Experimental.** openFrameworks authoring and runtime addon with native/Emscripten rendering, deterministic seeking, and an OGraf v1 Web Component.
 - [OGraf image-sequence renderer](https://github.com/pjaspinski/ograf-to-image-sequence-renderer) – **Open source (MIT). Experimental.** Small non-real-time renderer that saves an OGraf Graphic as a sequence of images.
+- [OGraf Simple Rendering System](https://github.com/SuperFlyTV/ograf-server) – **Open source (MIT).** Reference-oriented browser renderer, graphics manager, Server API implementation, and controller interface.
 
 ### Examples & Templates
 
