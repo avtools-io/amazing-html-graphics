@@ -94,6 +94,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OGraf Form](https://github.com/SuperFlyTV/ograf-form) – **Open source (MIT).** Web Component and npm package that generates operator forms from OGraf/GDD schemas.
 - [OGraf Graphics Skill](https://github.com/heretorecord/ograf-graphics-skill) – **Open source (MIT).** Agent skill for scaffolding, packaging, and validating OGraf v1 Graphics.
 - [OGraf Validator](https://github.com/Streamshapers/OGraf-Validator) – **Open source (MIT).** Web validator and reusable core package for checking OGraf package structure and manifests.
+- [ograf.dev Tools](https://ograf.dev/tools) – Independent browser-based package checker, runtime harness, and schema explorer for OGraf development.
 
 ### Renderers, Servers & Controllers
 
