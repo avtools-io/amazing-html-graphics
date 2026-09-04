@@ -185,6 +185,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [MapLibre Community](https://maplibre.org/community/) – Official community page linking project meetings, Slack, and contributor channels.
 - [Motion Canvas Discord](https://github.com/motion-canvas/motion-canvas/discussions) – Official chat community for Motion Canvas code-driven animation.
 - [NodeCG Community](https://github.com/nodecg/nodecg#community) – Official repository section linking the NodeCG Discord and support channels.
+- [PixiJS Discussions](https://github.com/pixijs/pixijs/discussions/) – Official discussion board for PixiJS rendering and development questions.
 
 ### Lists & Landscapes
 
