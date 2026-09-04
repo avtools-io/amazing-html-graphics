@@ -145,6 +145,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Henri Johansson's HTML5 Broadcast Graphics Thesis](https://www.theseus.fi/bitstream/10024/891614/2/Johansson_Henri.pdf) – 2025 thesis examining Yle workflows built around SPX, CasparCG, HTML, CSS, and JavaScript.
 - [Ismo Vaittinen's CasparCG Thesis](https://www.theseus.fi/bitstream/10024/113413/1/Vaittinen_Ismo.pdf) – 2016 thesis on an open-source graphics and video playout system for live production.
 - [Presentation Accuracy of the Web Revisited](https://doi.org/10.1371/journal.pone.0109812) – Peer-reviewed study of timing accuracy among HTML5-era browser animation methods.
+- [Television Infographics as Orienting Response](https://doi.org/10.1177/19312431211039500) – Peer-reviewed eye-tracking study of attention and recall around television infographics.
 
 ### Books
 
