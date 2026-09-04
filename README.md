@@ -276,6 +276,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Web Components & Graphics Libraries
 
 - [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
+- [Fabric.js](https://fabricjs.com/) – **Open source (MIT).** Interactive Canvas object model useful when building browser graphics editors.
 
 ### Data Visualization & Maps
 
