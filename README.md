@@ -170,6 +170,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Education & Tutorials
 
+- [H2R OGraf Import Guide](https://h2r.graphics/docs/graphics/ograf/) – Explains importing an OGraf Graphic and mapping its data schema to H2R operator controls.
+
 ### Forums & Community
 
 ### Lists & Landscapes
