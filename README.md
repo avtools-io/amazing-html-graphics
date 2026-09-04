@@ -371,6 +371,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Post-production & NLE Integration
 
+- [MXMZ](https://www.mxmz.com/products/nle-mam) – **Commercial.** HTML graphics authoring and operation with Premiere Pro panel and media-asset-management workflows.
+
 ### HTML-to-Video & Offline Rendering
 
 ### Interactive & Player-side Graphics
