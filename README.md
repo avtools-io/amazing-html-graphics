@@ -52,7 +52,7 @@ Software and product descriptions begin with availability/deployment labels: **O
   - [Post-production & NLE Integration](#post-production--nle-integration)
   - [HTML-to-Video & Offline Rendering](#html-to-video--offline-rendering)
   - [Interactive & Player-side Graphics](#interactive--player-side-graphics)
-  - [Templates, Marketplaces & Services](#templates-marketplaces--services)
+  - [Templates & Marketplaces](#templates--marketplaces)
   - [Related Animation, Graphics & Playout](#related-animation-graphics--playout)
 
 ## Contributors to This List
@@ -389,7 +389,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Ease Live](https://www.easelive.tv/) – **Commercial; hosted/SaaS.** Interactive, player-side sports and broadcast overlays delivered across viewing devices.
 - [HbbTV](https://www.hbbtv.org/) – Hybrid broadcast/broadband specifications and ecosystem for interactive television applications and synchronized web experiences.
 
-### Templates, Marketplaces & Services
+### Templates & Marketplaces
 
 - [LottieFiles](https://lottiefiles.com/) – **Commercial; hosted/SaaS with free tier.** Lottie asset marketplace, editor, optimizer, testing tools, and hosted services.
 - [SPX Graphics Store](https://spxgraphics.com/store/) – **Commercial marketplace.** Ready-made SPX HTML graphics templates and design services.
