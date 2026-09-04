@@ -400,4 +400,5 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [Aurena](https://github.com/thaytan/aurena) – **Source available; licence unclear.** Network-distributed media playback system carried over from Awesome Broadcasting.
 - [ffplayout](https://github.com/ffplayout/ffplayout) – **Open source (GPL-3.0).** FFmpeg- and Rust-based broadcast playout from folders and playlists.
+- [Macadam](https://github.com/Streampunk/macadam) – **Open source (Apache-2.0).** Node.js bindings for Blackmagic devices, with Electron and Sevruga paths for HTML/CSS/SVG graphics output.
 
