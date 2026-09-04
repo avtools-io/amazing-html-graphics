@@ -188,6 +188,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [PixiJS Discussions](https://github.com/pixijs/pixijs/discussions/) – Official discussion board for PixiJS rendering and development questions.
 - [Remotion Discord](https://www.remotion.dev/discord) – Official community chat for React-based video generation.
 - [Rive Community](https://community.rive.app/home) – Official discussion and support community for Rive authoring, runtimes, and integrations.
+- [SPX Graphics Support](https://spxgraphics.com/support/) – Support page linking SPX documentation, GitHub, and its public Discord community.
 
 ### Lists & Landscapes
 
