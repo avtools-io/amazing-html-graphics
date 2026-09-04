@@ -226,6 +226,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Advanced Media Control Protocol](https://github.com/CasparCG/help/wiki/AMCP-Protocol) – CasparCG command protocol used by many graphics controllers and automation systems.
 - [Ember+](https://github.com/Lawo/ember-plus) – Open control protocol and implementation resources used in broadcast systems; it does not define graphics templates.
 - [MOS Protocol](https://mosprotocol.com/) – Newsroom object, rundown, status, and control protocol; MOS does not itself define a portable HTML Graphic.
+- [NMOS IS-04](https://specs.amwa.tv/is-04/) – Discovery and registration for networked media nodes, devices, sources, flows, senders, and receivers.
 
 #### Web Platform
 
