@@ -143,6 +143,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [A Survey of Digital Television Interactivity Technologies](https://doi.org/10.3390/s22176542) – Peer-reviewed survey providing technical context for interactive television delivery and standards.
 - [Broadcast Media Creation as a Service](https://doi.org/10.5594/JMI.2020.3024028) – SMPTE paper on cloud-hosted, GPU-enabled media creation architecture.
 - [Henri Johansson's HTML5 Broadcast Graphics Thesis](https://www.theseus.fi/bitstream/10024/891614/2/Johansson_Henri.pdf) – 2025 thesis examining Yle workflows built around SPX, CasparCG, HTML, CSS, and JavaScript.
+- [Ismo Vaittinen's CasparCG Thesis](https://www.theseus.fi/bitstream/10024/113413/1/Vaittinen_Ismo.pdf) – 2016 thesis on an open-source graphics and video playout system for live production.
 
 ### Books
 
