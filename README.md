@@ -18,7 +18,6 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ## Contents
 
-- [Contributors to This List](#contributors-to-this-list)
 - [OGraf](#ograf)
   - [Official Specification & Governance](#official-specification--governance)
   - [Graphics, Schemas & APIs](#graphics-schemas--apis)
@@ -57,10 +56,6 @@ Software and product entries use bold labels to describe availability, delivery,
   - [HTML-to-Video & Offline Rendering](#html-to-video--offline-rendering)
   - [Interactive & Player-side Graphics](#interactive--player-side-graphics)
   - [Templates & Marketplaces](#templates--marketplaces)
-
-## Contributors to This List
-
-<!-- Contributors will be added here. -->
 
 ## OGraf
 
