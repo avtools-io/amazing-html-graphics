@@ -141,6 +141,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [A Cross-Device and Cross-OS Benchmark of Modern Web Animation Systems](https://doi.org/10.3390/jimaging12010045) – Peer-reviewed benchmark of modern web animation approaches across devices and operating systems.
 - [A Survey of Digital Television Interactivity Technologies](https://doi.org/10.3390/s22176542) – Peer-reviewed survey providing technical context for interactive television delivery and standards.
+- [Broadcast Media Creation as a Service](https://doi.org/10.5594/JMI.2020.3024028) – SMPTE paper on cloud-hosted, GPU-enabled media creation architecture.
 
 ### Books
 
