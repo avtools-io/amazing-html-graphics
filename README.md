@@ -323,6 +323,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Overlays.uno](https://overlays.uno/) – **Commercial; hosted/SaaS.** Browser-source overlay creation and control for streaming and live events.
 - [Poltergeist](https://poltergeist.cc/) – **Commercial; hosted/SaaS.** Collaborative browser dashboard for remotely controlling OBS Browser Source overlays.
 - [Singular.live](https://www.singular.live/) – **Commercial; hosted/SaaS.** Cloud authoring and client-side rendering platform for data-driven HTML graphics.
+- [Viz Flowics](https://support.flowics.com/en/articles/15393380-what-is-viz-flowics) – **Commercial; hosted/SaaS.** Cloud-native HTML5 graphics with data connectors, APIs, MOS, and broadcast output integrations.
 
 ### Browser-capable Production Hosts
 
