@@ -61,7 +61,7 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Official Specification & Governance
 
-- [EBU HTML Graphics Working Group](https://tech.ebu.ch/groups/html_graphics) – The EBU group coordinating the open, interoperable HTML graphics work that includes OGraf.
+- [EBU HTML Graphics Working Group](https://tech.ebu.ch/groups/html-graphics) – The EBU group coordinating the open, interoperable HTML graphics work that includes OGraf.
 - [EBU OGraf repository](https://github.com/ebu/ograf) – The canonical specification repository, including versioned documents, schemas, examples, changelogs, and public issue tracking.
 
 ### Graphics, Schemas & APIs
