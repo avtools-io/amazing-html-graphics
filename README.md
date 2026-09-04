@@ -290,6 +290,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Chart.js](https://www.chartjs.org/) – **Open source (MIT).** Canvas charting library for animated, responsive data graphics.
 - [D3](https://d3js.org/) – **Open source (ISC).** Low-level toolkit for binding data to DOM, SVG, and Canvas visualisations.
 - [everviz](https://www.everviz.com/) – **Commercial; hosted/SaaS.** No-code charts and maps platform with broadcast integrations including documented OGraf output.
+- [Leaflet](https://leafletjs.com/) – **Open source (BSD-2-Clause).** Lightweight interactive mapping library for location-based graphics.
 
 ### Typography & Font Handling
 
