@@ -316,12 +316,13 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Testing, Performance & Security
 
-- [Ajv](https://ajv.js.org/) – **Open source (MIT).** JSON Schema validator suitable for OGraf manifests, data, and generated operator forms.
-- [BackstopJS](https://github.com/garris/BackstopJS) – **Open source (MIT).** Browser screenshot regression testing for graphics at controlled viewports and states.
-- [DOMPurify](https://github.com/cure53/DOMPurify) – **Open source (Apache-2.0 OR MPL-2.0).** DOM-only sanitizer for untrusted operator, newsroom, and remote HTML data.
-- [JSON Forms](https://jsonforms.io/) – **Open source (MIT).** Schema-driven form framework applicable to graphics data-entry and control interfaces.
-- [Playwright](https://playwright.dev/) – **Open source (Apache-2.0).** Browser automation for lifecycle tests, screenshots, data extremes, and repeatable render checks.
-- [Puppeteer](https://pptr.dev/) – **Open source (Apache-2.0).** Chrome automation API used for testing, screenshots, and HTML-to-video capture workflows.
+- [Ajv](https://ajv.js.org/) – **Open source (MIT).** **Validation, integration.** JSON Schema validator suitable for OGraf manifests, graphics data, and generated operator forms.
+- [BackstopJS](https://github.com/garris/BackstopJS) – **Open source (MIT).** **Validation, rendering.** Browser screenshot regression testing for graphics at controlled viewports and states.
+- [DOMPurify](https://github.com/cure53/DOMPurify) – **Open source (Apache-2.0 OR MPL-2.0).** **Integration.** DOM sanitizer for untrusted operator, newsroom, and remote HTML data.
+- [JSON Forms](https://jsonforms.io/) – **Open source (MIT).** **Authoring, control, integration.** Schema-driven form framework for graphics data-entry and operator interfaces.
+- [pixelmatch](https://github.com/mapbox/pixelmatch) – **Open source (ISC).** **Validation, integration.** Pixel-level image comparison library for screenshot and rendered-frame regression tests.
+- [Playwright](https://playwright.dev/) – **Open source (Apache-2.0).** **Validation, rendering, integration.** Browser automation for lifecycle tests, screenshots, data extremes, and repeatable render checks.
+- [Puppeteer](https://pptr.dev/) – **Open source (Apache-2.0).** **Validation, rendering, integration.** Chrome automation API for tests, screenshots, and HTML-to-video capture workflows.
 
 ### Open-source Graphics Systems
 
