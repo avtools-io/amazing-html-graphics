@@ -291,6 +291,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [D3](https://d3js.org/) – **Open source (ISC).** Low-level toolkit for binding data to DOM, SVG, and Canvas visualisations.
 - [everviz](https://www.everviz.com/) – **Commercial; hosted/SaaS.** No-code charts and maps platform with broadcast integrations including documented OGraf output.
 - [Leaflet](https://leafletjs.com/) – **Open source (BSD-2-Clause).** Lightweight interactive mapping library for location-based graphics.
+- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) – **Open source (BSD-3-Clause).** GPU-accelerated vector maps for animated geographic and data-driven graphics.
 
 ### Typography & Font Handling
 
