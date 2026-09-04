@@ -302,6 +302,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Testing, Performance & Security
 
+- [Ajv](https://ajv.js.org/) – **Open source (MIT).** JSON Schema validator suitable for OGraf manifests, data, and generated operator forms.
+
 ### Open-source Graphics Systems
 
 ### Commercial & Cloud Graphics Platforms
