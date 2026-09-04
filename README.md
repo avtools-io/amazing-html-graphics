@@ -359,6 +359,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Bridge](https://github.com/SVT/bridge) – **Source available; no licence asserted.** Extensible SVT control client for real-time graphics systems.
 - [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) – **Open source (MIT).** Python GUI coordinating CasparCG playback and OBS Studio scene transitions.
 - [Cuez Automator](https://www.cuez.app/automator) – **Commercial; hosted/SaaS.** Rundown-driven automation with graphics and MOS connector workflows.
+- [Sofie MOS Connection](https://github.com/Sofie-Automation/sofie-mos-connection) – **Open source (MIT).** TypeScript implementation of MOS communications for newsroom and automation integrations.
 
 ### Sports, Data & Audience Graphics
 
