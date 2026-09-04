@@ -329,6 +329,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [LiveU Studio](https://www.liveu.tv/products/create/liveu-studio) – **Commercial; hosted/SaaS.** Cloud production switcher capable of using webpages as overlay sources.
 - [mimoLive Browser Capture](https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/) – **Commercial.** macOS live-production source that renders webpages and browser overlays.
+- [OBS Studio Browser Source](https://obsproject.com/kb/browser-source) – **Open source (GPL-2.0).** CEF-based source for loading local or remote HTML graphics; it can host an OGraf server renderer URL but does not import OGraf packages.
 
 ### Rendering, Key-Fill & Video Output
 
