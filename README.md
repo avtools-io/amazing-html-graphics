@@ -238,6 +238,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Content Security Policy](https://www.w3.org/TR/CSP3/) – Browser policy for restricting executable and fetched content in graphics that consume remote or untrusted data.
 - [CSS](https://www.w3.org/Style/CSS/) – W3C specifications and working-group material for layout, styling, transforms, masking, and animation.
 - [CSS Font Loading](https://drafts.csswg.org/css-font-loading/) – API specification for controlling and observing font loading.
+- [Custom Elements](https://html.spec.whatwg.org/multipage/custom-elements.html) – WHATWG lifecycle and registration model underlying the Web Components exported by OGraf Graphics.
 
 #### Media Transport, Colour & Safety
 
