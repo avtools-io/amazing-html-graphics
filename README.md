@@ -79,6 +79,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [AI Atelier](https://github.com/aiatelie/ai-atelie) – **Open source (MIT). Experimental OGraf support.** A local-first, agent-assisted HTML/JSX/CSS design environment with an OGraf export service.
 - [DJ HTML Creator](https://djhtmlcreator.com/) – **Commercial.** Visual HTML and Lottie graphics authoring with OGraf package export.
+- [Eyevinn OGraf Template Editor](https://github.com/Eyevinn/ograf-editor) – **Open source (MIT).** Browser-based visual editor with animation, data binding, preview, validation, and OGraf import/export.
 
 ### Development & Validation
 
