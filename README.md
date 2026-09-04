@@ -217,6 +217,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 #### Graphics & Template Interchange
 
 - [CasparCG HTML Template Interface](https://github.com/CasparCG/help/wiki/Template-Host-Commands) – The JavaScript host commands and callbacks used to control CasparCG HTML templates; it is not an OGraf package format.
+- [dotLottie Specification](https://dotlottie.io/spec/) – Defines an archive format for bundling one or more Lottie animations with metadata and assets.
 
 #### Newsroom, Automation & Control
 
