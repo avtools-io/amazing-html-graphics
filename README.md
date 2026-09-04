@@ -207,6 +207,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OGraf](https://www.youtube.com/watch?v=gw2SnjeGW9Q) – OGraf EBU, 4:54 — concise overview of the specification and workflow.
 - [OGraf Maps in Erizos Studio](https://www.youtube.com/watch?v=-S_gBYPyCiw) – everviz, 0:13 — short demonstration of an OGraf map in Erizos Studio.
 - [OGraf with SPX and Loopic](https://www.youtube.com/watch?v=P6VEWyv7-P0) – SPX Graphics, 1:43 — demonstrates moving a Loopic-authored OGraf Graphic into SPX.
+- [OGraf: An Open Specification for HTML-Based Graphics](https://www.youtube.com/watch?v=6IMGzvxe1AY) – smpteconnect, 42:47 — detailed technical presentation of OGraf.
 
 ### Standards, Specifications & Protocols
 
