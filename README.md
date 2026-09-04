@@ -344,12 +344,14 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Browser-capable Production Hosts
 
-- [LiveU Studio](https://www.liveu.tv/products/create/liveu-studio) – **Commercial; hosted/SaaS.** Cloud production switcher capable of using webpages as overlay sources.
-- [mimoLive Browser Capture](https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/) – **Commercial.** macOS live-production source that renders webpages and browser overlays.
-- [OBS Studio Browser Source](https://obsproject.com/kb/browser-source) – **Open source (GPL-2.0).** CEF-based source for loading local or remote HTML graphics; it can host an OGraf server renderer URL but does not import OGraf packages.
-- [TriCaster](https://www.vizrt.com/products/tricaster/) – **Commercial.** Live-production systems with HTML/browser graphics workflows through HTML Buffer and LiveLink integrations.
-- [vMix Web Browser Input](https://www.vmix.com/help28/WebBrowser.html) – **Commercial.** Chromium webpage input for HTML overlays; hosting a renderer URL is not direct OGraf package support.
-- [Wirecast](https://support.telestream.net/s/article/Wirecast-Web-Display) – **Commercial.** Live-production application with web page and web display sources for browser graphics.
+- [Ecamm Live](https://support.ecamm.com/en/articles/3323618-using-overlays) – **Commercial.** **Integration, rendering.** macOS live-production application whose Widget Overlays load web URLs or local HTML and JavaScript files.
+- [LiveU Studio](https://studiosupport.liveu.tv/hc/en-us/articles/17094646501659-Web-Page) – **Commercial; hosted/SaaS.** **Integration, rendering.** Cloud production switcher that accepts webpages as transparent HTML overlay sources.
+- [mimoLive Browser Capture](https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/) – **Commercial.** **Integration, rendering.** macOS live-production source that renders webpages and browser overlays.
+- [OBS Studio Browser Source](https://obsproject.com/kb/browser-source) – **Open source (GPL-2.0).** **Integration, rendering.** CEF source for local or remote HTML graphics; it can load an OGraf server renderer URL but does not import OGraf packages.
+- [TriCaster](https://www.vizrt.com/products/tricaster/) – **Commercial.** **Integration, rendering.** Live-production systems with webpage graphics workflows through HTML Buffer and Live Link integrations.
+- [vMix Web Browser Input](https://www.vmix.com/help29/WebBrowser.html) – **Commercial.** **Integration, rendering.** Chromium webpage input for HTML overlays; loading a renderer URL is not direct OGraf package support.
+- [Wirecast](https://support.telestream.net/s/article/Wirecast-Web-Display) – **Commercial.** **Integration, rendering.** Live-production application with web page and web display sources for browser graphics.
+- [XSplit Broadcaster](https://support.xsplit.com/en/article/webpage-1y1l6v/) – **Commercial; free edition available.** **Integration, rendering.** Windows live-production application with an interactive webpage source and custom CSS and JavaScript settings.
 
 ### Rendering, Key-Fill & Video Output
 
