@@ -254,6 +254,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [EBU R 95](https://tech.ebu.ch/publications/r095) – Safe-area recommendations for 16:9 television production across SD, HD, and UHD.
 - [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020) – UHDTV picture parameters and wide-colour-gamut primaries.
 - [ITU-R BT.2100](https://www.itu.int/rec/R-REC-BT.2100) – HDR television image parameters for PQ and HLG workflows.
+- [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709) – HDTV picture characteristics and colourimetry commonly targeted by broadcast graphics.
 
 ## Tools & Products
 
