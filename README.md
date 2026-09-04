@@ -361,6 +361,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Cuez Automator](https://www.cuez.app/automator) – **Commercial; hosted/SaaS.** Rundown-driven automation with graphics and MOS connector workflows.
 - [Sofie MOS Connection](https://github.com/Sofie-Automation/sofie-mos-connection) – **Open source (MIT).** TypeScript implementation of MOS communications for newsroom and automation integrations.
 - [Sofie TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) – **Open source (MIT).** Rundown and device automation system with MOS and graphics integrations.
+- [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) – **Source available; licence unclear.** Desktop playout client controlling CasparCG, OBS, vMix, ATEM, OSC, and HTTP devices.
 
 ### Sports, Data & Audience Graphics
 
