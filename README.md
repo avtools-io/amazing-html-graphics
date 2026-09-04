@@ -319,6 +319,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 - [Dizplai](https://www.dizplai.com/) – **Commercial; hosted/SaaS.** Cloud live graphics, audience engagement, and data integration platform.
 - [Grabyo Producer](https://about.grabyo.com/live-cloud-production/) – **Commercial; hosted/SaaS.** Browser-based live production platform with HTML graphics and third-party graphics integrations.
+- [Grass Valley AMPP](https://www.grassvalley.com/products/cloud-based-workflows/ampp/) – **Commercial; hosted and deployable services.** Cloud production and playout platform with HTML5 graphics applications.
 
 ### Browser-capable Production Hosts
 
