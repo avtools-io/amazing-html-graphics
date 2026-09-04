@@ -282,14 +282,14 @@ Software and product entries use bold labels to describe availability, delivery,
 
 ### Web Components & Graphics Libraries
 
-- [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
-- [Fabric.js](https://fabricjs.com/) – **Open source (MIT).** Interactive Canvas object model useful when building browser graphics editors.
-- [FAST](https://www.fast.design/) – **Open source (MIT).** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
-- [Konva](https://konvajs.org/) – **Open source (MIT).** Canvas framework for interactive 2D scene graphs and editor interfaces.
-- [Lit](https://lit.dev/) – **Open source (BSD-3-Clause).** Lightweight library for standards-based Web Components, directly applicable to OGraf Graphic entry components.
-- [PixiJS](https://pixijs.com/) – **Open source (MIT).** GPU-accelerated 2D rendering engine for performant, data-driven browser graphics; integrates with GSAP through PixiPlugin.
-- [Stencil](https://stenciljs.com/) – **Open source (MIT).** Compiler and toolchain for reusable standards-based Web Components.
-- [Three.js](https://threejs.org/) – **Open source (MIT).** WebGL/WebGPU 3D library for real-time browser graphics and data visualisation.
+- [Babylon.js](https://www.babylonjs.com/) – **Open source (Apache-2.0).** **Rendering, integration.** WebGL/WebGPU 3D engine for browser-rendered virtual sets, explainers, and motion graphics.
+- [Fabric.js](https://fabricjs.com/) – **Open source (MIT).** **Authoring, rendering, integration.** Interactive Canvas object model for building browser graphics editors and compositors.
+- [FAST](https://www.fast.design/) – **Open source (MIT).** **Authoring, integration.** Standards-based Web Component libraries and tooling applicable to OGraf component authoring.
+- [Konva](https://konvajs.org/) – **Open source (MIT).** **Authoring, rendering, integration.** Canvas framework for interactive 2D scene graphs and graphics-editor interfaces.
+- [Lit](https://lit.dev/) – **Open source (BSD-3-Clause).** **Authoring, integration.** Lightweight library for standards-based Web Components, directly applicable to OGraf Graphic entry components.
+- [PixiJS](https://pixijs.com/) – **Open source (MIT).** **Rendering, integration.** GPU-accelerated 2D engine for performant, data-driven browser graphics, with GSAP integration through PixiPlugin.
+- [Stencil](https://stenciljs.com/) – **Open source (MIT).** **Authoring, integration.** Compiler and toolchain for reusable standards-based Web Components.
+- [Three.js](https://threejs.org/) – **Open source (MIT).** **Rendering, integration.** WebGL/WebGPU 3D library for real-time browser graphics and data visualisation.
 
 ### Data Visualization & Maps
 
