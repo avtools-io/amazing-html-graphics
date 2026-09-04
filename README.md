@@ -351,6 +351,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Softron OnTheAir WebLink](https://softron.tv/products/ontheair-weblink) – **Commercial.** Renders webpages to broadcast video with fill-and-key output options.
 - [Videon LiveEdge Graphix](https://videonlabs.com/liveedge-graphix) – **Commercial.** Edge HTML graphics insertion for live streams; verify edition and frame-rate limits for the intended deployment.
 - [Vindral Composer](https://vindral.com/products/composer) – **Commercial; hosted/SaaS.** Browser-based graphics compositor for low-latency live-stream overlays.
+- [Viz Connect Tetra](https://www.vizrt.com/products/viz-connect-tetra/) – **Commercial.** Broadcast connectivity appliance that can turn supported graphics sources into SDI or IP outputs.
 
 ### Newsroom, Rundown & Automation
 
