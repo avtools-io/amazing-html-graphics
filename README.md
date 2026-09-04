@@ -287,6 +287,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Data Visualization & Maps
 
 - [Apache ECharts](https://echarts.apache.org/) – **Open source (Apache-2.0).** Canvas/SVG charting library for dashboards, explainers, elections, weather, and sports data.
+- [Chart.js](https://www.chartjs.org/) – **Open source (MIT).** Canvas charting library for animated, responsive data graphics.
 
 ### Typography & Font Handling
 
