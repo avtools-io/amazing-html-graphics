@@ -356,6 +356,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Newsroom, Rundown & Automation
 
 - [Bitfocus Companion](https://bitfocus.io/companion) – **Open core.** Button-surface control and automation system with modules for graphics, streaming, and playout products.
+- [Bridge](https://github.com/SVT/bridge) – **Source available; no licence asserted.** Extensible SVT control client for real-time graphics systems.
 
 ### Sports, Data & Audience Graphics
 
