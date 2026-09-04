@@ -216,6 +216,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 #### Graphics & Template Interchange
 
+- [CasparCG HTML Template Interface](https://github.com/CasparCG/help/wiki/Template-Host-Commands) – The JavaScript host commands and callbacks used to control CasparCG HTML templates; it is not an OGraf package format.
+
 #### Newsroom, Automation & Control
 
 #### Web Platform
