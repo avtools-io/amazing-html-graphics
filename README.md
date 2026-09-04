@@ -337,6 +337,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Rendering, Key-Fill & Video Output
 
 - [Aveco CGManager](https://www.aveco.com/en/) – **Commercial.** Broadcast graphics management and playout integration with HTML template workflows.
+- [AWS Elemental Live](https://aws.amazon.com/elemental-live/) – **Commercial.** On-premises live encoder that can burn continuously published HTML5 motion overlays into outputs.
 
 ### Newsroom, Rundown & Automation
 
