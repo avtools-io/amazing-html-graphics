@@ -146,6 +146,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Ismo Vaittinen's CasparCG Thesis](https://www.theseus.fi/bitstream/10024/113413/1/Vaittinen_Ismo.pdf) – 2016 thesis on an open-source graphics and video playout system for live production.
 - [Presentation Accuracy of the Web Revisited](https://doi.org/10.1371/journal.pone.0109812) – Peer-reviewed study of timing accuracy among HTML5-era browser animation methods.
 - [Television Infographics as Orienting Response](https://doi.org/10.1177/19312431211039500) – Peer-reviewed eye-tracking study of attention and recall around television infographics.
+- [Titling for Live Streaming and File-Based Broadcast Workflows](https://doi.org/10.5594/M001731) – SMPTE conference paper on reusable, data-driven titling across live and file-based outputs.
 
 ### Books
 
