@@ -386,6 +386,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Interactive & Player-side Graphics
 
+- [Ease Live](https://www.easelive.tv/) – **Commercial; hosted/SaaS.** Interactive, player-side sports and broadcast overlays delivered across viewing devices.
+
 ### Templates, Marketplaces & Services
 
 ### Related Animation, Graphics & Playout
