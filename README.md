@@ -176,6 +176,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Forums & Community
 
+- [CasparCG Forum](https://casparcgforum.org/) – Community support forum for CasparCG playout, HTML templates, clients, and integrations.
+
 ### Lists & Landscapes
 
 ### Videos & Talks
