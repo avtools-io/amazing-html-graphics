@@ -341,6 +341,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [AWS Elemental MediaLive](https://aws.amazon.com/medialive/) – **Commercial; hosted/SaaS.** Managed live encoding service with HTML5 motion-overlay support.
 - [Crystal Vision M-WEBKEY](https://crystalvision.tv/products/m-webkey.html) – **Commercial.** Hardware web-page keyer providing SDI fill/key and composited output.
 - [Etere ETX](https://www.etere.com/) – **Commercial.** Channel-in-a-box and graphics engine supporting HTML5/WebGL graphics.
+- [gstcefsrc](https://github.com/centricular/gstcefsrc) – **Open source (LGPL-2.1).** GStreamer source element wrapping CEF to turn HTML and JavaScript pages into video and audio streams; it is a building block rather than an OGraf server.
 
 ### Newsroom, Rundown & Automation
 
