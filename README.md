@@ -86,6 +86,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [OGraf Studio](https://github.com/zerodensity/ograf-studio) – **Open source (AGPL-3.0).** Visual OGraf editor with runtime, validation, export, and optional AI/MCP-assisted authoring packages.
 - [Rive OGraf Wrapper](https://github.com/cndgfxteam/rive-ograf-wrapper) – **Source available; no licence asserted. Experimental.** Web application that converts Rive files into OGraf Graphics with documented runtime limitations.
 - [StreamShapers Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) – **Open source (AGPL-3.0).** Converts Lottie JSON and After Effects exports into HTML templates and OGraf packages.
+- [StreamShapers OGraf Export](https://www.streamshapers.com/ae-extension/) – **Commercial; announced.** After Effects extension combining Lottie preflight, rendering, embedded Ferryman configuration, and OGraf export; the vendor says availability is planned for summer 2026.
 
 ### Development & Validation
 
