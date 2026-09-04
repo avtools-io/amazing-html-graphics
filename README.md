@@ -293,6 +293,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [Leaflet](https://leafletjs.com/) – **Open source (BSD-2-Clause).** Lightweight interactive mapping library for location-based graphics.
 - [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) – **Open source (BSD-3-Clause).** GPU-accelerated vector maps for animated geographic and data-driven graphics.
 - [Turf](https://turfjs.org/) – **Open source (MIT).** Geospatial analysis functions for preparing and animating map data in JavaScript.
+- [Vega-Lite](https://vega.github.io/vega-lite/) – **Open source (BSD-3-Clause).** Declarative grammar for repeatable, data-driven statistical graphics.
 
 ### Typography & Font Handling
 
