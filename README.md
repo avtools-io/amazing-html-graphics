@@ -77,6 +77,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Editors & Exporters
 
+- [AI Atelier](https://github.com/aiatelie/ai-atelie) – **Open source (MIT). Experimental OGraf support.** A local-first, agent-assisted HTML/JSX/CSS design environment with an OGraf export service.
+
 ### Development & Validation
 
 ### Renderers, Servers & Controllers
