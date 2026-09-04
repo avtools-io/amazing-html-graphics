@@ -183,6 +183,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 - [GSAP Community](https://gsap.com/community/) – Official support forums and community resources for GSAP animation.
 - [LottieFiles Forum](https://forum.lottiefiles.com/) – Community support for Lottie authoring, rendering, formats, and integrations.
 - [MapLibre Community](https://maplibre.org/community/) – Official community page linking project meetings, Slack, and contributor channels.
+- [Motion Canvas Discord](https://github.com/motion-canvas/motion-canvas/discussions) – Official chat community for Motion Canvas code-driven animation.
 
 ### Lists & Landscapes
 
