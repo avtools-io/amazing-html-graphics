@@ -151,6 +151,8 @@ Software and product descriptions begin with availability/deployment labels: **O
 
 ### Books
 
+- [Broadcast Graphics on the Spot](https://search.worldcat.org/title/61711466) – Practical broadcast and post-production graphics techniques using Photoshop and After Effects.
+
 ### Documentation & Knowledge Sources
 
 ### Education & Tutorials
