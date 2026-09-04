@@ -328,6 +328,7 @@ Software and product descriptions begin with availability/deployment labels: **O
 ### Browser-capable Production Hosts
 
 - [LiveU Studio](https://www.liveu.tv/products/create/liveu-studio) – **Commercial; hosted/SaaS.** Cloud production switcher capable of using webpages as overlay sources.
+- [mimoLive Browser Capture](https://mimolive.com/user-manual/sources-input/screen-sources/web-browser-capture/) – **Commercial.** macOS live-production source that renders webpages and browser overlays.
 
 ### Rendering, Key-Fill & Video Output
 
